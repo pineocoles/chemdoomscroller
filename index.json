@@ -1,0 +1,552 @@
+{
+  "units": [
+    {
+      "name": "Unit 1 - Stoichiometric Relationships",
+      "topics": [
+        {
+          "name": "Intro To Particulate Nature",
+          "path": "qae/unit01-stoichiometric-relationships/intro-to-particulate-nature",
+          "files": [
+            "q01.json",
+            "q02.json",
+            "q03.json",
+            "q04.json",
+            "q05.json",
+            "q06.json",
+            "q07.json",
+            "q08.json",
+            "q09.json",
+            "q10.json"
+          ],
+          "count": 10
+        },
+        {
+          "name": "Reacting Masses And Volumes",
+          "path": "qae/unit01-stoichiometric-relationships/reacting-masses-and-volumes",
+          "files": [
+            "q01.json",
+            "q02.json",
+            "q03.json",
+            "q04.json",
+            "q05.json",
+            "q06.json",
+            "q07.json",
+            "q08.json",
+            "q09.json",
+            "q10.json"
+          ],
+          "count": 10
+        },
+        {
+          "name": "The Mole Concept",
+          "path": "qae/unit01-stoichiometric-relationships/the-mole-concept",
+          "files": [
+            "q01.json",
+            "q02.json",
+            "q03.json",
+            "q04.json",
+            "q05.json",
+            "q06.json",
+            "q07.json",
+            "q08.json",
+            "q09.json",
+            "q10.json"
+          ],
+          "count": 10
+        }
+      ]
+    },
+    {
+      "name": "Unit 2 - Atomic Structure",
+      "topics": [
+        {
+          "name": "Electron Configuration",
+          "path": "qae/unit02-atomic-structure/electron-configuration",
+          "files": [
+            "q01.json",
+            "q02.json",
+            "q03.json",
+            "q04.json",
+            "q05.json",
+            "q06.json",
+            "q07.json",
+            "q08.json",
+            "q09.json",
+            "q10.json"
+          ],
+          "count": 10
+        },
+        {
+          "name": "The Nuclear Atom",
+          "path": "qae/unit02-atomic-structure/the-nuclear-atom",
+          "files": [
+            "q01.json",
+            "q02.json",
+            "q03.json",
+            "q04.json",
+            "q05.json",
+            "q06.json",
+            "q07.json",
+            "q08.json",
+            "q09.json",
+            "q10.json"
+          ],
+          "count": 10
+        }
+      ]
+    },
+    {
+      "name": "Unit 3 - Periodicity",
+      "topics": [
+        {
+          "name": "Periodic Table",
+          "path": "qae/unit03-periodicity/periodic-table",
+          "files": [
+            "q01.json",
+            "q02.json",
+            "q03.json",
+            "q04.json",
+            "q05.json",
+            "q06.json",
+            "q07.json",
+            "q08.json",
+            "q09.json",
+            "q10.json"
+          ],
+          "count": 10
+        },
+        {
+          "name": "Periodic Trends",
+          "path": "qae/unit03-periodicity/periodic-trends",
+          "files": [
+            "q01.json",
+            "q02.json",
+            "q03.json",
+            "q04.json",
+            "q05.json",
+            "q06.json",
+            "q07.json",
+            "q08.json",
+            "q09.json",
+            "q10.json"
+          ],
+          "count": 10
+        }
+      ]
+    },
+    {
+      "name": "Unit 4 - Chemical Bonding And Structure",
+      "topics": [
+        {
+          "name": "Covalent Bonding",
+          "path": "qae/unit04-chemical-bonding-and-structure/covalent-bonding",
+          "files": [
+            "q01.json",
+            "q02.json",
+            "q03.json",
+            "q04.json",
+            "q05.json",
+            "q06.json",
+            "q07.json",
+            "q08.json",
+            "q09.json",
+            "q10.json"
+          ],
+          "count": 10
+        },
+        {
+          "name": "Covalent Structures",
+          "path": "qae/unit04-chemical-bonding-and-structure/covalent-structures",
+          "files": [
+            "q01.json",
+            "q02.json",
+            "q03.json",
+            "q04.json",
+            "q05.json",
+            "q06.json",
+            "q07.json",
+            "q08.json",
+            "q09.json",
+            "q10.json"
+          ],
+          "count": 10
+        },
+        {
+          "name": "Intermolecular Forces",
+          "path": "qae/unit04-chemical-bonding-and-structure/intermolecular-forces",
+          "files": [
+            "q01.json",
+            "q02.json",
+            "q03.json",
+            "q04.json",
+            "q05.json",
+            "q06.json",
+            "q07.json",
+            "q08.json",
+            "q09.json",
+            "q10.json"
+          ],
+          "count": 10
+        },
+        {
+          "name": "Ionic Bonding",
+          "path": "qae/unit04-chemical-bonding-and-structure/ionic-bonding",
+          "files": [
+            "q01.json",
+            "q02.json",
+            "q03.json",
+            "q04.json",
+            "q05.json",
+            "q06.json",
+            "q07.json",
+            "q08.json",
+            "q09.json",
+            "q10.json"
+          ],
+          "count": 10
+        },
+        {
+          "name": "Metallic Bonding",
+          "path": "qae/unit04-chemical-bonding-and-structure/metallic-bonding",
+          "files": [
+            "q01.json",
+            "q02.json",
+            "q03.json",
+            "q04.json",
+            "q05.json",
+            "q06.json",
+            "q07.json",
+            "q08.json",
+            "q09.json",
+            "q10.json"
+          ],
+          "count": 10
+        }
+      ]
+    },
+    {
+      "name": "Unit 5 - Energetics Thermochemistry",
+      "topics": [
+        {
+          "name": "Bond Enthalpies",
+          "path": "qae/unit05-energetics-thermochemistry/bond-enthalpies",
+          "files": [
+            "q01.json",
+            "q02.json",
+            "q03.json",
+            "q04.json",
+            "q05.json",
+            "q06.json",
+            "q07.json",
+            "q08.json",
+            "q09.json",
+            "q10.json"
+          ],
+          "count": 10
+        },
+        {
+          "name": "Hess's Law",
+          "path": "qae/unit05-energetics-thermochemistry/hess-law",
+          "files": [
+            "q01.json",
+            "q02.json",
+            "q03.json",
+            "q04.json",
+            "q05.json",
+            "q06.json",
+            "q07.json",
+            "q08.json",
+            "q09.json",
+            "q10.json"
+          ],
+          "count": 10
+        },
+        {
+          "name": "Measuring Energy Changes",
+          "path": "qae/unit05-energetics-thermochemistry/measuring-energy-changes",
+          "files": [
+            "q01.json",
+            "q02.json",
+            "q03.json",
+            "q04.json",
+            "q05.json",
+            "q06.json",
+            "q07.json",
+            "q08.json",
+            "q09.json",
+            "q10.json"
+          ],
+          "count": 10
+        }
+      ]
+    },
+    {
+      "name": "Unit 6 - Chemical Kinetics",
+      "topics": [
+        {
+          "name": "Collision Theory And Rates",
+          "path": "qae/unit06-chemical-kinetics/collision-theory-and-rates",
+          "files": [
+            "q01.json",
+            "q02.json",
+            "q03.json",
+            "q04.json",
+            "q05.json",
+            "q06.json",
+            "q07.json",
+            "q08.json",
+            "q09.json",
+            "q10.json"
+          ],
+          "count": 10
+        }
+      ]
+    },
+    {
+      "name": "Unit 7 - Equilibrium",
+      "topics": [
+        {
+          "name": "Equilibrium",
+          "path": "qae/unit07-equilibrium/equilibrium",
+          "files": [
+            "q01.json",
+            "q02.json",
+            "q03.json",
+            "q04.json",
+            "q05.json",
+            "q06.json",
+            "q07.json",
+            "q08.json",
+            "q09.json",
+            "q10.json"
+          ],
+          "count": 10
+        }
+      ]
+    },
+    {
+      "name": "Unit 8 - Acids And Bases",
+      "topics": [
+        {
+          "name": "Acid Deposition",
+          "path": "qae/unit08-acids-and-bases/acid-deposition",
+          "files": [
+            "q01.json",
+            "q02.json",
+            "q03.json",
+            "q04.json",
+            "q05.json",
+            "q06.json",
+            "q07.json",
+            "q08.json",
+            "q09.json",
+            "q10.json"
+          ],
+          "count": 10
+        },
+        {
+          "name": "Properties Of Acids And Bases",
+          "path": "qae/unit08-acids-and-bases/properties-of-acids-and-bases",
+          "files": [
+            "q01.json",
+            "q02.json",
+            "q03.json",
+            "q04.json",
+            "q05.json",
+            "q06.json",
+            "q07.json",
+            "q08.json",
+            "q09.json",
+            "q10.json"
+          ],
+          "count": 10
+        },
+        {
+          "name": "Strong And Weak Acids And Bases",
+          "path": "qae/unit08-acids-and-bases/strong-and-weak-acids-and-bases",
+          "files": [
+            "q01.json",
+            "q02.json",
+            "q03.json",
+            "q04.json",
+            "q05.json",
+            "q06.json",
+            "q07.json",
+            "q08.json",
+            "q09.json",
+            "q10.json"
+          ],
+          "count": 10
+        },
+        {
+          "name": "The pH Scale",
+          "path": "qae/unit08-acids-and-bases/the-ph-scale",
+          "files": [
+            "q01.json",
+            "q02.json",
+            "q03.json",
+            "q04.json",
+            "q05.json",
+            "q06.json",
+            "q07.json",
+            "q08.json",
+            "q09.json",
+            "q10.json"
+          ],
+          "count": 10
+        },
+        {
+          "name": "Theories Of Acids And Bases",
+          "path": "qae/unit08-acids-and-bases/theories-of-acids-and-bases",
+          "files": [
+            "q01.json",
+            "q02.json",
+            "q03.json",
+            "q04.json",
+            "q05.json",
+            "q06.json",
+            "q07.json",
+            "q08.json",
+            "q09.json",
+            "q10.json"
+          ],
+          "count": 10
+        }
+      ]
+    },
+    {
+      "name": "Unit 9 - Redox Processes",
+      "topics": [
+        {
+          "name": "Electrochemical Cells",
+          "path": "qae/unit09-redox-processes/electrochemical-cells",
+          "files": [
+            "q01.json",
+            "q02.json",
+            "q03.json",
+            "q04.json",
+            "q05.json",
+            "q06.json",
+            "q07.json",
+            "q08.json",
+            "q09.json",
+            "q10.json"
+          ],
+          "count": 10
+        },
+        {
+          "name": "Oxidation And Reduction",
+          "path": "qae/unit09-redox-processes/oxidation-and-reduction",
+          "files": [
+            "q01.json",
+            "q02.json",
+            "q03.json",
+            "q04.json",
+            "q05.json",
+            "q06.json",
+            "q07.json",
+            "q08.json",
+            "q09.json",
+            "q10.json"
+          ],
+          "count": 10
+        }
+      ]
+    },
+    {
+      "name": "Unit 10 - Organic Chemistry",
+      "topics": [
+        {
+          "name": "Functional Group Chemistry",
+          "path": "qae/unit10-organic-chemistry/functional-group-chemistry",
+          "files": [
+            "q01.json",
+            "q02.json",
+            "q03.json",
+            "q04.json",
+            "q05.json",
+            "q06.json",
+            "q07.json",
+            "q08.json",
+            "q09.json",
+            "q10.json"
+          ],
+          "count": 10
+        },
+        {
+          "name": "Fundamentals Of Organic",
+          "path": "qae/unit10-organic-chemistry/fundamentals-of-organic",
+          "files": [
+            "q01.json",
+            "q02.json",
+            "q03.json",
+            "q04.json",
+            "q05.json",
+            "q06.json",
+            "q07.json",
+            "q08.json",
+            "q09.json",
+            "q10.json"
+          ],
+          "count": 10
+        }
+      ]
+    },
+    {
+      "name": "Unit 11 - Measurement And Data Processing",
+      "topics": [
+        {
+          "name": "Graphical Techniques",
+          "path": "qae/unit11-measurement-and-data-processing/graphical-techniques",
+          "files": [
+            "q01.json",
+            "q02.json",
+            "q03.json",
+            "q04.json",
+            "q05.json",
+            "q06.json",
+            "q07.json",
+            "q08.json",
+            "q09.json",
+            "q10.json"
+          ],
+          "count": 10
+        },
+        {
+          "name": "Spectroscopic Identification",
+          "path": "qae/unit11-measurement-and-data-processing/spectroscopic-identification",
+          "files": [
+            "q01.json",
+            "q02.json",
+            "q03.json",
+            "q04.json",
+            "q05.json",
+            "q06.json",
+            "q07.json",
+            "q08.json",
+            "q09.json",
+            "q10.json"
+          ],
+          "count": 10
+        },
+        {
+          "name": "Uncertainties And Errors",
+          "path": "qae/unit11-measurement-and-data-processing/uncertainties-and-errors",
+          "files": [
+            "q01.json",
+            "q02.json",
+            "q03.json",
+            "q04.json",
+            "q05.json",
+            "q06.json",
+            "q07.json",
+            "q08.json",
+            "q09.json",
+            "q10.json"
+          ],
+          "count": 10
+        }
+      ]
+    }
+  ]
+}
