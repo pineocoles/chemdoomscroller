@@ -134,6 +134,23 @@ async function fetchQuestion(entry) {
 }
 
 // ============================================================
+// shuffle answer options for a single question
+// ============================================================
+function shuffleAnswers(data) {
+  const n = data.options.length;
+  const order = Array.from({ length: n }, (_, i) => i);
+  for (let i = n - 1; i > 0; i--) {
+    const k = Math.floor(Math.random() * (i + 1));
+    [order[i], order[k]] = [order[k], order[i]];
+  }
+  return {
+    q: data.q,
+    options: order.map(i => data.options[i]),
+    correct: order.indexOf(data.correct),
+    explanation: data.explanation,
+  };
+}
+// ============================================================
 // render
 // ============================================================
 async function appendQuestions(n) {
@@ -155,7 +172,8 @@ async function appendQuestions(n) {
       }, true));
       continue;
     }
-    feed.appendChild(buildCard(entry, data, false));
+    const shuffled = shuffleAnswers(data);
+    feed.appendChild(buildCard(entry, shuffled, false));
   }
 }
 
