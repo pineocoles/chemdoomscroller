@@ -1,0 +1,15 @@
+{
+  "id": "Q189",
+  "unit": 19,
+  "unit_name": "Group Trends",
+  "topic": "Diagonals",
+  "question": "Which pair shows diagonal relationship?",
+  "options": {
+    "A": "Li and Na",
+    "B": "Be and Al",
+    "C": "B and Si",
+    "D": "C and S"
+  },
+  "answer": "B",
+  "explanation": "Diagonal relationships occur in periods 2-3. Be\u2248Al, B\u2248Si, C\u2248P. Similar charge density causes similar properties."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "Q117",
+  "unit": 12,
+  "unit_name": "Electrochemistry",
+  "topic": "Nernst Equation",
+  "question": "What is the Nernst equation used for?",
+  "options": {
+    "A": "Calculating pH",
+    "B": "Calculating cell potential under non-standard conditions",
+    "C": "Measuring temperature",
+    "D": "Finding concentration"
+  },
+  "answer": "B",
+  "explanation": "Nernst equation: E = E\u00b0 - (0.0592/n)log(Q). It calculates cell potential when concentrations differ from standard."
+}

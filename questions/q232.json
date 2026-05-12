@@ -1,0 +1,15 @@
+{
+  "id": "Q232",
+  "unit": 24,
+  "unit_name": "Advanced Equilibrium",
+  "topic": "Henderson-Hasselbalch",
+  "question": "What does Henderson-Hasselbalch equation calculate?",
+  "options": {
+    "A": "Buffer volume",
+    "B": "pH of buffer solution",
+    "C": "Buffer capacity",
+    "D": "Dissociation constant"
+  },
+  "answer": "B",
+  "explanation": "pH = pKa + log([A\u207b]/[HA]). Calculates pH of buffer. When [A\u207b] = [HA], pH = pKa."
+}

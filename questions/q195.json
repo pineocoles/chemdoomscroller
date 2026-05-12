@@ -1,0 +1,15 @@
+{
+  "id": "Q195",
+  "unit": 20,
+  "unit_name": "Bonding Concepts",
+  "topic": "Bond Strength",
+  "question": "Which bond is strongest?",
+  "options": {
+    "A": "Single bond",
+    "B": "Double bond",
+    "C": "Triple bond",
+    "D": "Ionic bond"
+  },
+  "answer": "C",
+  "explanation": "Bond strength: triple > double > single. Triple bond has 6 bonded electrons, highest bond dissociation energy."
+}

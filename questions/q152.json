@@ -1,0 +1,15 @@
+{
+  "id": "Q152",
+  "unit": 16,
+  "unit_name": "Advanced Topics",
+  "topic": "VSEPR Geometry",
+  "question": "What is geometry of NH\u2084\u207a?",
+  "options": {
+    "A": "Trigonal pyramidal",
+    "B": "Tetrahedral",
+    "C": "Bent",
+    "D": "Linear"
+  },
+  "answer": "B",
+  "explanation": "NH\u2084\u207a has 4 bonding pairs, no lone pairs. Tetrahedral geometry with H-N-H angles of 109.5\u00b0."
+}

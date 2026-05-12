@@ -1,0 +1,15 @@
+{
+  "id": "Q246",
+  "unit": 25,
+  "unit_name": "Spectroscopy Basics",
+  "topic": "Auxochrome",
+  "question": "What is an auxochrome?",
+  "options": {
+    "A": "Colored group",
+    "B": "Group enhancing chromophore absorption",
+    "C": "Measuring instrument",
+    "D": "Light source"
+  },
+  "answer": "B",
+  "explanation": "Auxochrome (NH\u2082, OH, OR) enhances chromophore absorption, shifting \u03bbmax to longer wavelengths (bathochromic shift)."
+}

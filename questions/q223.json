@@ -1,0 +1,15 @@
+{
+  "id": "Q223",
+  "unit": 23,
+  "unit_name": "Complex Chemistry",
+  "topic": "Complex Nomenclature",
+  "question": "In [Cu(NH\u2083)\u2084]\u00b2\u207a, what is the ligand?",
+  "options": {
+    "A": "Cu",
+    "B": "NH\u2083",
+    "C": "The 2+ charge",
+    "D": "[Cu(NH\u2083)\u2084]"
+  },
+  "answer": "B",
+  "explanation": "NH\u2083 (ammonia) is the ligand. Cu is central metal cation. Coordination number is 4."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "Q065",
+  "unit": 7,
+  "unit_name": "Acids and Bases",
+  "topic": "Buffers",
+  "question": "What is a buffer solution?",
+  "options": {
+    "A": "A solution that never changes pH",
+    "B": "A solution that resists pH changes",
+    "C": "An acidic solution",
+    "D": "A basic solution"
+  },
+  "answer": "B",
+  "explanation": "A buffer contains a weak acid and its conjugate base (or weak base and its conjugate acid). It resists pH changes when small amounts of acid or base are added."
+}

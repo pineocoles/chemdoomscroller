@@ -1,0 +1,15 @@
+{
+  "id": "Q193",
+  "unit": 20,
+  "unit_name": "Bonding Concepts",
+  "topic": "Resonance",
+  "question": "What is resonance?",
+  "options": {
+    "A": "Vibration of atoms",
+    "B": "Multiple valid Lewis structures",
+    "C": "Bond rotation",
+    "D": "Electron movement"
+  },
+  "answer": "B",
+  "explanation": "Resonance structures show multiple valid arrangements of electrons. Actual structure is hybrid (average) of all resonance forms."
+}

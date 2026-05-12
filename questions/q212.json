@@ -1,0 +1,15 @@
+{
+  "id": "Q212",
+  "unit": 22,
+  "unit_name": "Properties",
+  "topic": "Melting Point",
+  "question": "Which has highest melting point?",
+  "options": {
+    "A": "Ionic compound NaCl",
+    "B": "Molecular compound CO\u2082",
+    "C": "Covalent network SiO\u2082",
+    "D": "Metallic Al"
+  },
+  "answer": "C",
+  "explanation": "Network covalents (SiO\u2082, diamond) have highest melting points (very strong continuous bonding). NaCl > Al > CO\u2082."
+}

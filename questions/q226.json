@@ -1,0 +1,15 @@
+{
+  "id": "Q226",
+  "unit": 23,
+  "unit_name": "Complex Chemistry",
+  "topic": "d-orbital Splitting",
+  "question": "In octahedral field, d orbitals split into how many levels?",
+  "options": {
+    "A": "1",
+    "B": "2",
+    "C": "3",
+    "D": "5"
+  },
+  "answer": "B",
+  "explanation": "Octahedral crystal field splits d-orbitals into two groups: eg (higher energy) and t2g (lower energy). \u0394 = energy difference."
+}

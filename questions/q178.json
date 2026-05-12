@@ -1,0 +1,15 @@
+{
+  "id": "Q178",
+  "unit": 18,
+  "unit_name": "Reactions",
+  "topic": "Acid-Base",
+  "question": "Neutralization reaction produces:",
+  "options": {
+    "A": "Acid and base",
+    "B": "Only salt",
+    "C": "Salt and water",
+    "D": "Only water"
+  },
+  "answer": "C",
+  "explanation": "Acid + Base \u2192 Salt + Water. HCl + NaOH \u2192 NaCl + H\u2082O."
+}

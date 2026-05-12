@@ -1,0 +1,15 @@
+{
+  "id": "Q026",
+  "unit": 3,
+  "unit_name": "Chemical Bonding",
+  "topic": "Electronegativity",
+  "question": "What determines bond polarity?",
+  "options": {
+    "A": "Bond length",
+    "B": "Electronegativity difference",
+    "C": "Atomic mass",
+    "D": "Number of electrons"
+  },
+  "answer": "B",
+  "explanation": "Polar covalent bonds result from differences in electronegativity. Greater differences create more polar bonds."
+}

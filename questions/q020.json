@@ -1,0 +1,15 @@
+{
+  "id": "Q020",
+  "unit": 2,
+  "unit_name": "Stoichiometric Calculations",
+  "topic": "Mole Concept",
+  "question": "What information does molar mass provide?",
+  "options": {
+    "A": "Mass of one atom",
+    "B": "Mass of one mole of substance",
+    "C": "Number of atoms in a compound",
+    "D": "Density of the substance"
+  },
+  "answer": "B",
+  "explanation": "Molar mass is the mass of one mole of a substance, expressed in g/mol. It allows conversion between grams and moles using the relationship: moles = mass/molar mass"
+}

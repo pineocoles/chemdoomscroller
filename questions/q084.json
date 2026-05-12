@@ -1,0 +1,15 @@
+{
+  "id": "Q084",
+  "unit": 9,
+  "unit_name": "Thermochemistry",
+  "topic": "Specific Heat",
+  "question": "What is specific heat?",
+  "options": {
+    "A": "Heat needed to raise 1 g of substance by 1\u00b0C",
+    "B": "Total heat in a substance",
+    "C": "Heat per mole",
+    "D": "Heat per liter"
+  },
+  "answer": "A",
+  "explanation": "Specific heat capacity (c) is the amount of heat needed to raise the temperature of 1 gram of a substance by 1\u00b0C."
+}

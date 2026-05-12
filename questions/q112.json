@@ -1,0 +1,15 @@
+{
+  "id": "Q112",
+  "unit": 12,
+  "unit_name": "Electrochemistry",
+  "topic": "Half-cells",
+  "question": "What occurs at the anode in a galvanic cell?",
+  "options": {
+    "A": "Reduction",
+    "B": "Oxidation",
+    "C": "Neutralization",
+    "D": "Condensation"
+  },
+  "answer": "B",
+  "explanation": "At the anode, oxidation occurs (loss of electrons). Electrons flow from anode through external circuit to cathode."
+}

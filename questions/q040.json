@@ -1,0 +1,15 @@
+{
+  "id": "Q040",
+  "unit": 4,
+  "unit_name": "Hybridization",
+  "topic": "sp\u00b2 Hybridization",
+  "question": "What is the hybridization of C in C\u2082H\u2084?",
+  "options": {
+    "A": "sp",
+    "B": "sp\u00b2",
+    "C": "sp\u00b3",
+    "D": "sp\u00b3d"
+  },
+  "answer": "B",
+  "explanation": "Each carbon in ethene is sp\u00b2 hybridized with 3 \u03c3 bonds and 1 \u03c0 bond, giving trigonal planar geometry."
+}

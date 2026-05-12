@@ -1,0 +1,15 @@
+{
+  "id": "Q245",
+  "unit": 25,
+  "unit_name": "Spectroscopy Basics",
+  "topic": "Chromophore",
+  "question": "What is a chromophore?",
+  "options": {
+    "A": "Light source",
+    "B": "Colored compound",
+    "C": "Part of molecule responsible for light absorption",
+    "D": "Measuring device"
+  },
+  "answer": "C",
+  "explanation": "Chromophore is group of atoms causing light absorption (usually conjugated \u03c0 electrons or d-electrons in metals)."
+}

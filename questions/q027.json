@@ -1,0 +1,15 @@
+{
+  "id": "Q027",
+  "unit": 3,
+  "unit_name": "Chemical Bonding",
+  "topic": "Lewis Structures",
+  "question": "How many valence electrons does carbon have?",
+  "options": {
+    "A": "2",
+    "B": "4",
+    "C": "6",
+    "D": "8"
+  },
+  "answer": "B",
+  "explanation": "Carbon is in Group 4A and has 4 valence electrons in its outer shell (2s\u00b2 2p\u00b2)."
+}

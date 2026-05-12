@@ -1,0 +1,15 @@
+{
+  "id": "Q275",
+  "unit": 28,
+  "unit_name": "Special Topics",
+  "topic": "Stereochemistry",
+  "question": "What is chirality?",
+  "options": {
+    "A": "Shape of molecule",
+    "B": "Property of having non-superimposable mirror image",
+    "C": "Molecular weight",
+    "D": "Polarity"
+  },
+  "answer": "B",
+  "explanation": "Chiral molecule: non-superimposable on mirror image due to asymmetric carbon. Forms enantiomers (optical isomers)."
+}

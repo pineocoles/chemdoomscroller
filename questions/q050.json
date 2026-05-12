@@ -1,0 +1,15 @@
+{
+  "id": "Q050",
+  "unit": 5,
+  "unit_name": "Solubility",
+  "topic": "Gas Solubility",
+  "question": "How does pressure affect gas solubility?",
+  "options": {
+    "A": "Decreases",
+    "B": "Increases",
+    "C": "Remains constant",
+    "D": "Becomes zero"
+  },
+  "answer": "B",
+  "explanation": "According to Henry's Law, gas solubility increases with pressure. More gas molecules dissolve when pressure increases."
+}

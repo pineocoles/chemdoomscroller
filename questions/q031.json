@@ -1,0 +1,15 @@
+{
+  "id": "Q031",
+  "unit": 4,
+  "unit_name": "Molecular Geometry",
+  "topic": "VSEPR Theory",
+  "question": "What is the molecular geometry of CH\u2084?",
+  "options": {
+    "A": "Linear",
+    "B": "Trigonal planar",
+    "C": "Tetrahedral",
+    "D": "Octahedral"
+  },
+  "answer": "C",
+  "explanation": "CH\u2084 has 4 bonding pairs and no lone pairs around carbon, resulting in tetrahedral geometry with 109.5\u00b0 bond angles."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "Q200",
+  "unit": 20,
+  "unit_name": "Bonding Concepts",
+  "topic": "Molecular Orbital",
+  "question": "What is bonding molecular orbital?",
+  "options": {
+    "A": "Orbital with higher energy",
+    "B": "Orbital with lower energy (stabilized)",
+    "C": "Non-bonding orbital",
+    "D": "Antibonding orbital"
+  },
+  "answer": "B",
+  "explanation": "Bonding MO (lower energy) forms when orbitals combine constructively. Antibonding MO (higher energy) forms from destructive interference."
+}

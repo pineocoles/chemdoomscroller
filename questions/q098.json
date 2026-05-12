@@ -1,0 +1,15 @@
+{
+  "id": "Q098",
+  "unit": 10,
+  "unit_name": "Kinetics",
+  "topic": "Temperature Effect",
+  "question": "How does temperature affect reaction rate?",
+  "options": {
+    "A": "Decreases rate",
+    "B": "Rate independent of temperature",
+    "C": "Increases rate",
+    "D": "Stops reaction"
+  },
+  "answer": "C",
+  "explanation": "Higher temperature increases molecular kinetic energy, increasing collision frequency and percentage of collisions with sufficient energy."
+}

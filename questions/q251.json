@@ -1,0 +1,15 @@
+{
+  "id": "Q251",
+  "unit": 26,
+  "unit_name": "Polymers",
+  "topic": "Polymer Types",
+  "question": "What is an addition polymer?",
+  "options": {
+    "A": "Made by adding monomers together without losing atoms",
+    "B": "Made by removing water molecules",
+    "C": "Ionic compound",
+    "D": "Made from metals"
+  },
+  "answer": "A",
+  "explanation": "Addition polymers form by repeated addition of monomers, keeping all atoms. Examples: polyethylene, polystyrene (from alkenes)."
+}

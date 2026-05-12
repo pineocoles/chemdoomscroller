@@ -1,0 +1,15 @@
+{
+  "id": "Q234",
+  "unit": 24,
+  "unit_name": "Advanced Equilibrium",
+  "topic": "Weak Base Equilibrium",
+  "question": "What is Kb for weak base B?",
+  "options": {
+    "A": "[BH\u207a]/[B][H\u207a]",
+    "B": "[BH\u207a][OH\u207b]/[B]",
+    "C": "[B][H\u207a]/[BH\u207a]",
+    "D": "[OH\u207b]/[B]"
+  },
+  "answer": "B",
+  "explanation": "Kb = [BH\u207a][OH\u207b]/[B]. For base + H\u2082O \u21cc BH\u207a + OH\u207b. Larger Kb = stronger base."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "Q156",
+  "unit": 16,
+  "unit_name": "Advanced Topics",
+  "topic": "Ionization Energy",
+  "question": "Which has highest ionization energy?",
+  "options": {
+    "A": "K",
+    "B": "Ca",
+    "C": "Na",
+    "D": "He"
+  },
+  "answer": "D",
+  "explanation": "He (noble gas, complete octet) has highest IE\u2081. Ionization energy increases across period, down group it decreases."
+}

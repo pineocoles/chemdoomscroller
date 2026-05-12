@@ -1,0 +1,15 @@
+{
+  "id": "Q149",
+  "unit": 15,
+  "unit_name": "Chemistry Review",
+  "topic": "Equilibrium",
+  "question": "For reaction: 2NO\u2082 \u21cc N\u2082O\u2084, K = [N\u2082O\u2084]/[NO\u2082]\u00b2",
+  "options": {
+    "A": "True",
+    "B": "False",
+    "C": "Sometimes",
+    "D": "Always false"
+  },
+  "answer": "A",
+  "explanation": "For equilibrium expression, each concentration raised to power equal to stoichiometric coefficient."
+}

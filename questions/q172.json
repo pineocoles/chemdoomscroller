@@ -1,0 +1,15 @@
+{
+  "id": "Q172",
+  "unit": 18,
+  "unit_name": "Reactions",
+  "topic": "Decomposition",
+  "question": "What is decomposition reaction?",
+  "options": {
+    "A": "Combination of elements",
+    "B": "Breaking of compound into simpler substances",
+    "C": "Displacement reaction",
+    "D": "Combination reaction"
+  },
+  "answer": "B",
+  "explanation": "Decomposition: AB \u2192 A + B. Example: 2H\u2082O\u2082 \u2192 2H\u2082O + O\u2082 (catalyzed by MnO\u2082)."
+}

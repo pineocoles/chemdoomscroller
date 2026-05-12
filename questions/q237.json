@@ -1,0 +1,15 @@
+{
+  "id": "Q237",
+  "unit": 24,
+  "unit_name": "Advanced Equilibrium",
+  "topic": "Amphiprotic Species",
+  "question": "What is amphiprotic species?",
+  "options": {
+    "A": "Species with one functional group",
+    "B": "Species that can donate or accept proton",
+    "C": "Highly polar species",
+    "D": "Only bases"
+  },
+  "answer": "B",
+  "explanation": "Amphiprotic species can act as acid (donate H\u207a) or base (accept H\u207a). Examples: HCO\u2083\u207b, HPO\u2084\u00b2\u207b, H\u2082O."
+}

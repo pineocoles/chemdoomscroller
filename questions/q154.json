@@ -1,0 +1,15 @@
+{
+  "id": "Q154",
+  "unit": 16,
+  "unit_name": "Advanced Topics",
+  "topic": "Energy Levels",
+  "question": "What orbital holds max 2 electrons?",
+  "options": {
+    "A": "s orbital",
+    "B": "p orbital",
+    "C": "d orbital",
+    "D": "f orbital"
+  },
+  "answer": "A",
+  "explanation": "Each orbital (s, p, d, f) can hold 2 electrons max. s has 1 orbital, p has 3, d has 5, f has 7."
+}

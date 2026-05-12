@@ -1,0 +1,15 @@
+{
+  "id": "Q168",
+  "unit": 17,
+  "unit_name": "Solutions",
+  "topic": "Ideal Solution",
+  "question": "What is an ideal solution?",
+  "options": {
+    "A": "All solutions",
+    "B": "Solution following Raoult's Law exactly",
+    "C": "Saturated solution",
+    "D": "Supersaturated solution"
+  },
+  "answer": "B",
+  "explanation": "Ideal solutions follow Raoult's Law and have minimal interactions between solute-solvent. Real solutions deviate slightly."
+}

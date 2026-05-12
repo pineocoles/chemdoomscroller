@@ -1,0 +1,15 @@
+{
+  "id": "Q041",
+  "unit": 5,
+  "unit_name": "Intermolecular Forces",
+  "topic": "London Dispersion Forces",
+  "question": "Which substance has the strongest London dispersion forces?",
+  "options": {
+    "A": "CH\u2084",
+    "B": "C\u2082H\u2086",
+    "C": "C\u2088H\u2081\u2088",
+    "D": "He"
+  },
+  "answer": "C",
+  "explanation": "London dispersion forces increase with molecular size and number of electrons. C\u2088H\u2081\u2088 (octane) has more electrons than the others."
+}

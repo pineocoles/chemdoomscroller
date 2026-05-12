@@ -1,0 +1,15 @@
+{
+  "id": "Q122",
+  "unit": 13,
+  "unit_name": "Organic Chemistry",
+  "topic": "Hydrocarbons",
+  "question": "What is an alkene?",
+  "options": {
+    "A": "Hydrocarbon with only single bonds",
+    "B": "Hydrocarbon with double bonds",
+    "C": "Hydrocarbon with triple bonds",
+    "D": "Cyclic hydrocarbon"
+  },
+  "answer": "B",
+  "explanation": "Alkenes (C\u2099H\u2082\u2099) contain C=C double bonds. Examples: ethene, propene, butene."
+}

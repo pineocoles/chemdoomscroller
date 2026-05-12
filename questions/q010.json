@@ -1,0 +1,15 @@
+{
+  "id": "Q010",
+  "unit": 1,
+  "unit_name": "Stoichiometric Relationships",
+  "topic": "Intro To Particulate Nature",
+  "question": "What is the relationship between kinetic energy and absolute temperature?",
+  "options": {
+    "A": "Kinetic energy is inversely proportional to temperature",
+    "B": "Kinetic energy is directly proportional to absolute temperature",
+    "C": "Kinetic energy is independent of temperature",
+    "D": "Kinetic energy equals temperature"
+  },
+  "answer": "B",
+  "explanation": "The average kinetic energy of gas particles is directly proportional to absolute temperature (K). As T increases, KE increases proportionally, following KE = (3/2)kT where k is Boltzmann's constant."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "Q015",
+  "unit": 2,
+  "unit_name": "Stoichiometric Calculations",
+  "topic": "Mole Concept",
+  "question": "How many grams of H\u2082O are in 0.5 moles?",
+  "options": {
+    "A": "4.5 g",
+    "B": "9 g",
+    "C": "18 g",
+    "D": "36 g"
+  },
+  "answer": "B",
+  "explanation": "Molar mass H\u2082O = 18 g/mol. Mass = moles \u00d7 molar mass = 0.5 \u00d7 18 = 9 g"
+}

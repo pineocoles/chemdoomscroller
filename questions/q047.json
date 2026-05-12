@@ -1,0 +1,15 @@
+{
+  "id": "Q047",
+  "unit": 5,
+  "unit_name": "Phase Changes",
+  "topic": "Melting Point",
+  "question": "Why do ionic compounds have high melting points?",
+  "options": {
+    "A": "Weak intermolecular forces",
+    "B": "Strong electrostatic forces between ions",
+    "C": "Metallic bonding",
+    "D": "Hydrogen bonding"
+  },
+  "answer": "B",
+  "explanation": "Ionic compounds have high melting points due to strong electrostatic attractions between oppositely charged ions in the crystal lattice."
+}

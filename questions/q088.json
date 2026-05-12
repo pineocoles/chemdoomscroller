@@ -1,0 +1,15 @@
+{
+  "id": "Q088",
+  "unit": 9,
+  "unit_name": "Thermochemistry",
+  "topic": "Gibbs Free Energy",
+  "question": "What is Gibbs free energy?",
+  "options": {
+    "A": "Total energy available",
+    "B": "Energy available to do work",
+    "C": "Total heat released",
+    "D": "Kinetic energy"
+  },
+  "answer": "B",
+  "explanation": "Gibbs free energy (G) represents energy available for work. \u0394G = \u0394H - T\u0394S. Spontaneous reactions have \u0394G < 0."
+}

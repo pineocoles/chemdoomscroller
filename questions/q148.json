@@ -1,0 +1,15 @@
+{
+  "id": "Q148",
+  "unit": 15,
+  "unit_name": "Chemistry Review",
+  "topic": "pH",
+  "question": "What is [H\u207a] if pH = 2?",
+  "options": {
+    "A": "10\u207b\u00b2 M",
+    "B": "10\u00b2 M",
+    "C": "2 M",
+    "D": "100 M"
+  },
+  "answer": "A",
+  "explanation": "pH = -log[H\u207a]; 2 = -log[H\u207a]; [H\u207a] = 10\u207b\u00b2 = 0.01 M"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "Q132",
+  "unit": 14,
+  "unit_name": "Nuclear Chemistry",
+  "topic": "Alpha Decay",
+  "question": "What is alpha decay?",
+  "options": {
+    "A": "Emission of electron",
+    "B": "Emission of He nucleus (He-4)",
+    "C": "Emission of neutron",
+    "D": "Emission of proton"
+  },
+  "answer": "B",
+  "explanation": "Alpha decay emits \u2074He nucleus (\u03b1 particle: 2 protons + 2 neutrons). Mass number decreases by 4, atomic number by 2."
+}

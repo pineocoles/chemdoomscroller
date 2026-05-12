@@ -1,0 +1,15 @@
+{
+  "id": "Q167",
+  "unit": 17,
+  "unit_name": "Solutions",
+  "topic": "Raoult's Law",
+  "question": "What does Raoult's Law state?",
+  "options": {
+    "A": "Vapor pressure always increases",
+    "B": "Vapor pressure of solution = \u03c7 \u00d7 P\u00b0solvent",
+    "C": "Solutions always freeze",
+    "D": "Solutes always dissolve"
+  },
+  "answer": "B",
+  "explanation": "Raoult's Law: Psolution = \u03c7solvent \u00d7 P\u00b0solvent. Partial pressure depends on mole fraction of solvent."
+}

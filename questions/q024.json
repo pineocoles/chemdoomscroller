@@ -1,0 +1,15 @@
+{
+  "id": "Q024",
+  "unit": 3,
+  "unit_name": "Chemical Bonding",
+  "topic": "Covalent Bonds",
+  "question": "How many electrons are shared in a double bond?",
+  "options": {
+    "A": "2",
+    "B": "4",
+    "C": "6",
+    "D": "8"
+  },
+  "answer": "B",
+  "explanation": "A double bond consists of 4 shared electrons (2 pairs). Each pair represents one bond."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "Q286",
+  "unit": 29,
+  "unit_name": "Final Review",
+  "topic": "Comprehensive",
+  "question": "What is Dalton's Atomic Theory significance?",
+  "options": {
+    "A": "Disproved atoms",
+    "B": "Proposed atoms as fundamental units",
+    "C": "Proved electron exists",
+    "D": "Discovered neutrons"
+  },
+  "answer": "B",
+  "explanation": "Dalton: all matter is made of indivisible atoms of each element; atoms combine in simple whole number ratios (1800s)."
+}

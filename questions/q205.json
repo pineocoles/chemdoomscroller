@@ -1,0 +1,15 @@
+{
+  "id": "Q205",
+  "unit": 21,
+  "unit_name": "Measurement",
+  "topic": "Error Analysis",
+  "question": "What is percent error?",
+  "options": {
+    "A": "Absolute value of error",
+    "B": "(Experimental - Theoretical)/Theoretical \u00d7 100%",
+    "C": "Error divided by total",
+    "D": "Sum of errors"
+  },
+  "answer": "B",
+  "explanation": "Percent error = |E - T|/T \u00d7 100% (absolute value). Indicates accuracy relative to accepted value."
+}

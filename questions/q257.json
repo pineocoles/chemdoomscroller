@@ -1,0 +1,15 @@
+{
+  "id": "Q257",
+  "unit": 26,
+  "unit_name": "Polymers",
+  "topic": "Thermoplastics",
+  "question": "What is a thermoplastic?",
+  "options": {
+    "A": "Plastic that can't be melted",
+    "B": "Plastic that can be melted and reformed",
+    "C": "Plastic that hardens permanently",
+    "D": "Plastic for heat storage"
+  },
+  "answer": "B",
+  "explanation": "Thermoplastics soften on heating, can be remolded. No permanent cross-linking. Examples: polyethylene, PET."
+}

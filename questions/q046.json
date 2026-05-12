@@ -1,0 +1,15 @@
+{
+  "id": "Q046",
+  "unit": 5,
+  "unit_name": "Phase Changes",
+  "topic": "Boiling Point",
+  "question": "What factors affect boiling point?",
+  "options": {
+    "A": "Only mass",
+    "B": "Intermolecular forces and pressure",
+    "C": "Only temperature",
+    "D": "Only volume"
+  },
+  "answer": "B",
+  "explanation": "Boiling point is affected by strength of intermolecular forces and external pressure. Stronger forces require higher temperatures to boil."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "Q134",
+  "unit": 14,
+  "unit_name": "Nuclear Chemistry",
+  "topic": "Gamma Decay",
+  "question": "What is gamma decay?",
+  "options": {
+    "A": "Emission of particles",
+    "B": "Emission of high-energy photons",
+    "C": "Release of electrons",
+    "D": "Absorption of energy"
+  },
+  "answer": "B",
+  "explanation": "Gamma decay emits high-energy photons (\u03b3 rays). No change in mass or atomic number, just energy release."
+}

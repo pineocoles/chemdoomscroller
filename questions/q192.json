@@ -1,0 +1,15 @@
+{
+  "id": "Q192",
+  "unit": 20,
+  "unit_name": "Bonding Concepts",
+  "topic": "Dipole Moment",
+  "question": "What is dipole moment?",
+  "options": {
+    "A": "Direction of bond",
+    "B": "Measure of polarity in molecule",
+    "C": "Length of bond",
+    "D": "Strength of bond"
+  },
+  "answer": "B",
+  "explanation": "Dipole moment (\u03bc) measures polarity. Unit: debye (D). Dipole = charge \u00d7 distance. Polar molecules have permanent dipoles."
+}

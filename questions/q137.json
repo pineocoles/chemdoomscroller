@@ -1,0 +1,15 @@
+{
+  "id": "Q137",
+  "unit": 14,
+  "unit_name": "Nuclear Chemistry",
+  "topic": "Nuclear Reactions",
+  "question": "In nuclear fusion:",
+  "options": {
+    "A": "Heavy nucleus splits",
+    "B": "Light nuclei combine to form heavier nucleus",
+    "C": "Electron is emitted",
+    "D": "Only energy absorbed"
+  },
+  "answer": "B",
+  "explanation": "Fusion combines light nuclei (H, He) into heavier nucleus, releasing massive energy. Occurs in stars."
+}

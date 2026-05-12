@@ -1,0 +1,15 @@
+{
+  "id": "Q007",
+  "unit": 1,
+  "unit_name": "Stoichiometric Relationships",
+  "topic": "Intro To Particulate Nature",
+  "question": "What is sublimation?",
+  "options": {
+    "A": "Conversion of gas to liquid",
+    "B": "Conversion of solid directly to gas",
+    "C": "Conversion of liquid to gas",
+    "D": "Conversion of gas to solid"
+  },
+  "answer": "B",
+  "explanation": "Sublimation is a phase transition where a solid converts directly to a gas without passing through the liquid phase. Examples include dry ice (CO\u2082) and mothballs (naphthalene)."
+}

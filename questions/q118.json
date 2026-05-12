@@ -1,0 +1,15 @@
+{
+  "id": "Q118",
+  "unit": 12,
+  "unit_name": "Electrochemistry",
+  "topic": "Corrosion",
+  "question": "What is corrosion?",
+  "options": {
+    "A": "Rusting of metals",
+    "B": "Oxidation of metals by oxygen/moisture",
+    "C": "Wearing away of surfaces",
+    "D": "Heating of metals"
+  },
+  "answer": "B",
+  "explanation": "Corrosion is electrochemical oxidation of metals. Iron rust (Fe\u2082O\u2083\u00b7xH\u2082O) forms when Fe is oxidized by O\u2082 and H\u2082O."
+}

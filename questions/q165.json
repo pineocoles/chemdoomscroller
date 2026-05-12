@@ -1,0 +1,15 @@
+{
+  "id": "Q165",
+  "unit": 17,
+  "unit_name": "Solutions",
+  "topic": "Osmotic Pressure",
+  "question": "What is osmotic pressure?",
+  "options": {
+    "A": "Air pressure in solution",
+    "B": "Pressure needed to prevent osmosis",
+    "C": "Vapor pressure",
+    "D": "Hydrostatic pressure"
+  },
+  "answer": "B",
+  "explanation": "Osmotic pressure (\u03c0) is pressure needed to prevent solvent flow into solution. \u03c0 = MRT where M is molarity."
+}

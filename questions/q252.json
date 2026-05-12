@@ -1,0 +1,15 @@
+{
+  "id": "Q252",
+  "unit": 26,
+  "unit_name": "Polymers",
+  "topic": "Polymer Types",
+  "question": "What is a condensation polymer?",
+  "options": {
+    "A": "Made from addition reactions",
+    "B": "Made by removing small molecules (water, HCl) per monomers join",
+    "C": "Single atom polymer",
+    "D": "Very small polymer"
+  },
+  "answer": "B",
+  "explanation": "Condensation polymers form when monomers join by removing small molecules. Examples: polyesters, polyamides (nylon)."
+}

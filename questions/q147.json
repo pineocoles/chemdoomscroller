@@ -1,0 +1,15 @@
+{
+  "id": "Q147",
+  "unit": 15,
+  "unit_name": "Chemistry Review",
+  "topic": "Dimensional Analysis",
+  "question": "Convert 25 m to cm:",
+  "options": {
+    "A": "2500 cm",
+    "B": "0.25 cm",
+    "C": "250 cm",
+    "D": "25000 cm"
+  },
+  "answer": "A",
+  "explanation": "25 m \u00d7 (100 cm/1 m) = 2500 cm. Dimensional analysis cancels units."
+}

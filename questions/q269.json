@@ -1,0 +1,15 @@
+{
+  "id": "Q269",
+  "unit": 27,
+  "unit_name": "Environmental Chemistry",
+  "topic": "Remediation",
+  "question": "What is bioremediation?",
+  "options": {
+    "A": "Using organisms to clean contamination",
+    "B": "Mechanical cleaning",
+    "C": "Using chemicals only",
+    "D": "Burying waste"
+  },
+  "answer": "A",
+  "explanation": "Bioremediation: bacteria/fungi break down pollutants (oil, pesticides) into harmless products, cleaning contaminated sites."
+}

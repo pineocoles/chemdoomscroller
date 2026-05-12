@@ -1,0 +1,15 @@
+{
+  "id": "Q233",
+  "unit": 24,
+  "unit_name": "Advanced Equilibrium",
+  "topic": "Weak Acid Equilibrium",
+  "question": "For weak acid HA \u21cc H\u207a + A\u207b, what is Ka expression?",
+  "options": {
+    "A": "[HA]/[H\u207a][A\u207b]",
+    "B": "[H\u207a][A\u207b]/[HA]",
+    "C": "[HA]/[A\u207b]",
+    "D": "[H\u207a][A\u207b]"
+  },
+  "answer": "B",
+  "explanation": "Ka = [H\u207a][A\u207b]/[HA]. Products over reactants. Larger Ka = stronger acid (more dissociation)."
+}

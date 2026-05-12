@@ -1,0 +1,15 @@
+{
+  "id": "Q155",
+  "unit": 16,
+  "unit_name": "Advanced Topics",
+  "topic": "Electron Configuration",
+  "question": "What is electron configuration of O?",
+  "options": {
+    "A": "1s\u00b2 2s\u00b2",
+    "B": "1s\u00b2 2s\u00b2 2p\u2076",
+    "C": "1s\u00b2 2s\u00b2 2p\u2074",
+    "D": "1s\u00b2 2p\u2076"
+  },
+  "answer": "C",
+  "explanation": "O has 8 electrons: 1s\u00b2 2s\u00b2 2p\u2074. The 2p sublevel has 4 electrons (not full)."
+}

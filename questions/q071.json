@@ -1,0 +1,15 @@
+{
+  "id": "Q071",
+  "unit": 8,
+  "unit_name": "Oxidation-Reduction",
+  "topic": "Oxidation States",
+  "question": "What is the oxidation state of oxygen in most compounds?",
+  "options": {
+    "A": "+2",
+    "B": "-2",
+    "C": "+1",
+    "D": "0"
+  },
+  "answer": "B",
+  "explanation": "Oxygen has an oxidation state of -2 in most compounds. Exceptions: peroxides (-1) and OF\u2082 (+2)."
+}

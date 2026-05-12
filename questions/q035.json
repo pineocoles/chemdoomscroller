@@ -1,0 +1,15 @@
+{
+  "id": "Q035",
+  "unit": 4,
+  "unit_name": "Molecular Geometry",
+  "topic": "VSEPR Theory",
+  "question": "What determines molecular geometry?",
+  "options": {
+    "A": "Number of atoms",
+    "B": "Bonding and lone electron pairs",
+    "C": "Atomic mass",
+    "D": "Electronegativity"
+  },
+  "answer": "B",
+  "explanation": "VSEPR theory states that electron pairs (bonding and lone) repel each other, positioning themselves to minimize repulsion and determine molecular geometry."
+}

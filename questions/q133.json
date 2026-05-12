@@ -1,0 +1,15 @@
+{
+  "id": "Q133",
+  "unit": 14,
+  "unit_name": "Nuclear Chemistry",
+  "topic": "Beta Decay",
+  "question": "What is beta decay?",
+  "options": {
+    "A": "Emission of alpha particle",
+    "B": "Emission of electron from nucleus",
+    "C": "Emission of neutron",
+    "D": "Emission of proton"
+  },
+  "answer": "B",
+  "explanation": "Beta decay emits electron (\u03b2\u207b particle). Neutron converts to proton. Mass number stays same, atomic number increases by 1."
+}

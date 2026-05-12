@@ -1,0 +1,15 @@
+{
+  "id": "Q066",
+  "unit": 7,
+  "unit_name": "Acids and Bases",
+  "topic": "Neutralization",
+  "question": "What is the product of an acid-base neutralization?",
+  "options": {
+    "A": "Salt and water",
+    "B": "Acid and base",
+    "C": "Two salts",
+    "D": "Only water"
+  },
+  "answer": "A",
+  "explanation": "Acid + Base \u2192 Salt + Water. This is the general equation for acid-base neutralization reactions."
+}

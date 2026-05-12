@@ -1,0 +1,15 @@
+{
+  "id": "Q273",
+  "unit": 28,
+  "unit_name": "Special Topics",
+  "topic": "Biochemistry",
+  "question": "What is DNA?",
+  "options": {
+    "A": "Protein",
+    "B": "Deoxyribonucleic acid (genetic material)",
+    "C": "Carbohydrate",
+    "D": "Lipid"
+  },
+  "answer": "B",
+  "explanation": "DNA: double-helix polymer of nucleotides containing genetic information. Bases: adenine, thymine, guanine, cytosine."
+}

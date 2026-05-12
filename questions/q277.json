@@ -1,0 +1,15 @@
+{
+  "id": "Q277",
+  "unit": 28,
+  "unit_name": "Special Topics",
+  "topic": "Electrochemistry",
+  "question": "What is electroplating thickness prediction?",
+  "options": {
+    "A": "Based on voltage only",
+    "B": "Current \u00d7 time (Faraday's Law)",
+    "C": "Temperature only",
+    "D": "Pressure"
+  },
+  "answer": "B",
+  "explanation": "Electroplating thickness: amount of metal deposited proportional to charge passed (Q = I \u00d7 t). More charge = thicker coating."
+}

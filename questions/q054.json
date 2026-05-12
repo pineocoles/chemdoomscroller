@@ -1,0 +1,15 @@
+{
+  "id": "Q054",
+  "unit": 6,
+  "unit_name": "Solutions and Stoichiometry",
+  "topic": "Dilution",
+  "question": "If 100 mL of 2 M HCl is diluted to 500 mL, what is the new molarity?",
+  "options": {
+    "A": "0.4 M",
+    "B": "0.2 M",
+    "C": "2 M",
+    "D": "10 M"
+  },
+  "answer": "A",
+  "explanation": "M\u2081V\u2081 = M\u2082V\u2082; 2 M \u00d7 100 mL = M\u2082 \u00d7 500 mL; M\u2082 = 0.4 M"
+}

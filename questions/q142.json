@@ -1,0 +1,15 @@
+{
+  "id": "Q142",
+  "unit": 15,
+  "unit_name": "Chemistry Review",
+  "topic": "Limiting Reactant",
+  "question": "If 4 mol N\u2082 and 9 mol H\u2082, which limits? N\u2082 + 3H\u2082 \u2192 2NH\u2083",
+  "options": {
+    "A": "N\u2082",
+    "B": "H\u2082",
+    "C": "Neither",
+    "D": "Both equally"
+  },
+  "answer": "B",
+  "explanation": "N\u2082 needs 4\u00d73=12 mol H\u2082, but only 9 available. H\u2082 is limiting."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "Q158",
+  "unit": 16,
+  "unit_name": "Advanced Topics",
+  "topic": "Atomic Radius",
+  "question": "Which ion is smallest?",
+  "options": {
+    "A": "F\u207b",
+    "B": "Na\u207a",
+    "C": "Mg\u00b2\u207a",
+    "D": "Al\u00b3\u207a"
+  },
+  "answer": "D",
+  "explanation": "Al\u00b3\u207a has lost 3 electrons, highest positive charge, pulls electrons closest. Same period/charge, most protons = smallest."
+}

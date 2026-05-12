@@ -1,0 +1,15 @@
+{
+  "id": "Q153",
+  "unit": 16,
+  "unit_name": "Advanced Topics",
+  "topic": "Polarity",
+  "question": "Is BeH\u2082 polar?",
+  "options": {
+    "A": "Yes, very polar",
+    "B": "No, nonpolar",
+    "C": "Slightly polar",
+    "D": "Cannot determine"
+  },
+  "answer": "B",
+  "explanation": "BeH\u2082 is linear with B-H bonds symmetric. Dipoles cancel, making it nonpolar despite polar bonds."
+}

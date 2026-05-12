@@ -1,0 +1,15 @@
+{
+  "id": "Q177",
+  "unit": 18,
+  "unit_name": "Reactions",
+  "topic": "Precipitation",
+  "question": "What is a precipitation reaction?",
+  "options": {
+    "A": "Dissolving a solid",
+    "B": "Reaction forming insoluble solid",
+    "C": "Heating a solution",
+    "D": "Cooling a solution"
+  },
+  "answer": "B",
+  "explanation": "Precipitation reaction forms insoluble solid (precipitate) when ions combine. Example: Ag\u207a + Cl\u207b \u2192 AgCl(s)."
+}

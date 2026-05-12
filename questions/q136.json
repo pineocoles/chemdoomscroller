@@ -1,0 +1,15 @@
+{
+  "id": "Q136",
+  "unit": 14,
+  "unit_name": "Nuclear Chemistry",
+  "topic": "Nuclear Reactions",
+  "question": "In nuclear fission:",
+  "options": {
+    "A": "Small nuclei combine",
+    "B": "Large nucleus splits into smaller nuclei",
+    "C": "Nuclei emit only gamma rays",
+    "D": "No energy is released"
+  },
+  "answer": "B",
+  "explanation": "Fission splits heavy nucleus into lighter nuclei, releasing enormous energy. Used in nuclear power and weapons."
+}

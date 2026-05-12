@@ -1,0 +1,15 @@
+{
+  "id": "Q285",
+  "unit": 29,
+  "unit_name": "Final Review",
+  "topic": "Comprehensive",
+  "question": "What is the basis of modern chemistry?",
+  "options": {
+    "A": "Color of substances",
+    "B": "Law of Conservation of Mass",
+    "C": "Density measurement",
+    "D": "Temperature"
+  },
+  "answer": "B",
+  "explanation": "Law of Conservation of Mass: matter cannot be created/destroyed in chemical reaction. Basis for stoichiometry/balancing equations."
+}

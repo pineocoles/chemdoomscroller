@@ -1,0 +1,15 @@
+{
+  "id": "Q159",
+  "unit": 16,
+  "unit_name": "Advanced Topics",
+  "topic": "Hydration",
+  "question": "What is hydration energy?",
+  "options": {
+    "A": "Heat of water",
+    "B": "Energy released when ion is hydrated by water",
+    "C": "Boiling point of water",
+    "D": "Energy to melt ice"
+  },
+  "answer": "B",
+  "explanation": "Hydration energy is energy released when gaseous ion is surrounded by water molecules. Important for ion solubility."
+}

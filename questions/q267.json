@@ -1,0 +1,15 @@
+{
+  "id": "Q267",
+  "unit": 27,
+  "unit_name": "Environmental Chemistry",
+  "topic": "Heavy Metals",
+  "question": "Which is a heavy metal pollutant?",
+  "options": {
+    "A": "Oxygen",
+    "B": "Nitrogen",
+    "C": "Lead",
+    "D": "Hydrogen"
+  },
+  "answer": "C",
+  "explanation": "Heavy metals (Pb, Hg, Cd) are toxic, accumulate in organisms, cause neurological/renal damage. Bioaccumulation is major concern."
+}

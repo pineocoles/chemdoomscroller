@@ -1,0 +1,15 @@
+{
+  "id": "Q283",
+  "unit": 29,
+  "unit_name": "Final Review",
+  "topic": "Comprehensive",
+  "question": "What is the most abundant element in Earth's crust?",
+  "options": {
+    "A": "Iron",
+    "B": "Oxygen",
+    "C": "Silicon",
+    "D": "Aluminum"
+  },
+  "answer": "B",
+  "explanation": "Oxygen (~46% by mass) is most abundant in Earth's crust. Found in rocks, minerals, and water (H\u2082O)."
+}

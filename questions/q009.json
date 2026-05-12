@@ -1,0 +1,15 @@
+{
+  "id": "Q009",
+  "unit": 1,
+  "unit_name": "Stoichiometric Relationships",
+  "topic": "Intro To Particulate Nature",
+  "question": "How does density change during condensation?",
+  "options": {
+    "A": "Density decreases",
+    "B": "Density remains the same",
+    "C": "Density increases",
+    "D": "Density becomes zero"
+  },
+  "answer": "C",
+  "explanation": "Condensation converts gas to liquid. Particles move closer together in the liquid state, decreasing volume while mass remains constant, thus increasing density."
+}

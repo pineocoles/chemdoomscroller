@@ -1,0 +1,15 @@
+{
+  "id": "Q082",
+  "unit": 9,
+  "unit_name": "Thermochemistry",
+  "topic": "Exothermic",
+  "question": "What is an exothermic reaction?",
+  "options": {
+    "A": "A reaction that requires heat",
+    "B": "A reaction that releases heat",
+    "C": "A reaction with positive \u0394H",
+    "D": "A reaction that increases entropy"
+  },
+  "answer": "B",
+  "explanation": "Exothermic reactions release heat to surroundings (\u0394H < 0). Examples: combustion, neutralization."
+}

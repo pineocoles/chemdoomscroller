@@ -1,0 +1,15 @@
+{
+  "id": "Q247",
+  "unit": 25,
+  "unit_name": "Spectroscopy Basics",
+  "topic": "Bathochromic Shift",
+  "question": "What is bathochromic shift?",
+  "options": {
+    "A": "Shift to shorter wavelength",
+    "B": "Shift to longer wavelength",
+    "C": "Color change",
+    "D": "Intensity increase"
+  },
+  "answer": "B",
+  "explanation": "Bathochromic shift (red shift): \u03bbmax moves to longer wavelength, lower energy. Caused by extending conjugation or adding auxochromes."
+}

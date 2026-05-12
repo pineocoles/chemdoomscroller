@@ -1,0 +1,15 @@
+{
+  "id": "Q266",
+  "unit": 27,
+  "unit_name": "Environmental Chemistry",
+  "topic": "Eutrophication",
+  "question": "What is eutrophication?",
+  "options": {
+    "A": "Water purification",
+    "B": "Excess nutrients causing algal blooms",
+    "C": "Water evaporation",
+    "D": "Water freezing"
+  },
+  "answer": "B",
+  "explanation": "Eutrophication: excess N and P nutrients in water trigger algal bloom, O\u2082 depletion, fish death (dead zone)."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "Q037",
+  "unit": 4,
+  "unit_name": "Molecular Polarity",
+  "topic": "Polar vs Nonpolar",
+  "question": "Is CCl\u2084 polar or nonpolar?",
+  "options": {
+    "A": "Polar",
+    "B": "Nonpolar",
+    "C": "Ionic",
+    "D": "Amphoteric"
+  },
+  "answer": "B",
+  "explanation": "Although C-Cl bonds are polar, CCl\u2084 has tetrahedral symmetry where dipoles cancel, making it nonpolar overall."
+}

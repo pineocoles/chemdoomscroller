@@ -1,0 +1,15 @@
+{
+  "id": "Q121",
+  "unit": 13,
+  "unit_name": "Organic Chemistry",
+  "topic": "Hydrocarbons",
+  "question": "What is an alkane?",
+  "options": {
+    "A": "Hydrocarbon with double bonds",
+    "B": "Hydrocarbon with single bonds only",
+    "C": "Hydrocarbon with triple bonds",
+    "D": "Hydrocarbon with rings"
+  },
+  "answer": "B",
+  "explanation": "Alkanes (C\u2099H\u2082\u2099\u208a\u2082) contain only C-H and C-C single bonds. Examples: methane, ethane, propane."
+}

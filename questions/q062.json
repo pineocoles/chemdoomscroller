@@ -1,0 +1,15 @@
+{
+  "id": "Q062",
+  "unit": 7,
+  "unit_name": "Acids and Bases",
+  "topic": "pH and pOH",
+  "question": "What is the pH of a solution with [H\u207a] = 10\u207b\u00b3 M?",
+  "options": {
+    "A": "3",
+    "B": "5",
+    "C": "7",
+    "D": "11"
+  },
+  "answer": "A",
+  "explanation": "pH = -log(10\u207b\u00b3) = 3. This is an acidic solution."
+}

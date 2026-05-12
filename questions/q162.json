@@ -1,0 +1,15 @@
+{
+  "id": "Q162",
+  "unit": 17,
+  "unit_name": "Solutions",
+  "topic": "Boiling Point Elevation",
+  "question": "What is boiling point elevation?",
+  "options": {
+    "A": "Decrease in boiling point",
+    "B": "Increase in boiling point with solute",
+    "C": "Temperature of water",
+    "D": "Heat added"
+  },
+  "answer": "B",
+  "explanation": "Adding nonvolatile solute increases boiling point. \u0394Tb = Kb\u00b7m where Kb is boiling point elevation constant."
+}

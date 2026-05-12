@@ -1,0 +1,15 @@
+{
+  "id": "Q183",
+  "unit": 19,
+  "unit_name": "Group Trends",
+  "topic": "Noble Gases",
+  "question": "What is Group 18 elements?",
+  "options": {
+    "A": "Halogens",
+    "B": "Chalcogens",
+    "C": "Noble gases",
+    "D": "Pnictogens"
+  },
+  "answer": "C",
+  "explanation": "Group 18 (VIIIA) elements are noble gases: He, Ne, Ar, Kr, Xe, Rn. They have 8 valence electrons (complete octet)."
+}

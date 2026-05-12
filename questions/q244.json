@@ -1,0 +1,15 @@
+{
+  "id": "Q244",
+  "unit": 25,
+  "unit_name": "Spectroscopy Basics",
+  "topic": "Lambda Max",
+  "question": "What is \u03bbmax?",
+  "options": {
+    "A": "Wavelength of maximum absorption",
+    "B": "Minimum wavelength",
+    "C": "Visible light only",
+    "D": "Infrared wavelength"
+  },
+  "answer": "A",
+  "explanation": "\u03bbmax is wavelength at which substance shows maximum absorbance. Different compounds have different \u03bbmax values."
+}

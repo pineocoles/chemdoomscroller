@@ -1,0 +1,15 @@
+{
+  "id": "Q114",
+  "unit": 12,
+  "unit_name": "Electrochemistry",
+  "topic": "Electrolysis",
+  "question": "What is electrolysis?",
+  "options": {
+    "A": "Spontaneous redox reaction",
+    "B": "Non-spontaneous reaction driven by electrical energy",
+    "C": "Separation of solutions",
+    "D": "Combination of elements"
+  },
+  "answer": "B",
+  "explanation": "Electrolysis uses electrical energy to drive non-spontaneous reactions. Used for electroplating and water decomposition."
+}

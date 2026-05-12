@@ -1,0 +1,15 @@
+{
+  "id": "Q185",
+  "unit": 19,
+  "unit_name": "Group Trends",
+  "topic": "Periodic Trends",
+  "question": "Which increases across a period?",
+  "options": {
+    "A": "Atomic radius",
+    "B": "Ionization energy",
+    "C": "Metallic character",
+    "D": "Atomic size"
+  },
+  "answer": "B",
+  "explanation": "Ionization energy increases across period (stronger nuclear pull). Atomic radius decreases across period."
+}

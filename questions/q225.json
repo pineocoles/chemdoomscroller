@@ -1,0 +1,15 @@
+{
+  "id": "Q225",
+  "unit": 23,
+  "unit_name": "Complex Chemistry",
+  "topic": "Crystal Field Theory",
+  "question": "What does crystal field theory explain?",
+  "options": {
+    "A": "Bonding in ionic compounds",
+    "B": "Color and magnetic properties of complexes",
+    "C": "Metal bonding",
+    "D": "Covalent bonding"
+  },
+  "answer": "B",
+  "explanation": "Crystal field theory explains how ligands create electric field that splits d-orbital energies, explaining color and magnetism."
+}

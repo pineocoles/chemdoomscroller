@@ -1,0 +1,15 @@
+{
+  "id": "Q278",
+  "unit": 28,
+  "unit_name": "Special Topics",
+  "topic": "Nanotechnology",
+  "question": "What is a nanoparticle?",
+  "options": {
+    "A": "Very large particle",
+    "B": "Particle 1-100 nanometers",
+    "C": "Microscopic particle",
+    "D": "Atomic particle only"
+  },
+  "answer": "B",
+  "explanation": "Nanoparticles (1-100 nm): exhibit unique properties from size/surface area. Used in medicine, electronics, catalysts."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "Q030",
+  "unit": 3,
+  "unit_name": "Chemical Bonding",
+  "topic": "Metallic Bonding",
+  "question": "Why are metals good conductors?",
+  "options": {
+    "A": "They have mobile electrons",
+    "B": "They are solid",
+    "C": "They have low density",
+    "D": "They reflect light"
+  },
+  "answer": "A",
+  "explanation": "In metallic bonding, valence electrons are delocalized and mobile, allowing easy flow of electricity and heat through the metal."
+}

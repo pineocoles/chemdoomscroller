@@ -1,0 +1,15 @@
+{
+  "id": "Q113",
+  "unit": 12,
+  "unit_name": "Electrochemistry",
+  "topic": "Half-cells",
+  "question": "What occurs at the cathode in a galvanic cell?",
+  "options": {
+    "A": "Oxidation",
+    "B": "Reduction",
+    "C": "Dissociation",
+    "D": "Precipitation"
+  },
+  "answer": "B",
+  "explanation": "At the cathode, reduction occurs (gain of electrons). This is where the positive terminal connects in a battery."
+}

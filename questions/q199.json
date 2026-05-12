@@ -1,0 +1,15 @@
+{
+  "id": "Q199",
+  "unit": 20,
+  "unit_name": "Bonding Concepts",
+  "topic": "Sigma and Pi Bonds",
+  "question": "How many \u03c3 and \u03c0 bonds in C\u2082H\u2084?",
+  "options": {
+    "A": "3\u03c3, 1\u03c0",
+    "B": "5\u03c3, 1\u03c0",
+    "C": "5\u03c3, 2\u03c0",
+    "D": "6\u03c3, 1\u03c0"
+  },
+  "answer": "B",
+  "explanation": "C\u2082H\u2084: 1 C=C (1\u03c3 + 1\u03c0) + 4 C-H bonds (4\u03c3) = 5\u03c3 and 1\u03c0 bonds."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "Q080",
+  "unit": 8,
+  "unit_name": "Oxidation-Reduction",
+  "topic": "Balancing",
+  "question": "In the reaction 3Cu + 8HNO\u2083 \u2192 3Cu(NO\u2083)\u2082 + 2NO + 4H\u2082O, what is oxidized?",
+  "options": {
+    "A": "H",
+    "B": "N",
+    "C": "Cu",
+    "D": "O"
+  },
+  "answer": "C",
+  "explanation": "Cu goes from 0 to +2 (oxidized). N goes from +5 to +2 (reduced). Cu is the reducing agent."
+}

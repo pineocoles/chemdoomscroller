@@ -1,0 +1,15 @@
+{
+  "id": "Q128",
+  "unit": 13,
+  "unit_name": "Organic Chemistry",
+  "topic": "Carboxylic Acids",
+  "question": "What is a carboxylic acid?",
+  "options": {
+    "A": "Compound with OH group",
+    "B": "Compound with COOH group",
+    "C": "Compound with NH\u2082",
+    "D": "Compound with aldehyde"
+  },
+  "answer": "B",
+  "explanation": "Carboxylic acids contain -COOH group (carbonyl + hydroxyl). Examples: acetic acid, formic acid."
+}

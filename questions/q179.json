@@ -1,0 +1,15 @@
+{
+  "id": "Q179",
+  "unit": 18,
+  "unit_name": "Reactions",
+  "topic": "Redox",
+  "question": "What makes a reaction redox?",
+  "options": {
+    "A": "Heat production",
+    "B": "Change in oxidation states",
+    "C": "Color change",
+    "D": "Sound"
+  },
+  "answer": "B",
+  "explanation": "Redox reaction involves electron transfer (change in oxidation states). At least one element oxidized, one reduced."
+}

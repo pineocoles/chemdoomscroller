@@ -1,0 +1,15 @@
+{
+  "id": "Q140",
+  "unit": 14,
+  "unit_name": "Nuclear Chemistry",
+  "topic": "Stability",
+  "question": "Which nucleus is most stable?",
+  "options": {
+    "A": "\u00b9H",
+    "B": "\u2074He",
+    "C": "\u00b2\u00b3\u2075U",
+    "D": "\u00b9\u2074C"
+  },
+  "answer": "B",
+  "explanation": "\u2074He (alpha particle) is extremely stable with binding energy per nucleon of 7.07 MeV, higher than most nuclei."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "Q017",
+  "unit": 2,
+  "unit_name": "Stoichiometric Calculations",
+  "topic": "Mole Concept",
+  "question": "How many moles of electrons are in 1 mole of Fe\u00b3\u207a ions?",
+  "options": {
+    "A": "1 mole",
+    "B": "3 moles",
+    "C": "26 moles",
+    "D": "30 moles"
+  },
+  "answer": "A",
+  "explanation": "Fe\u00b3\u207a has lost 3 electrons. Each Fe\u00b3\u207a ion is 1 particle, so 1 mole of Fe\u00b3\u207a = 1 mole of Fe\u00b3\u207a ions. The ion itself is the counting unit."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "Q240",
+  "unit": 24,
+  "unit_name": "Advanced Equilibrium",
+  "topic": "Precipitation Prediction",
+  "question": "When Q > Ksp, what happens?",
+  "options": {
+    "A": "More solid dissolves",
+    "B": "Precipitate forms",
+    "C": "Equilibrium shifts left",
+    "D": "No change"
+  },
+  "answer": "B",
+  "explanation": "Q > Ksp: system above saturation, precipitate forms to decrease ion concentrations until Q = Ksp."
+}

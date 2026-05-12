@@ -1,0 +1,15 @@
+{
+  "id": "Q288",
+  "unit": 29,
+  "unit_name": "Final Review",
+  "topic": "Comprehensive",
+  "question": "What is most important concept in chemistry?",
+  "options": {
+    "A": "Chemical formula only",
+    "B": "Understanding bonding and electron transfer",
+    "C": "Memorizing all reactions",
+    "D": "Calculating molarity"
+  },
+  "answer": "B",
+  "explanation": "Understanding how electrons interact (bonding, oxidation-reduction, acid-base) explains all chemistry. Structure determines properties."
+}

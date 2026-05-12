@@ -1,0 +1,15 @@
+{
+  "id": "Q264",
+  "unit": 27,
+  "unit_name": "Environmental Chemistry",
+  "topic": "Acid Rain",
+  "question": "What causes acid rain?",
+  "options": {
+    "A": "Sunlight only",
+    "B": "SO\u2082 and NO\u2082 forming acids in atmosphere",
+    "C": "Pure water",
+    "D": "Temperature"
+  },
+  "answer": "B",
+  "explanation": "Acid rain: SO\u2082 + NO\u2082 oxidized to H\u2082SO\u2084 and HNO\u2083 in atmosphere. Falls as acidic precipitation (pH < 5.6)."
+}

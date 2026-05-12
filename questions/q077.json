@@ -1,0 +1,15 @@
+{
+  "id": "Q077",
+  "unit": 8,
+  "unit_name": "Oxidation-Reduction",
+  "topic": "Balancing Redox",
+  "question": "What is a redox reaction?",
+  "options": {
+    "A": "A reaction producing water",
+    "B": "A reaction where electrons transfer",
+    "C": "A reaction with acid and base",
+    "D": "A reaction that is reversible"
+  },
+  "answer": "B",
+  "explanation": "A redox (reduction-oxidation) reaction involves transfer of electrons between species. Oxidation and reduction occur simultaneously."
+}

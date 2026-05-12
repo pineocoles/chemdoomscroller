@@ -1,0 +1,15 @@
+{
+  "id": "Q096",
+  "unit": 10,
+  "unit_name": "Kinetics",
+  "topic": "Order of Reaction",
+  "question": "What is first-order reaction?",
+  "options": {
+    "A": "Rate = k[A]",
+    "B": "Rate = k[A]\u00b2",
+    "C": "Rate = k",
+    "D": "Rate = k[A][B]"
+  },
+  "answer": "A",
+  "explanation": "In first-order reactions, rate is proportional to first power of reactant concentration. Half-life is constant."
+}

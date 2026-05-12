@@ -1,0 +1,15 @@
+{
+  "id": "Q227",
+  "unit": 23,
+  "unit_name": "Complex Chemistry",
+  "topic": "Color",
+  "question": "Why are transition metal complexes colored?",
+  "options": {
+    "A": "Metal is colored",
+    "B": "d-d transitions (electrons jump between split d-orbitals)",
+    "C": "All compounds are colored",
+    "D": "Ligands are always colored"
+  },
+  "answer": "B",
+  "explanation": "Colored complexes result from d-d electronic transitions. Photons absorbed correspond to \u0394 (crystal field splitting)."
+}

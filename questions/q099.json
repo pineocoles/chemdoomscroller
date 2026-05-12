@@ -1,0 +1,15 @@
+{
+  "id": "Q099",
+  "unit": 10,
+  "unit_name": "Kinetics",
+  "topic": "Arrhenius Equation",
+  "question": "What does the Arrhenius equation describe?",
+  "options": {
+    "A": "Equilibrium constant",
+    "B": "Relationship between rate constant and temperature",
+    "C": "Pressure and volume",
+    "D": "pH calculation"
+  },
+  "answer": "B",
+  "explanation": "Arrhenius equation: k = Ae^(-E\u2090/RT). It shows how rate constant k increases with temperature and decreases with activation energy."
+}

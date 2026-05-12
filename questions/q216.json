@@ -1,0 +1,15 @@
+{
+  "id": "Q216",
+  "unit": 22,
+  "unit_name": "Properties",
+  "topic": "Brittleness",
+  "question": "What makes ionic crystals brittle?",
+  "options": {
+    "A": "Weak bonds",
+    "B": "Electrostatic repulsion between like charges",
+    "C": "High density",
+    "D": "Large size"
+  },
+  "answer": "B",
+  "explanation": "Ionic crystals are brittle because shifting layers brings like charges (+ to + or - to -) into proximity, causing repulsion and breaking."
+}

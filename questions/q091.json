@@ -1,0 +1,15 @@
+{
+  "id": "Q091",
+  "unit": 10,
+  "unit_name": "Kinetics",
+  "topic": "Reaction Rate",
+  "question": "What is reaction rate?",
+  "options": {
+    "A": "Speed of a reaction",
+    "B": "Change in concentration per unit time",
+    "C": "Temperature of reaction",
+    "D": "Pressure of reaction"
+  },
+  "answer": "B",
+  "explanation": "Reaction rate is the change in concentration of a substance per unit time, typically measured in mol/(L\u00b7s)."
+}

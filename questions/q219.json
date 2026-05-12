@@ -1,0 +1,15 @@
+{
+  "id": "Q219",
+  "unit": 22,
+  "unit_name": "Properties",
+  "topic": "Conductivity",
+  "question": "Why do metals conduct electricity?",
+  "options": {
+    "A": "Fixed electrons",
+    "B": "Mobile valence electrons",
+    "C": "Ionic bonding",
+    "D": "No resistance"
+  },
+  "answer": "B",
+  "explanation": "Metals conduct electricity because valence electrons are delocalized and mobile (not bound to specific atoms)."
+}

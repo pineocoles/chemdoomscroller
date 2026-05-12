@@ -1,0 +1,15 @@
+{
+  "id": "Q025",
+  "unit": 3,
+  "unit_name": "Chemical Bonding",
+  "topic": "Electronegativity",
+  "question": "Which element has the highest electronegativity?",
+  "options": {
+    "A": "Na",
+    "B": "O",
+    "C": "F",
+    "D": "Cl"
+  },
+  "answer": "C",
+  "explanation": "Fluorine has the highest electronegativity (4.0). It most strongly attracts electrons in chemical bonds."
+}

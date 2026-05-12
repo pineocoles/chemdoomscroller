@@ -1,0 +1,15 @@
+{
+  "id": "Q254",
+  "unit": 26,
+  "unit_name": "Polymers",
+  "topic": "Monomer",
+  "question": "What is a monomer?",
+  "options": {
+    "A": "Large polymer molecule",
+    "B": "Small molecule that repeats in polymer",
+    "C": "Metal compound",
+    "D": "Single element"
+  },
+  "answer": "B",
+  "explanation": "Monomer (mono=one) is small molecule (like ethene, glucose) that repeats many times to form polymer."
+}

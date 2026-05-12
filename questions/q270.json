@@ -1,0 +1,15 @@
+{
+  "id": "Q270",
+  "unit": 27,
+  "unit_name": "Environmental Chemistry",
+  "topic": "Sustainable",
+  "question": "What is sustainability?",
+  "options": {
+    "A": "Using more resources",
+    "B": "Meeting needs without depleting resources for future",
+    "C": "No environmental concern",
+    "D": "Unlimited consumption"
+  },
+  "answer": "B",
+  "explanation": "Sustainability: using natural resources responsibly to meet current needs without compromising future generations' ability to meet theirs."
+}

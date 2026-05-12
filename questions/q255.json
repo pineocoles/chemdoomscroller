@@ -1,0 +1,15 @@
+{
+  "id": "Q255",
+  "unit": 26,
+  "unit_name": "Polymers",
+  "topic": "Cross-linking",
+  "question": "What does cross-linking do?",
+  "options": {
+    "A": "Weakens polymer",
+    "B": "Forms bonds between polymer chains",
+    "C": "Breaks chains",
+    "D": "Dissolves polymer"
+  },
+  "answer": "B",
+  "explanation": "Cross-linking creates bonds between separate polymer chains, increasing strength, hardness, and thermal stability."
+}

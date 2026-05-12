@@ -1,0 +1,15 @@
+{
+  "id": "Q143",
+  "unit": 15,
+  "unit_name": "Chemistry Review",
+  "topic": "Gas Laws",
+  "question": "At STP, what volume is 1 mole of gas?",
+  "options": {
+    "A": "11.2 L",
+    "B": "22.4 L",
+    "C": "44.8 L",
+    "D": "112 L"
+  },
+  "answer": "B",
+  "explanation": "Molar volume at STP (0\u00b0C, 1 atm) = 22.4 L/mol. This is a fundamental constant in chemistry."
+}

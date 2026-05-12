@@ -1,0 +1,15 @@
+{
+  "id": "Q006",
+  "unit": 1,
+  "unit_name": "Stoichiometric Relationships",
+  "topic": "Intro To Particulate Nature",
+  "question": "Which factor does NOT affect gas pressure?",
+  "options": {
+    "A": "Number of particles",
+    "B": "Temperature",
+    "C": "Volume",
+    "D": "Color of the container"
+  },
+  "answer": "D",
+  "explanation": "Gas pressure depends on particle number, temperature, and volume (Gay-Lussac's Law, Charles's Law, Boyle's Law). The container's color has no effect on particle behavior."
+}

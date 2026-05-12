@@ -1,0 +1,15 @@
+{
+  "id": "Q124",
+  "unit": 13,
+  "unit_name": "Organic Chemistry",
+  "topic": "Aromatic",
+  "question": "What is benzene's structure?",
+  "options": {
+    "A": "Linear molecule",
+    "B": "Six membered ring with alternating double bonds",
+    "C": "Three double bonds",
+    "D": "Single ring with four carbons"
+  },
+  "answer": "B",
+  "explanation": "Benzene (C\u2086H\u2086) is a six-membered aromatic ring with resonance-stabilized structure. Each C-C bond is between single and double."
+}

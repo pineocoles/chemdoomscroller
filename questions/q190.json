@@ -1,0 +1,15 @@
+{
+  "id": "Q190",
+  "unit": 19,
+  "unit_name": "Group Trends",
+  "topic": "Allotropy",
+  "question": "What is allotropy?",
+  "options": {
+    "A": "Different compounds of element",
+    "B": "Different forms of same element",
+    "C": "Different elements",
+    "D": "Different ions"
+  },
+  "answer": "B",
+  "explanation": "Allotropes are different forms of same element in same physical state. Examples: O\u2082 and O\u2083 (oxygen), diamond and graphite (carbon)."
+}

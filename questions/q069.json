@@ -1,0 +1,15 @@
+{
+  "id": "Q069",
+  "unit": 7,
+  "unit_name": "Acids and Bases",
+  "topic": "Conjugate Pairs",
+  "question": "What is the conjugate acid of OH\u207b?",
+  "options": {
+    "A": "O\u00b2\u207b",
+    "B": "H\u2082O",
+    "C": "H\u2083O\u207a",
+    "D": "OOH\u207b"
+  },
+  "answer": "B",
+  "explanation": "A conjugate acid results from adding a proton to a base. OH\u207b gains H\u207a to form H\u2082O."
+}

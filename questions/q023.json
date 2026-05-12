@@ -1,0 +1,15 @@
+{
+  "id": "Q023",
+  "unit": 3,
+  "unit_name": "Chemical Bonding",
+  "topic": "Covalent Bonds",
+  "question": "What type of bond exists in O\u2082?",
+  "options": {
+    "A": "Ionic",
+    "B": "Covalent",
+    "C": "Metallic",
+    "D": "Hydrogen"
+  },
+  "answer": "B",
+  "explanation": "Two nonmetals share electrons in covalent bonds. O\u2082 has a double covalent bond between oxygen atoms."
+}

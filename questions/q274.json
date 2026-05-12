@@ -1,0 +1,15 @@
+{
+  "id": "Q274",
+  "unit": 28,
+  "unit_name": "Special Topics",
+  "topic": "Biochemistry",
+  "question": "What is ATP?",
+  "options": {
+    "A": "Nucleotide only",
+    "B": "Energy currency of cells",
+    "C": "Protein",
+    "D": "Lipid"
+  },
+  "answer": "B",
+  "explanation": "ATP (adenosine triphosphate): energy molecule in cells. Hydrolysis releases ~30.5 kJ/mol for cellular processes."
+}

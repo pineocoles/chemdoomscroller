@@ -1,0 +1,15 @@
+{
+  "id": "Q181",
+  "unit": 19,
+  "unit_name": "Group Trends",
+  "topic": "Alkali Metals",
+  "question": "What is Group 1 elements?",
+  "options": {
+    "A": "Transition metals",
+    "B": "Alkali metals",
+    "C": "Alkaline earth metals",
+    "D": "Halogens"
+  },
+  "answer": "B",
+  "explanation": "Group 1 (IA) elements are alkali metals: Li, Na, K, Rb, Cs, Fr. They have 1 valence electron, form +1 cations."
+}

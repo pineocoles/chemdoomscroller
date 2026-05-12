@@ -1,0 +1,15 @@
+{
+  "id": "Q093",
+  "unit": 10,
+  "unit_name": "Kinetics",
+  "topic": "Catalysts",
+  "question": "What is a catalyst?",
+  "options": {
+    "A": "A reactant consumed in reaction",
+    "B": "A substance that speeds up reaction without being consumed",
+    "C": "A product of the reaction",
+    "D": "Heat added to the system"
+  },
+  "answer": "B",
+  "explanation": "A catalyst increases reaction rate by lowering activation energy, but is not consumed in the reaction."
+}

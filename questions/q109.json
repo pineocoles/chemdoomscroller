@@ -1,0 +1,15 @@
+{
+  "id": "Q109",
+  "unit": 11,
+  "unit_name": "Chemical Equilibrium",
+  "topic": "Reaction Quotient",
+  "question": "What is Q?",
+  "options": {
+    "A": "Equilibrium constant",
+    "B": "Reaction quotient (same form as K but any time)",
+    "C": "Solubility",
+    "D": "pH"
+  },
+  "answer": "B",
+  "explanation": "Q is the reaction quotient with same form as K. When Q < K, reaction goes forward; when Q > K, reaction goes backward."
+}

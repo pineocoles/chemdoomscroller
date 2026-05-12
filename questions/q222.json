@@ -1,0 +1,15 @@
+{
+  "id": "Q222",
+  "unit": 23,
+  "unit_name": "Complex Chemistry",
+  "topic": "Coordination Number",
+  "question": "What is coordination number?",
+  "options": {
+    "A": "Oxidation state",
+    "B": "Number of ligands around central metal",
+    "C": "Number of electrons",
+    "D": "Valence electrons"
+  },
+  "answer": "B",
+  "explanation": "Coordination number = number of ligands bonded to central metal atom. Common: 2, 4, 6."
+}

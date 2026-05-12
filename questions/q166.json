@@ -1,0 +1,15 @@
+{
+  "id": "Q166",
+  "unit": 17,
+  "unit_name": "Solutions",
+  "topic": "van 't Hoff Factor",
+  "question": "What is van 't Hoff factor (i)?",
+  "options": {
+    "A": "Solubility ratio",
+    "B": "Number of particles produced per formula unit in solution",
+    "C": "Boiling point constant",
+    "D": "Freezing point constant"
+  },
+  "answer": "B",
+  "explanation": "van 't Hoff factor i relates ideal (i=1) to real behavior. NaCl: i\u22482 (Na\u207a + Cl\u207b); CaCl\u2082: i\u22483."
+}

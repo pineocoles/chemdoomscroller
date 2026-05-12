@@ -1,0 +1,15 @@
+{
+  "id": "Q090",
+  "unit": 9,
+  "unit_name": "Thermochemistry",
+  "topic": "Temperature Effect",
+  "question": "How does temperature affect spontaneity?",
+  "options": {
+    "A": "Temperature has no effect",
+    "B": "Higher T always makes reactions spontaneous",
+    "C": "Can affect spontaneity through \u0394G = \u0394H - T\u0394S",
+    "D": "Temperature only affects \u0394H"
+  },
+  "answer": "C",
+  "explanation": "Since \u0394G = \u0394H - T\u0394S, temperature affects whether a reaction is spontaneous. High T favors entropy-driven processes."
+}

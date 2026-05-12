@@ -1,0 +1,15 @@
+{
+  "id": "Q028",
+  "unit": 3,
+  "unit_name": "Chemical Bonding",
+  "topic": "Lewis Structures",
+  "question": "What is the octet rule?",
+  "options": {
+    "A": "Atoms form 8 bonds",
+    "B": "Atoms gain 8 electrons",
+    "C": "Atoms seek 8 valence electrons",
+    "D": "Atoms have 8 inner electrons"
+  },
+  "answer": "C",
+  "explanation": "The octet rule states that atoms tend to gain, lose, or share electrons to achieve 8 valence electrons (noble gas configuration)."
+}

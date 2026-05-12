@@ -1,0 +1,15 @@
+{
+  "id": "Q012",
+  "unit": 2,
+  "unit_name": "Stoichiometric Calculations",
+  "topic": "Mole Concept",
+  "question": "What is the molar mass of NaCl?",
+  "options": {
+    "A": "35.5 g/mol",
+    "B": "46.5 g/mol",
+    "C": "58.5 g/mol",
+    "D": "82 g/mol"
+  },
+  "answer": "C",
+  "explanation": "Molar mass NaCl = 23 (Na) + 35.5 (Cl) = 58.5 g/mol"
+}

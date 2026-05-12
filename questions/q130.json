@@ -1,0 +1,15 @@
+{
+  "id": "Q130",
+  "unit": 13,
+  "unit_name": "Organic Chemistry",
+  "topic": "Ketones",
+  "question": "What is a ketone?",
+  "options": {
+    "A": "Alcohol with OH",
+    "B": "Carboxylic acid with COOH",
+    "C": "Compound with C=O bonded to two carbons",
+    "D": "Compound with C=C"
+  },
+  "answer": "C",
+  "explanation": "Ketones have C=O group (carbonyl) bonded to two carbon atoms (not at end). Examples: acetone, propanone."
+}

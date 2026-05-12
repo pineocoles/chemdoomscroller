@@ -1,0 +1,15 @@
+{
+  "id": "Q029",
+  "unit": 3,
+  "unit_name": "Chemical Bonding",
+  "topic": "Metallic Bonding",
+  "question": "What type of bonding occurs in metals?",
+  "options": {
+    "A": "Ionic",
+    "B": "Covalent",
+    "C": "Metallic",
+    "D": "Hydrogen"
+  },
+  "answer": "C",
+  "explanation": "Metals form metallic bonds where valence electrons move freely in a 'sea' around cations, conducting electricity and heat."
+}

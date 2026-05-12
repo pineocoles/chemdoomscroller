@@ -1,0 +1,15 @@
+{
+  "id": "Q160",
+  "unit": 16,
+  "unit_name": "Advanced Topics",
+  "topic": "Lattice Energy",
+  "question": "What is lattice energy?",
+  "options": {
+    "A": "Energy to heat crystal",
+    "B": "Energy required to separate 1 mole ionic solid into gaseous ions",
+    "C": "Energy released in ionic bonding",
+    "D": "Heat of solution"
+  },
+  "answer": "B",
+  "explanation": "Lattice energy is energy needed to break apart ionic solid into gaseous ions. High lattice energy = strong ionic bonding."
+}

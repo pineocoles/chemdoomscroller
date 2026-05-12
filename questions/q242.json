@@ -1,0 +1,15 @@
+{
+  "id": "Q242",
+  "unit": 25,
+  "unit_name": "Spectroscopy Basics",
+  "topic": "UV-Vis",
+  "question": "What does UV-Vis spectroscopy measure?",
+  "options": {
+    "A": "Molecular mass",
+    "B": "Light absorption in UV-visible region",
+    "C": "Density",
+    "D": "Temperature"
+  },
+  "answer": "B",
+  "explanation": "UV-Vis spectroscopy measures absorption of light (200-700 nm) by molecules, identifying conjugation and functional groups."
+}

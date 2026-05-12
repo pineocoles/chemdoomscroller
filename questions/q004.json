@@ -1,0 +1,15 @@
+{
+  "id": "Q004",
+  "unit": 1,
+  "unit_name": "Stoichiometric Relationships",
+  "topic": "Intro To Particulate Nature",
+  "question": "What happens to particles when a substance changes from solid to liquid?",
+  "options": {
+    "A": "Particles stop moving",
+    "B": "Particles gain kinetic energy and increase motion",
+    "C": "Particles decrease in size",
+    "D": "Particles lose all potential energy"
+  },
+  "answer": "B",
+  "explanation": "During melting, particles gain enough kinetic energy to overcome some intermolecular forces, allowing them to move more freely while maintaining fixed volume. This is a phase transition."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "Q043",
+  "unit": 5,
+  "unit_name": "Intermolecular Forces",
+  "topic": "Hydrogen Bonding",
+  "question": "Which substance can form hydrogen bonds?",
+  "options": {
+    "A": "CH\u2084",
+    "B": "HF",
+    "C": "CCl\u2084",
+    "D": "CO\u2082"
+  },
+  "answer": "B",
+  "explanation": "HF can form hydrogen bonds because F is highly electronegative and H is bonded to it, meeting hydrogen bonding requirements."
+}

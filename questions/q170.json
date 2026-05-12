@@ -1,0 +1,15 @@
+{
+  "id": "Q170",
+  "unit": 17,
+  "unit_name": "Solutions",
+  "topic": "Supersaturation",
+  "question": "What is a supersaturated solution?",
+  "options": {
+    "A": "Solution with maximum solute",
+    "B": "Solution containing more solute than normally possible",
+    "C": "Solution with no solute",
+    "D": "Dilute solution"
+  },
+  "answer": "B",
+  "explanation": "Supersaturated solution is unstable and contains more dissolved solute than normally soluble. Any disturbance causes crystallization."
+}

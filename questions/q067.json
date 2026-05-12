@@ -1,0 +1,15 @@
+{
+  "id": "Q067",
+  "unit": 7,
+  "unit_name": "Acids and Bases",
+  "topic": "Titration",
+  "question": "What is titration?",
+  "options": {
+    "A": "Diluting a solution",
+    "B": "Determining concentration by reacting with standard solution",
+    "C": "Heating a solution",
+    "D": "Filtering a solution"
+  },
+  "answer": "B",
+  "explanation": "Titration is an analytical technique where a solution of known concentration is added to a solution of unknown concentration until the endpoint is reached."
+}

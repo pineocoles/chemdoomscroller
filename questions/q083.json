@@ -1,0 +1,15 @@
+{
+  "id": "Q083",
+  "unit": 9,
+  "unit_name": "Thermochemistry",
+  "topic": "Endothermic",
+  "question": "What is an endothermic reaction?",
+  "options": {
+    "A": "A reaction that releases heat",
+    "B": "A reaction that absorbs heat",
+    "C": "A reaction with negative \u0394H",
+    "D": "A reaction that decreases entropy"
+  },
+  "answer": "B",
+  "explanation": "Endothermic reactions absorb heat from surroundings (\u0394H > 0). Examples: melting ice, photosynthesis."
+}

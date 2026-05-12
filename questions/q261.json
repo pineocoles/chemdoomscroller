@@ -1,0 +1,15 @@
+{
+  "id": "Q261",
+  "unit": 27,
+  "unit_name": "Environmental Chemistry",
+  "topic": "Pollution",
+  "question": "What is air pollution?",
+  "options": {
+    "A": "Dust in air only",
+    "B": "Presence of harmful substances in atmosphere",
+    "C": "Water in air",
+    "D": "Oxygen in air"
+  },
+  "answer": "B",
+  "explanation": "Air pollution: harmful gases (CO, NO\u2082, SO\u2082, O\u2083), particulates, or aerosols in atmosphere harming health/environment."
+}

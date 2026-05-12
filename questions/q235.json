@@ -1,0 +1,15 @@
+{
+  "id": "Q235",
+  "unit": 24,
+  "unit_name": "Advanced Equilibrium",
+  "topic": "Ka and Kb Relationship",
+  "question": "What is relationship between Ka and Kb?",
+  "options": {
+    "A": "Ka = Kb",
+    "B": "Ka \u00d7 Kb = Kw",
+    "C": "Ka + Kb = 1",
+    "D": "Ka = 1/Kb"
+  },
+  "answer": "B",
+  "explanation": "For conjugate acid-base pair: Ka \u00d7 Kb = Kw (water ionization constant, 1.0 \u00d7 10\u207b\u00b9\u2074)."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "Q213",
+  "unit": 22,
+  "unit_name": "Properties",
+  "topic": "Boiling Point",
+  "question": "Which compound has lowest boiling point?",
+  "options": {
+    "A": "CH\u2084",
+    "B": "C\u2082H\u2086",
+    "C": "C\u2083H\u2088",
+    "D": "C\u2084H\u2081\u2080"
+  },
+  "answer": "A",
+  "explanation": "BP increases with chain length due to stronger London forces. CH\u2084 (-162\u00b0C) < C\u2082H\u2086 (-89\u00b0C) < C\u2083H\u2088 (-42\u00b0C) < C\u2084H\u2081\u2080 (0\u00b0C)."
+}

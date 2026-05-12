@@ -1,0 +1,15 @@
+{
+  "id": "Q064",
+  "unit": 7,
+  "unit_name": "Acids and Bases",
+  "topic": "Ka and Kb",
+  "question": "What is a strong acid?",
+  "options": {
+    "A": "An acid that partially ionizes",
+    "B": "An acid that completely ionizes",
+    "C": "An acid with low pH",
+    "D": "An acid with high molar mass"
+  },
+  "answer": "B",
+  "explanation": "Strong acids completely ionize in water (HCl, HBr, HI, HNO\u2083, H\u2082SO\u2084, HClO\u2084). Weak acids only partially ionize."
+}

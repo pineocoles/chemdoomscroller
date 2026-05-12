@@ -1,0 +1,15 @@
+{
+  "id": "Q116",
+  "unit": 12,
+  "unit_name": "Electrochemistry",
+  "topic": "Faraday's Law",
+  "question": "What does Faraday's Law relate?",
+  "options": {
+    "A": "Voltage and current",
+    "B": "Electrical charge to amount of substance produced",
+    "C": "Temperature and pressure",
+    "D": "Density and volume"
+  },
+  "answer": "B",
+  "explanation": "Faraday's Law: moles of substance = (charge in coulombs) / (Faraday constant, 96485 C/mol)."
+}

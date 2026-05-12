@@ -1,0 +1,15 @@
+{
+  "id": "Q070",
+  "unit": 7,
+  "unit_name": "Acids and Bases",
+  "topic": "Amphiprotic",
+  "question": "Which substance is amphiprotic?",
+  "options": {
+    "A": "HCl",
+    "B": "H\u2082O",
+    "C": "NaOH",
+    "D": "HNO\u2083"
+  },
+  "answer": "B",
+  "explanation": "Water is amphiprotic (amphoteric) because it can act as both an acid (donating H\u207a) and a base (accepting H\u207a)."
+}

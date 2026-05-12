@@ -1,0 +1,15 @@
+{
+  "id": "Q126",
+  "unit": 13,
+  "unit_name": "Organic Chemistry",
+  "topic": "Functional Groups",
+  "question": "What is a functional group?",
+  "options": {
+    "A": "Main carbon chain",
+    "B": "Part of molecule responsible for chemical properties",
+    "C": "Ring structure",
+    "D": "Number of carbons"
+  },
+  "answer": "B",
+  "explanation": "Functional groups (OH, NH\u2082, C=O, etc.) determine compound's chemical behavior and reactions."
+}
