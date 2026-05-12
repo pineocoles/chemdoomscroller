@@ -3,6 +3,17 @@
 // ============================================================
 
 const DATA_ROOT = "questions/";
+const RXN_IMAGES = Array.from({length: 8}, (_, i) => `images/rxn_${String(i+1).padStart(2,'0')}.png`);
+const COMMENT_USERS = [
+  { emoji: '🧪', name: 'chem.nerd42',    time: '2h',  likes: 14 },
+  { emoji: '⚗️', name: 'labrat.irl',     time: '5h',  likes: 7  },
+  { emoji: '🔬', name: 'molecula_99',    time: '1d',  likes: 31 },
+  { emoji: '🧬', name: 'organic.only',   time: '3d',  likes: 4  },
+  { emoji: '⚡', name: 'rxn.enjoyer',    time: '1w',  likes: 89 },
+  { emoji: '🌡️', name: 'thermo.king',   time: '2w',  likes: 22 },
+  { emoji: '🧫', name: 'petri.dish.fan', time: '3w',  likes: 55 },
+  { emoji: '🔭', name: 'sciencegirl_7',  time: '1mo', likes: 103},
+];
 const STORAGE = {
   filters: "chemdoom.filters",
   streak: "chemdoom.streak",
@@ -230,7 +241,69 @@ function buildCard(entry, data, isPlaceholder) {
     expandBtn.textContent = captionEl.classList.contains("caption-collapsed") ? "more" : "less";
   });
 
+  card.querySelector(".comments button").addEventListener("click", openCommentSheet);
+
   return card;
+}
+
+// ============================================================
+// comment sheet
+// ============================================================
+function openCommentSheet() {
+  const list = document.getElementById("commentList");
+  list.innerHTML = "";
+
+  // shuffle both arrays independently so images and users are random each open
+  const imgs  = [...RXN_IMAGES].sort(() => Math.random() - 0.5);
+  const users = [...COMMENT_USERS].sort(() => Math.random() - 0.5);
+  const count = Math.min(imgs.length, users.length);
+
+  for (let i = 0; i < count; i++) {
+    const u  = users[i];
+    const li = document.createElement("li");
+    li.className = "comment";
+    li.innerHTML = `
+      <div class="comment-avatar" aria-hidden="true">${u.emoji}</div>
+      <div class="comment-body">
+        <div class="comment-meta">
+          <span class="comment-username">${u.name}</span>
+          <span class="comment-timestamp">${u.time}</span>
+        </div>
+        <img class="comment-image" src="${imgs[i]}" alt="reaction image" loading="lazy" />
+        <div class="comment-actions">
+          <button class="btn-reply" type="button">Reply</button>
+        </div>
+      </div>
+      <div class="comment-like">
+        <button class="like-icon" type="button" aria-label="Like comment">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+            <path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"/>
+          </svg>
+        </button>
+        <span class="like-count">${u.likes}</span>
+      </div>
+    `;
+    li.querySelector(".like-icon").addEventListener("click", function() {
+      toggleCommentLike(this);
+    });
+    list.appendChild(li);
+  }
+
+  openSheet(document.getElementById("commentSheet"));
+}
+
+function toggleCommentLike(btn) {
+  const isLiked = btn.classList.toggle("liked");
+  const path = btn.querySelector("svg path");
+  path.setAttribute("fill", isLiked ? "currentColor" : "none");
+  btn.setAttribute("aria-label", isLiked ? "Unlike comment" : "Like comment");
+
+  const countEl = btn.closest(".comment-like").querySelector(".like-count");
+  const n = parseInt(countEl.textContent) || 0;
+  countEl.textContent = n + (isLiked ? 1 : -1);
+
+  btn.style.transform = "scale(1.35)";
+  setTimeout(() => btn.style.transform = "", 150);
 }
 
 function handleAnswer(card, btn, data) {
