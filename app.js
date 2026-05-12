@@ -3,7 +3,25 @@
 // ============================================================
 
 const DATA_ROOT = "questions/";
-const RXN_IMAGES = Array.from({length: 8}, (_, i) => `images/rxn_${String(i+1).padStart(2,'0')}.png`);
+const RXN_IMAGES = [
+  "images/page_1_image_1.png",
+  "images/page_1_image_2.png",
+  "images/page_1_image_3.png",
+  "images/page_1_image_4.png",
+  "images/page_2_image_1.png",
+  "images/page_3_image_1.png",
+  "images/page_3_image_2.png",
+  "images/page_4_image_1.png",
+  "images/page_4_image_2.png",
+  "images/page_5_image_1.png",
+  "images/page_5_image_2.png",
+  "images/page_5_image_3.png",
+  "images/page_6_image_1.png",
+  "images/page_6_image_2.png",
+  "images/page_7_image_1.png",
+  "images/page_7_image_2.png",
+  "images/page_8_image_1.png",
+];
 const COMMENT_USERS = [
   { emoji: '🧪', name: 'chem.nerd42',    time: '2h',  likes: 14 },
   { emoji: '⚗️', name: 'labrat.irl',     time: '5h',  likes: 7  },
