@@ -143,17 +143,28 @@ function shuffleAnswers(data) {
     const k = Math.floor(Math.random() * (i + 1));
     [order[i], order[k]] = [order[k], order[i]];
   }
-  const correctIdx = data.answer !== undefined ? data.answer : data.correct;
-  const result = {
+
+  // figure out original correct index (handle letter OR number)
+  let origIdx;
+  const raw = data.answer !== undefined ? data.answer : data.correct;
+  if (typeof raw === "string" && raw.length === 1) {
+    origIdx = raw.charCodeAt(0) - 65; // A=0, B=1, C=2, D=3
+  } else {
+    origIdx = parseInt(raw);
+  }
+
+  const newIdx = order.indexOf(origIdx);
+  const newLetter = String.fromCharCode(65 + newIdx); // back to A/B/C/D
+
+  return {
+    q: data.q !== undefined ? data.q : data.question,
+    question: data.question !== undefined ? data.question : data.q,
     options: order.map(i => data.options[i]),
+    // return answer in the SAME format it came in
+    answer: typeof raw === "string" ? newLetter : newIdx,
+    correct: newIdx,
     explanation: data.explanation,
   };
-  // preserve whichever field name was used
-  if (data.question !== undefined) result.question = data.question;
-  if (data.q !== undefined) result.q = data.q;
-  if (data.answer !== undefined) result.answer = order.indexOf(correctIdx);
-  if (data.correct !== undefined) result.correct = order.indexOf(correctIdx);
-  return result;
 }
 // ============================================================
 // render
