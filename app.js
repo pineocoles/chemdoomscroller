@@ -7,6 +7,7 @@ const STORAGE = {
   filters: "chemdoom.filters",
   streak: "chemdoom.streak",
   answered: "chemdoom.answered",
+  theme: "chemdoom.theme",
 };
 
 const state = {
@@ -23,6 +24,7 @@ const state = {
 // boot
 // ============================================================
 async function boot() {
+  loadTheme();
   loadStreak();
   try {
     const res = await fetch("index.json");
@@ -34,6 +36,7 @@ async function boot() {
   loadFilters();
   buildPool();
   buildFilterUI();
+  attachThemeToggle();
   // render first batch
   appendQuestions(5);
   attachScrollObserver();
@@ -328,6 +331,27 @@ function attachScrollObserver() {
 // ============================================================
 // persistence
 // ============================================================
+function loadTheme() {
+  const theme = localStorage.getItem(STORAGE.theme) || "dark";
+  document.documentElement.setAttribute("data-theme", theme === "light" ? "light" : "dark");
+  const toggle = document.getElementById("themeToggle");
+  if (toggle) toggle.checked = theme === "light";
+}
+
+function saveTheme(isLight) {
+  localStorage.setItem(STORAGE.theme, isLight ? "light" : "dark");
+  document.documentElement.setAttribute("data-theme", isLight ? "light" : "dark");
+}
+
+function attachThemeToggle() {
+  const toggle = document.getElementById("themeToggle");
+  if (toggle) {
+    toggle.addEventListener("change", (e) => {
+      saveTheme(e.target.checked);
+    });
+  }
+}
+
 function loadStreak() {
   state.streak = parseInt(localStorage.getItem(STORAGE.streak) || "0");
   updateStreakUI();
