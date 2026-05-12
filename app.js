@@ -91,11 +91,12 @@ async function fetchQuestion(entry) {
     return state.questionCache.get(entry.path);
   }
   try {
-    const res = await fetch(DATA_ROOT + entry.path);
+    const res = await fetch(entry.path);
     const data = await res.json();
     state.questionCache.set(entry.path, data);
     return data;
   } catch (e) {
+    console.error("Failed to fetch", entry.path, e);
     return null;
   }
 }
