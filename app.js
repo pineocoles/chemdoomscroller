@@ -154,17 +154,33 @@ function buildCard(entry, data, isPlaceholder) {
     </button>
   `).join("");
 
+  const captionText = "Japan is turning footsteps into electricity! 🔋 Using piezoelectric tiles, every step you take generates a small amount of energy. Millions of steps together can power LED lights and displays in busy places like Shibuya Station. A brilliant way to create a sustainable and smart city";
+
   const questionText = data.question || data.q;
   card.innerHTML = `
     <div class="topic-tag">${escapeHtml(entry.topicName)}</div>
     <div class="q-number">${entry.path.split("/").pop().replace(".json","").toUpperCase()}</div>
     <h2 class="q-text">${escapeHtml(questionText)}</h2>
     <div class="options">${optionsHtml}</div>
+    <div class="caption-container">
+      <div class="caption-text caption-collapsed">${escapeHtml(captionText)}</div>
+      <button class="caption-expand-btn" aria-label="expand caption">more</button>
+    </div>
   `;
 
   card.querySelectorAll(".option").forEach(btn => {
     btn.addEventListener("click", () => handleAnswer(card, btn, data));
   });
+
+  // Caption expand/collapse
+  const captionText_el = card.querySelector(".caption-text");
+  const expandBtn = card.querySelector(".caption-expand-btn");
+  expandBtn.addEventListener("click", (e) => {
+    e.stopPropagation();
+    captionText_el.classList.toggle("caption-collapsed");
+    expandBtn.textContent = captionText_el.classList.contains("caption-collapsed") ? "more" : "less";
+  });
+
   return card;
 }
 
