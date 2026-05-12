@@ -449,6 +449,8 @@ function handleAnswer(card, btn, data) {
 
   // streak
   if (isCorrect) {
+    submitScore(state.streak);
+    
     state.streak++;
   } else {
     state.streak = 0;
