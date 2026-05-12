@@ -132,13 +132,12 @@ async function appendQuestions(n) {
 
 function buildCard(entry, data, isPlaceholder) {
   const card = document.createElement("section");
-  card.className = "card q-card";
+  card.className = "reel q-card";
   card.dataset.path = entry.path;
 
   const letters = ["A", "B", "C", "D"];
   let optionsArray;
 
-  // Handle both array and object formats for options
   if (Array.isArray(data.options)) {
     optionsArray = data.options;
   } else if (typeof data.options === "object" && data.options !== null) {
@@ -155,54 +154,67 @@ function buildCard(entry, data, isPlaceholder) {
   `).join("");
 
   const captionText = "Japan is turning footsteps into electricity! 🔋 Using piezoelectric tiles, every step you take generates a small amount of energy. Millions of steps together can power LED lights and displays in busy places like Shibuya Station. A brilliant way to create a sustainable and smart city";
-
   const questionText = data.question || data.q;
-  card.innerHTML = `
-    <div class="reels-container">
-      <!-- Left profile section -->
-      <div class="profile-section">
-        <div class="profile-avatar">Cl</div>
-        <div class="profile-info">
-          <div class="profile-name">chemdoom</div>
-          <button class="follow-btn">Follow</button>
-        </div>
-      </div>
 
-      <!-- Main content -->
-      <div class="reels-content">
+  card.innerHTML = `
+    <svg aria-hidden="true" xmlns="http://www.w3.org/2000/svg" class="heart-icon" viewBox="0 0 512 512"><path d="M256 448a32 32 0 01-18-5.57c-78.59-53.35-112.62-89.93-131.39-112.8-40-48.75-59.15-98.8-58.61-153C48.63 114.52 98.46 64 159.08 64c44.08 0 74.61 24.83 92.39 45.51a6 6 0 009.06 0C278.31 88.81 308.84 64 352.92 64c60.62 0 110.45 50.52 111.08 112.64.54 54.21-18.63 104.26-58.61 153-18.77 22.87-52.8 59.45-131.39 112.8a32 32 0 01-18 5.56z"/></svg>
+
+    <div class="overlay">
+      <div class="top">
         <div class="topic-tag">${escapeHtml(entry.topicName)}</div>
         <div class="q-number">${entry.path.split("/").pop().replace(".json","").toUpperCase()}</div>
         <h2 class="q-text">${escapeHtml(questionText)}</h2>
         <div class="options">${optionsHtml}</div>
       </div>
 
-      <!-- Right sidebar with actions -->
-      <div class="reels-sidebar">
-        <button class="action-btn" aria-label="like">
-          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"/></svg>
-          <span class="action-count">42</span>
-        </button>
-        <button class="action-btn" aria-label="comment">
-          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg>
-          <span class="action-count">18</span>
-        </button>
-        <button class="action-btn" aria-label="share">
-          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/><line x1="8.59" y1="13.51" x2="15.42" y2="17.49"/><line x1="15.41" y1="6.51" x2="8.59" y2="10.49"/></svg>
-          <span class="action-count">7</span>
-        </button>
-        <button class="action-btn" aria-label="bookmark">
-          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M19 21H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h10l5 5v11a2 2 0 0 1-2 2z"/></svg>
-          <span class="action-count">12</span>
-        </button>
-      </div>
-
-      <!-- Bottom caption -->
-      <div class="reels-caption">
-        <div class="caption-container">
-          <div class="caption-text caption-collapsed">${escapeHtml(captionText)}</div>
-          <button class="caption-expand-btn" aria-label="expand caption">more</button>
+      <article class="meta_container">
+        <div class="author">
+          <figure class="figure avatar-initials" aria-hidden="true">Cl</figure>
+          <div class="author_artist-container">
+            <div class="reel_author">chemdoom</div>
+            <button type="button" class="follow_btn">Follow</button>
+          </div>
         </div>
-      </div>
+        <div class="caption">
+          <p class="caption-text caption-collapsed">${escapeHtml(captionText)}</p>
+          <button type="button" class="caption-expand-btn">more</button>
+        </div>
+      </article>
+
+      <aside class="meta_sidebar">
+        <div class="hearts meta_count-container">
+          <span class="access-hidden">Number of Likes</span>
+          <button type="button" class="heart_button" aria-label="Like">
+            <svg aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M256 448a32 32 0 01-18-5.57c-78.59-53.35-112.62-89.93-131.39-112.8-40-48.75-59.15-98.8-58.61-153C48.63 114.52 98.46 64 159.08 64c44.08 0 74.61 24.83 92.39 45.51a6 6 0 009.06 0C278.31 88.81 308.84 64 352.92 64c60.62 0 110.45 50.52 111.08 112.64.54 54.21-18.63 104.26-58.61 153-18.77 22.87-52.8 59.45-131.39 112.8a32 32 0 01-18 5.56z"/></svg>
+          </button>
+          <div class="meta_count likes-count">0</div>
+        </div>
+        <div class="comments meta_count-container">
+          <span class="access-hidden">Number of Comments</span>
+          <button type="button" aria-label="Comment">
+            <svg aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M87.49 380c1.19-4.38-1.44-10.47-3.95-14.86a44.86 44.86 0 00-2.54-3.8 199.81 199.81 0 01-33-110C47.65 139.09 140.73 48 255.83 48 356.21 48 440 117.54 459.58 209.85a199 199 0 014.42 41.64c0 112.41-89.49 204.93-204.59 204.93-18.3 0-43-4.6-56.47-8.37s-26.92-8.77-30.39-10.11a31.09 31.09 0 00-11.12-2.07 30.71 30.71 0 00-12.09 2.43l-67.83 24.48a16 16 0 01-4.67 1.22 9.6 9.6 0 01-9.57-9.74 15.85 15.85 0 01.6-3.29z" fill="none" stroke="currentColor" stroke-linecap="round" stroke-miterlimit="10" stroke-width="32"/></svg>
+          </button>
+          <div class="meta_count">6</div>
+        </div>
+        <div class="remix meta_count-container">
+          <span class="access-hidden">Share</span>
+          <button type="button" aria-label="Share">
+            <svg aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="32" d="M320 120l48 48-48 48"/><path d="M352 168H144a80.24 80.24 0 00-80 80v16M192 392l-48-48 48-48" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="32"/><path d="M160 344h208a80.24 80.24 0 0080-80v-16" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="32"/></svg>
+          </button>
+        </div>
+        <div class="send meta_count-container">
+          <span class="access-hidden">Send</span>
+          <button type="button" aria-label="Send">
+            <svg aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M448 64L64 240.14h200a8 8 0 018 8V448z" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="32"/></svg>
+          </button>
+        </div>
+        <div class="ellipsis meta_count-container">
+          <span class="access-hidden">More</span>
+          <button type="button" aria-label="More options">
+            <svg aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><circle cx="256" cy="256" r="48"/><circle cx="416" cy="256" r="48"/><circle cx="96" cy="256" r="48"/></svg>
+          </button>
+        </div>
+      </aside>
     </div>
   `;
 
@@ -210,13 +222,12 @@ function buildCard(entry, data, isPlaceholder) {
     btn.addEventListener("click", () => handleAnswer(card, btn, data));
   });
 
-  // Caption expand/collapse
-  const captionText_el = card.querySelector(".caption-text");
+  const captionEl = card.querySelector(".caption-text");
   const expandBtn = card.querySelector(".caption-expand-btn");
   expandBtn.addEventListener("click", (e) => {
     e.stopPropagation();
-    captionText_el.classList.toggle("caption-collapsed");
-    expandBtn.textContent = captionText_el.classList.contains("caption-collapsed") ? "more" : "less";
+    captionEl.classList.toggle("caption-collapsed");
+    expandBtn.textContent = captionEl.classList.contains("caption-collapsed") ? "more" : "less";
   });
 
   return card;
