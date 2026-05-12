@@ -231,12 +231,6 @@ body {
   inset: 0;
   width: 100%;
   height: 100%;
-  display: grid;
-  grid-template-columns: 9fr 1fr;
-  grid-template-rows: 1fr auto;
-  align-items: end;
-  padding: calc(var(--safe-top) + 58px) 8px calc(var(--safe-bot) + 20px) 16px;
-  gap: 0.5rem;
   background: linear-gradient(
     to bottom,
     rgba(0,0,0,0.08) 0%,
@@ -246,22 +240,28 @@ body {
   );
 }
 
+/* question content — fills the card, padded so it doesn't sit behind the caption */
 .top {
-  grid-column: span 2;
-  grid-row: 1;
-  align-self: start;
+  position: absolute;
+  top: calc(var(--safe-top) + 58px);
+  left: 16px;
+  right: 60px; /* leave room for sidebar */
+  bottom: 120px; /* leave room for collapsed caption + author */
   display: flex;
   flex-direction: column;
   overflow-y: auto;
   scrollbar-width: none;
-  padding-bottom: 1rem;
+  z-index: 2;
 }
 .top::-webkit-scrollbar { display: none; }
 
-/* ---- bottom left: author + caption ---- */
+/* ---- bottom left: author + caption — sits OVER the questions ---- */
 .meta_container {
-  grid-column: 1;
-  grid-row: 2;
+  position: absolute;
+  bottom: calc(var(--safe-bot) + 20px);
+  left: 16px;
+  right: 60px;
+  z-index: 4; /* above .top so caption always covers questions when expanded */
 }
 
 .author {
@@ -316,18 +316,22 @@ body {
 .follow_btn:active { opacity: 0.7; }
 
 .caption {
-  max-width: calc(100% - 8px);
+  max-width: 100%;
+  display: flex;
+  flex-direction: column-reverse; /* "more" btn anchors at bottom; text grows UP */
 }
 
 /* ---- bottom right: action buttons ---- */
 .meta_sidebar {
-  grid-column: 2;
-  grid-row: 2;
+  position: absolute;
+  bottom: calc(var(--safe-bot) + 20px);
+  right: 8px;
   display: flex;
   flex-direction: column;
   align-items: center;
   gap: 1.2rem;
   text-align: center;
+  z-index: 4;
 }
 
 .meta_count-container {
@@ -486,28 +490,42 @@ body {
   font-family: var(--font-mono);
   font-size: 13px;
   line-height: 1.5;
-  color: var(--ink);
+  color: #fff;
   margin: 0;
   overflow: hidden;
-  text-shadow: 0 1px 3px rgba(0,0,0,0.4);
+  text-shadow: 0 1px 3px rgba(0,0,0,0.6);
 }
 
+/* collapsed: only 2 lines visible */
 .caption-text.caption-collapsed {
   display: -webkit-box;
   -webkit-line-clamp: 2;
   -webkit-box-orient: vertical;
 }
 
+/* expanded: full text shown, subtle gradient bg so it reads over question content */
+.caption-text:not(.caption-collapsed) {
+  -webkit-line-clamp: unset;
+  -webkit-box-orient: unset;
+  display: block;
+  background: linear-gradient(to top, rgba(0,0,0,0.75) 0%, rgba(0,0,0,0.4) 100%);
+  border-radius: 8px;
+  padding: 8px;
+  margin-bottom: 4px;
+}
+
+/* "more/less" button sits at the bottom of the caption (column-reverse puts it visually below the text) */
 .caption-expand-btn {
   background: none;
   border: none;
-  color: rgba(255,255,255,0.6);
-  padding: 4px 0 0;
+  color: rgba(255,255,255,0.55);
+  padding: 2px 0 6px;
   font-family: var(--font-mono);
   font-size: 12px;
   font-weight: 700;
   cursor: pointer;
   display: block;
+  text-align: left;
 }
 .caption-expand-btn:active { opacity: 0.7; }
 
