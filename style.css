@@ -145,14 +145,29 @@ body {
   scroll-snap-stop: always;
   display: flex;
   flex-direction: column;
-  padding: calc(var(--safe-top) + 90px) 22px calc(var(--safe-bot) + 30px);
+  padding: 0;
   position: relative;
   content-visibility: auto;
   contain-intrinsic-size: 100dvh;
 }
 
+.reels-container {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  padding-top: calc(var(--safe-top) + 12px);
+  padding-bottom: var(--safe-bot);
+}
+
 /* splash */
-.splash { justify-content: center; align-items: center; text-align: center; }
+.splash {
+  padding: calc(var(--safe-top) + 90px) 22px calc(var(--safe-bot) + 30px);
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
 .splash-inner { display: flex; flex-direction: column; align-items: center; gap: 18px; }
 .brand-mark {
   width: 72px; height: 72px;
@@ -196,6 +211,122 @@ body {
 @keyframes bob {
   0%, 100% { transform: translateY(0); opacity: 0.5; }
   50%      { transform: translateY(-6px); opacity: 1; }
+}
+
+/* reels profile section */
+.profile-section {
+  position: absolute;
+  top: calc(var(--safe-top) + 16px);
+  left: 16px;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  z-index: 10;
+}
+
+.profile-avatar {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  background: var(--accent);
+  color: var(--accent-ink);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: var(--font-display);
+  font-weight: 700;
+  font-size: 16px;
+  flex-shrink: 0;
+}
+
+.profile-info {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.profile-name {
+  font-family: var(--font-mono);
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--ink);
+}
+
+.follow-btn {
+  background: var(--accent);
+  color: var(--accent-ink);
+  border: none;
+  padding: 5px 12px;
+  border-radius: 4px;
+  font-family: var(--font-mono);
+  font-size: 11px;
+  font-weight: 700;
+  cursor: pointer;
+  transition: opacity 0.2s ease;
+}
+
+.follow-btn:active { opacity: 0.8; }
+
+/* reels main content */
+.reels-content {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  padding: 60px 22px 120px;
+  overflow-y: auto;
+  scrollbar-width: none;
+}
+
+.reels-content::-webkit-scrollbar { display: none; }
+
+/* reels sidebar */
+.reels-sidebar {
+  position: absolute;
+  right: 12px;
+  bottom: 120px;
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+  z-index: 10;
+}
+
+.action-btn {
+  background: none;
+  border: none;
+  color: var(--ink);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 6px;
+  cursor: pointer;
+  transition: transform 0.2s ease;
+  width: 44px;
+}
+
+.action-btn:active { transform: scale(0.9); }
+
+.action-btn svg {
+  width: 32px;
+  height: 32px;
+  stroke-width: 2;
+  filter: drop-shadow(0 1px 2px rgba(0,0,0,0.3));
+}
+
+.action-count {
+  font-family: var(--font-mono);
+  font-size: 11px;
+  font-weight: 600;
+  color: var(--ink-dim);
+}
+
+/* reels caption bottom */
+.reels-caption {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding: 16px 16px calc(var(--safe-bot) + 16px);
+  background: linear-gradient(180deg, transparent 0%, rgba(0,0,0,0.6) 100%);
 }
 
 /* question card */
@@ -279,19 +410,19 @@ body {
 
 /* caption */
 .caption-container {
-  margin-top: 18px;
-  padding-top: 16px;
-  border-top: 1px solid var(--border);
+  margin: 0;
+  padding: 0;
+  border: none;
 }
 
 .caption-text {
   font-family: var(--font-mono);
   font-size: 13px;
   line-height: 1.5;
-  color: var(--ink-dim);
+  color: var(--ink);
   overflow: hidden;
-  transition: max-height 0.3s ease, opacity 0.3s ease;
-  max-height: 3.9em;
+  transition: max-height 0.3s ease;
+  max-height: 100%;
 }
 
 .caption-text.caption-collapsed {
@@ -304,16 +435,17 @@ body {
 .caption-expand-btn {
   background: none;
   border: none;
-  color: var(--accent);
+  color: var(--ink);
   padding: 8px 0;
   font-family: var(--font-mono);
   font-size: 12px;
   font-weight: 700;
-  text-transform: uppercase;
+  text-transform: lowercase;
   cursor: pointer;
-  letter-spacing: 0.1em;
+  letter-spacing: 0.05em;
   transition: color 0.2s ease;
-  margin-top: 6px;
+  margin-top: 4px;
+  text-align: left;
 }
 
 .caption-expand-btn:active { opacity: 0.7; }
