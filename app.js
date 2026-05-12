@@ -137,30 +137,58 @@ async function fetchQuestion(entry) {
 // shuffle answer options for a single question
 // ============================================================
 function shuffleAnswers(data) {
-  const n = data.options.length;
+  // normalize options into an array regardless of input shape
+  const letters = ["A", "B", "C", "D"];
+  let optsArray;
+  if (Array.isArray(data.options)) {
+    optsArray = data.options.slice();
+  } else if (data.options && typeof data.options === "object") {
+    optsArray = letters.map(l => data.options[l] || "");
+  } else {
+    optsArray = [];
+  }
+
+  // bail if no options
+  if (optsArray.length === 0) {
+    return { ...data };
+  }
+
+  // figure out original correct index (handle letter OR number)
+  let origIdx;
+  const raw = data.answer !== undefined ? data.answer : data.correct;
+  if (typeof raw === "string" && raw.length === 1 && raw >= "A" && raw <= "Z") {
+    origIdx = raw.charCodeAt(0) - 65;
+  } else {
+    origIdx = parseInt(raw);
+    if (isNaN(origIdx)) origIdx = 0;
+  }
+
+  // fisher-yates shuffle the index order
+  const n = optsArray.length;
   const order = Array.from({ length: n }, (_, i) => i);
   for (let i = n - 1; i > 0; i--) {
     const k = Math.floor(Math.random() * (i + 1));
     [order[i], order[k]] = [order[k], order[i]];
   }
 
-  // figure out original correct index (handle letter OR number)
-  let origIdx;
-  const raw = data.answer !== undefined ? data.answer : data.correct;
-  if (typeof raw === "string" && raw.length === 1) {
-    origIdx = raw.charCodeAt(0) - 65; // A=0, B=1, C=2, D=3
-  } else {
-    origIdx = parseInt(raw);
-  }
-
   const newIdx = order.indexOf(origIdx);
-  const newLetter = String.fromCharCode(65 + newIdx); // back to A/B/C/D
+  const newLetter = String.fromCharCode(65 + newIdx);
+
+  // build shuffled options in the SAME shape as input
+  let shuffledOptions;
+  if (Array.isArray(data.options)) {
+    shuffledOptions = order.map(i => optsArray[i]);
+  } else {
+    shuffledOptions = {};
+    order.forEach((srcIdx, newPos) => {
+      shuffledOptions[letters[newPos]] = optsArray[srcIdx];
+    });
+  }
 
   return {
     q: data.q !== undefined ? data.q : data.question,
     question: data.question !== undefined ? data.question : data.q,
-    options: order.map(i => data.options[i]),
-    // return answer in the SAME format it came in
+    options: shuffledOptions,
     answer: typeof raw === "string" ? newLetter : newIdx,
     correct: newIdx,
     explanation: data.explanation,
