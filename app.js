@@ -2,7 +2,7 @@
 // chemdoomscroller — feed engine
 // ============================================================
 
-const DATA_ROOT = "data/";
+const DATA_ROOT = "questions/";
 const STORAGE = {
   filters: "chemdoom.filters",
   streak: "chemdoom.streak",
@@ -25,10 +25,10 @@ const state = {
 async function boot() {
   loadStreak();
   try {
-    const res = await fetch(DATA_ROOT + "index.json");
+    const res = await fetch("index.json");
     state.index = await res.json();
   } catch (e) {
-    showError("couldn't load index.json. is the data folder deployed?");
+    showError("couldn't load index.json");
     return;
   }
   loadFilters();
@@ -111,12 +111,13 @@ async function appendQuestions(n) {
     const data = await fetchQuestion(entry);
     if (!data) continue;
     // skip placeholders (empty question text)
-    if (!data.q || data.q.trim() === "") {
+    const questionText = data.question || data.q;
+    if (!questionText || questionText.trim() === "") {
       // still render a placeholder card so the structure is visible
       feed.appendChild(buildCard(entry, {
-        q: "(placeholder — add question to " + entry.path + ")",
+        question: "(placeholder — add question to " + entry.path + ")",
         options: ["—", "—", "—", "—"],
-        correct: 0,
+        answer: 0,
         explanation: "fill in this JSON file with a real question, 4 options, the index of the correct answer, and an explanation.",
       }, true));
       continue;
@@ -131,17 +132,29 @@ function buildCard(entry, data, isPlaceholder) {
   card.dataset.path = entry.path;
 
   const letters = ["A", "B", "C", "D"];
-  const optionsHtml = data.options.map((opt, i) => `
+  let optionsArray;
+
+  // Handle both array and object formats for options
+  if (Array.isArray(data.options)) {
+    optionsArray = data.options;
+  } else if (typeof data.options === "object" && data.options !== null) {
+    optionsArray = letters.map(l => data.options[l] || "");
+  } else {
+    optionsArray = ["—", "—", "—", "—"];
+  }
+
+  const optionsHtml = optionsArray.map((opt, i) => `
     <button class="option" data-idx="${i}">
       <span class="letter">${letters[i]}</span>
       <span>${escapeHtml(opt)}</span>
     </button>
   `).join("");
 
+  const questionText = data.question || data.q;
   card.innerHTML = `
     <div class="topic-tag">${escapeHtml(entry.topicName)}</div>
     <div class="q-number">${entry.path.split("/").pop().replace(".json","").toUpperCase()}</div>
-    <h2 class="q-text">${escapeHtml(data.q)}</h2>
+    <h2 class="q-text">${escapeHtml(questionText)}</h2>
     <div class="options">${optionsHtml}</div>
   `;
 
@@ -153,7 +166,11 @@ function buildCard(entry, data, isPlaceholder) {
 
 function handleAnswer(card, btn, data) {
   const picked = parseInt(btn.dataset.idx);
-  const correctIdx = data.correct;
+  // Convert answer letter (A, B, C, D) to index if needed
+  let correctIdx = data.answer;
+  if (typeof correctIdx === "string" && correctIdx.length === 1) {
+    correctIdx = correctIdx.charCodeAt(0) - 65; // A=0, B=1, C=2, D=3
+  }
   const isCorrect = picked === correctIdx;
 
   // lock all options and mark them
