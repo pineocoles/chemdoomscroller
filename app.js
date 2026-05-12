@@ -2,6 +2,46 @@
 // chemdoomscroller — feed engine
 // ============================================================
 
+const LEADERBOARD_URL = "https://script.google.com/macros/s/AKfycbyls0UQHIBX6tDIZ7Fyo9Q0qU50j8w9kIrIaAVAYK4QuJ0PMJfwkezshYwfuuI5pWk3/exec";
+
+async function loadLeaderboard() {
+  const list = document.getElementById("leaderboard-list");
+
+  try {
+    const res = await fetch(LEADERBOARD_URL);
+    const data = await res.json();
+
+    list.innerHTML = "";
+
+    if (!data.length) {
+      list.innerHTML = "<li>No scores yet</li>";
+      return;
+    }
+
+    data.forEach(p => {
+      const li = document.createElement("li");
+      li.textContent = `${p.name} — ${p.score}`;
+      list.appendChild(li);
+    });
+
+  } catch (e) {
+    list.innerHTML = "<li>Failed to load</li>";
+    console.error(e);
+  }
+}
+
+async function submitScore(score) {
+  const name = document.getElementById("player-name").value || "Anon";
+
+  await fetch(LEADERBOARD_URL, {
+    method: "POST",
+    body: JSON.stringify({ name, score })
+  });
+
+  loadLeaderboard();
+}
+
+
 const DATA_ROOT = "questions/";
 const RXN_IMAGES = [
   "images/page_1_image_1.png",
@@ -614,4 +654,15 @@ function showError(msg) {
   feed.innerHTML = `<section class="card"><div style="margin:auto;text-align:center;color:var(--ink-dim);font-family:var(--font-mono);font-size:14px;">${escapeHtml(msg)}</div></section>`;
 }
 
+loadLeaderboard();
+
+
+
 boot();
+
+document.getElementById("submit-score").addEventListener("click", () => {
+  const score = window.currentScore || 0;
+  submitScore(score);
+});
+
+window.currentScore = state.streak;
