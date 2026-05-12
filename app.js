@@ -143,12 +143,17 @@ function shuffleAnswers(data) {
     const k = Math.floor(Math.random() * (i + 1));
     [order[i], order[k]] = [order[k], order[i]];
   }
-  return {
-    q: data.q,
+  const correctIdx = data.answer !== undefined ? data.answer : data.correct;
+  const result = {
     options: order.map(i => data.options[i]),
-    correct: order.indexOf(data.correct),
     explanation: data.explanation,
   };
+  // preserve whichever field name was used
+  if (data.question !== undefined) result.question = data.question;
+  if (data.q !== undefined) result.q = data.q;
+  if (data.answer !== undefined) result.answer = order.indexOf(correctIdx);
+  if (data.correct !== undefined) result.correct = order.indexOf(correctIdx);
+  return result;
 }
 // ============================================================
 // render
