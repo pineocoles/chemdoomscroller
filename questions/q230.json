@@ -1,0 +1,15 @@
+{
+  "id": "Q230",
+  "unit": 23,
+  "unit_name": "Complex Chemistry",
+  "topic": "Formation Constant",
+  "question": "What does formation constant (Kf) indicate?",
+  "options": {
+    "A": "Decomposition rate",
+    "B": "Stability of complex (higher Kf = more stable)",
+    "C": "Color intensity",
+    "D": "Magnetic moment"
+  },
+  "answer": "B",
+  "explanation": "Formation constant Kf shows extent of complex formation. Higher Kf = more stable, more favored complex formation."
+}

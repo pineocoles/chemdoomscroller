@@ -1,0 +1,15 @@
+{
+  "id": "Q032",
+  "unit": 4,
+  "unit_name": "Molecular Geometry",
+  "topic": "VSEPR Theory",
+  "question": "What geometry does CO\u2082 have?",
+  "options": {
+    "A": "Bent",
+    "B": "Linear",
+    "C": "Trigonal planar",
+    "D": "Tetrahedral"
+  },
+  "answer": "B",
+  "explanation": "CO\u2082 has 2 bonding pairs and no lone pairs around carbon, resulting in linear geometry with 180\u00b0 bond angle."
+}

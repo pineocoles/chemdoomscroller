@@ -1,0 +1,15 @@
+{
+  "id": "Q051",
+  "unit": 6,
+  "unit_name": "Solutions and Stoichiometry",
+  "topic": "Molarity",
+  "question": "What is molarity?",
+  "options": {
+    "A": "Moles per liter",
+    "B": "Grams per liter",
+    "C": "Moles per kilogram",
+    "D": "Grams per kilogram"
+  },
+  "answer": "A",
+  "explanation": "Molarity (M) is moles of solute per liter of solution. It is the most common concentration unit in chemistry."
+}

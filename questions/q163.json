@@ -1,0 +1,15 @@
+{
+  "id": "Q163",
+  "unit": 17,
+  "unit_name": "Solutions",
+  "topic": "Freezing Point Depression",
+  "question": "What is freezing point depression?",
+  "options": {
+    "A": "No change in freezing point",
+    "B": "Increase in freezing point",
+    "C": "Decrease in freezing point with solute",
+    "D": "Ice formation"
+  },
+  "answer": "C",
+  "explanation": "Adding solute decreases freezing point. \u0394Tf = Kf\u00b7m. This is why salt melts ice."
+}

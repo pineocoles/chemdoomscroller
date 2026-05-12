@@ -1,0 +1,15 @@
+{
+  "id": "Q102",
+  "unit": 11,
+  "unit_name": "Chemical Equilibrium",
+  "topic": "Le Chatelier's Principle",
+  "question": "What is Le Chatelier's Principle?",
+  "options": {
+    "A": "Equal pressure everywhere",
+    "B": "System shifts to counteract stress",
+    "C": "Reaction always goes forward",
+    "D": "Heat always increases"
+  },
+  "answer": "B",
+  "explanation": "When stress (change in concentration, pressure, temperature) is applied, system shifts to counteract it and restore equilibrium."
+}

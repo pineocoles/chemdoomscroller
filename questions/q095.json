@@ -1,0 +1,15 @@
+{
+  "id": "Q095",
+  "unit": 10,
+  "unit_name": "Kinetics",
+  "topic": "Collision Theory",
+  "question": "According to collision theory, what determines if collision is effective?",
+  "options": {
+    "A": "Only collision frequency",
+    "B": "Only molecular size",
+    "C": "Proper orientation and sufficient energy",
+    "D": "Only temperature"
+  },
+  "answer": "C",
+  "explanation": "Collisions must have proper orientation (molecules in right position) and sufficient energy (\u2265 E\u2090) to produce reaction."
+}

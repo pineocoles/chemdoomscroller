@@ -1,0 +1,15 @@
+{
+  "id": "Q087",
+  "unit": 9,
+  "unit_name": "Thermochemistry",
+  "topic": "Entropy",
+  "question": "What is entropy?",
+  "options": {
+    "A": "Heat energy",
+    "B": "Disorder or randomness of a system",
+    "C": "Temperature of a system",
+    "D": "Pressure of a gas"
+  },
+  "answer": "B",
+  "explanation": "Entropy (S) is a measure of disorder/randomness. Spontaneous processes increase total entropy (\u0394S_universe > 0)."
+}

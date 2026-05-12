@@ -1,0 +1,15 @@
+{
+  "id": "Q073",
+  "unit": 8,
+  "unit_name": "Oxidation-Reduction",
+  "topic": "Oxidation Numbers",
+  "question": "What is the sum of oxidation states in a neutral compound?",
+  "options": {
+    "A": "Always +1",
+    "B": "Always -1",
+    "C": "Always zero",
+    "D": "Always positive"
+  },
+  "answer": "C",
+  "explanation": "In a neutral compound, the sum of oxidation states equals zero. In an ion, the sum equals the charge."
+}

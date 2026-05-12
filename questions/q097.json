@@ -1,0 +1,15 @@
+{
+  "id": "Q097",
+  "unit": 10,
+  "unit_name": "Kinetics",
+  "topic": "Half-Life",
+  "question": "What is half-life?",
+  "options": {
+    "A": "Time for reaction to complete",
+    "B": "Time for half of reactant to react",
+    "C": "Time to reach equilibrium",
+    "D": "Time for product to form"
+  },
+  "answer": "B",
+  "explanation": "Half-life (t\u2081/\u2082) is the time required for half of a reactant to be consumed. For first-order reactions, it's constant."
+}

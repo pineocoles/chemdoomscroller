@@ -1,0 +1,15 @@
+{
+  "id": "Q243",
+  "unit": 25,
+  "unit_name": "Spectroscopy Basics",
+  "topic": "Transmittance",
+  "question": "What is transmittance (T)?",
+  "options": {
+    "A": "Light absorbed",
+    "B": "Light transmitted through sample",
+    "C": "Light reflected",
+    "D": "Light emitted"
+  },
+  "answer": "B",
+  "explanation": "Transmittance T = I/I\u2080 (intensity transmitted / incident). A = log(1/T) = -logT."
+}

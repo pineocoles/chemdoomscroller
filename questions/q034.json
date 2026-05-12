@@ -1,0 +1,15 @@
+{
+  "id": "Q034",
+  "unit": 4,
+  "unit_name": "Molecular Geometry",
+  "topic": "VSEPR Theory",
+  "question": "How many lone pairs does NH\u2083 have?",
+  "options": {
+    "A": "0",
+    "B": "1",
+    "C": "2",
+    "D": "3"
+  },
+  "answer": "B",
+  "explanation": "NH\u2083 has 3 bonding pairs and 1 lone pair on nitrogen, giving trigonal pyramidal molecular geometry."
+}

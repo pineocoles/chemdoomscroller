@@ -1,0 +1,15 @@
+{
+  "id": "Q197",
+  "unit": 20,
+  "unit_name": "Bonding Concepts",
+  "topic": "Coordinate Covalent",
+  "question": "What is coordinate covalent bond?",
+  "options": {
+    "A": "Electrons equally shared",
+    "B": "Both electrons from one atom",
+    "C": "Electrons from two atoms",
+    "D": "Ionic bond"
+  },
+  "answer": "B",
+  "explanation": "Coordinate (dative) covalent bond has both electrons from one atom (donor) to empty orbital of another (acceptor)."
+}

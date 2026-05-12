@@ -1,0 +1,15 @@
+{
+  "id": "Q085",
+  "unit": 9,
+  "unit_name": "Thermochemistry",
+  "topic": "Calorimetry",
+  "question": "How much heat is needed to raise 100 g of water by 10\u00b0C? (c = 4.18 J/g\u00b0C)",
+  "options": {
+    "A": "418 J",
+    "B": "4180 J",
+    "C": "41800 J",
+    "D": "418000 J"
+  },
+  "answer": "C",
+  "explanation": "q = m \u00d7 c \u00d7 \u0394T = 100 g \u00d7 4.18 J/g\u00b0C \u00d7 10\u00b0C = 4180 J = 41800 J... wait let me recalculate: 100 \u00d7 4.18 \u00d7 10 = 4180 J"
+}

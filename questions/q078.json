@@ -1,0 +1,15 @@
+{
+  "id": "Q078",
+  "unit": 8,
+  "unit_name": "Oxidation-Reduction",
+  "topic": "Half-reactions",
+  "question": "What is a half-reaction?",
+  "options": {
+    "A": "Half of a chemical reaction",
+    "B": "An equation showing oxidation or reduction",
+    "C": "A reaction at half temperature",
+    "D": "A partial reaction"
+  },
+  "answer": "B",
+  "explanation": "Half-reactions separately show oxidation (electrons lost) and reduction (electrons gained). They combine to form complete redox reactions."
+}

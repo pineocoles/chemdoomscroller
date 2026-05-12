@@ -1,0 +1,15 @@
+{
+  "id": "Q013",
+  "unit": 2,
+  "unit_name": "Stoichiometric Calculations",
+  "topic": "Mole Concept",
+  "question": "How many atoms are in 2 moles of carbon?",
+  "options": {
+    "A": "6.02 \u00d7 10\u00b2\u00b2",
+    "B": "1.204 \u00d7 10\u00b2\u2074",
+    "C": "3.01 \u00d7 10\u00b2\u00b3",
+    "D": "6.02 \u00d7 10\u00b2\u00b3"
+  },
+  "answer": "B",
+  "explanation": "Number of atoms = moles \u00d7 Avogadro's number = 2 \u00d7 6.02 \u00d7 10\u00b2\u00b3 = 1.204 \u00d7 10\u00b2\u2074 atoms"
+}

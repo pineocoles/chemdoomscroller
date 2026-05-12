@@ -1,0 +1,15 @@
+{
+  "id": "Q203",
+  "unit": 21,
+  "unit_name": "Measurement",
+  "topic": "Error Analysis",
+  "question": "What is accuracy?",
+  "options": {
+    "A": "How close to each other measurements are",
+    "B": "How close measurements are to true value",
+    "C": "Number of decimal places",
+    "D": "Reproducibility"
+  },
+  "answer": "B",
+  "explanation": "Accuracy measures how close a measurement is to true/accepted value. Precision measures reproducibility/spread."
+}

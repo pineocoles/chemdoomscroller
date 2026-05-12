@@ -1,0 +1,15 @@
+{
+  "id": "Q014",
+  "unit": 2,
+  "unit_name": "Stoichiometric Calculations",
+  "topic": "Mole Concept",
+  "question": "What is Avogadro's number?",
+  "options": {
+    "A": "3.14 \u00d7 10\u00b2\u00b3",
+    "B": "6.02 \u00d7 10\u00b2\u00b2",
+    "C": "6.02 \u00d7 10\u00b2\u00b3",
+    "D": "3.01 \u00d7 10\u00b2\u00b3"
+  },
+  "answer": "C",
+  "explanation": "Avogadro's number (N\u2090) = 6.02 \u00d7 10\u00b2\u00b3. It represents the number of particles in one mole of substance."
+}

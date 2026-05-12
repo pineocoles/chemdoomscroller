@@ -1,0 +1,15 @@
+{
+  "id": "Q120",
+  "unit": 12,
+  "unit_name": "Electrochemistry",
+  "topic": "Standard Reduction Potential",
+  "question": "What does standard reduction potential tell us?",
+  "options": {
+    "A": "How much metal corrodes",
+    "B": "Tendency of species to be reduced",
+    "C": "Temperature needed to melt",
+    "D": "Speed of reaction"
+  },
+  "answer": "B",
+  "explanation": "Standard reduction potential (E\u00b0) indicates tendency to be reduced. Higher E\u00b0 = greater tendency to be reduced (better oxidizing agent)."
+}

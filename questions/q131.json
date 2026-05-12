@@ -1,0 +1,15 @@
+{
+  "id": "Q131",
+  "unit": 14,
+  "unit_name": "Nuclear Chemistry",
+  "topic": "Radioactivity",
+  "question": "What is radioactivity?",
+  "options": {
+    "A": "Formation of new elements",
+    "B": "Spontaneous emission of radiation from unstable nuclei",
+    "C": "Absorption of light",
+    "D": "Chemical bonding"
+  },
+  "answer": "B",
+  "explanation": "Radioactivity is spontaneous decay of unstable nuclei, emitting alpha (\u03b1), beta (\u03b2), or gamma (\u03b3) radiation."
+}

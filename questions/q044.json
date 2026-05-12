@@ -1,0 +1,15 @@
+{
+  "id": "Q044",
+  "unit": 5,
+  "unit_name": "Intermolecular Forces",
+  "topic": "Hydrogen Bonding",
+  "question": "Why is water's boiling point unusually high?",
+  "options": {
+    "A": "It has metallic bonding",
+    "B": "Hydrogen bonding between molecules",
+    "C": "It is ionic",
+    "D": "London dispersion forces are very strong"
+  },
+  "answer": "B",
+  "explanation": "Water's anomalously high boiling point (100\u00b0C) is due to strong hydrogen bonding between H\u2082O molecules."
+}

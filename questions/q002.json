@@ -1,0 +1,15 @@
+{
+  "id": "Q002",
+  "unit": 1,
+  "unit_name": "Stoichiometric Relationships",
+  "topic": "Intro To Particulate Nature",
+  "question": "How does increasing temperature affect gas particle behavior?",
+  "options": {
+    "A": "Decreases average kinetic energy",
+    "B": "Increases average kinetic energy and collision frequency",
+    "C": "Decreases pressure",
+    "D": "Has no effect on particle motion"
+  },
+  "answer": "B",
+  "explanation": "Higher temperature increases the average kinetic energy of gas particles, causing them to move faster and collide more frequently with container walls and each other, increasing pressure and volume."
+}

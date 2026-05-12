@@ -1,0 +1,15 @@
+{
+  "id": "Q236",
+  "unit": 24,
+  "unit_name": "Advanced Equilibrium",
+  "topic": "Salt Hydrolysis",
+  "question": "What is salt hydrolysis?",
+  "options": {
+    "A": "Salt dissolving in water",
+    "B": "Reaction of salt ions with water",
+    "C": "Formation of salt from acid-base",
+    "D": "No hydrolysis exists"
+  },
+  "answer": "B",
+  "explanation": "Salt hydrolysis: salt ions react with water. Example: CH\u2083COO\u207b + H\u2082O \u21cc CH\u2083COOH + OH\u207b (hydrolysis makes solution basic)."
+}

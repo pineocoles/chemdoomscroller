@@ -1,0 +1,15 @@
+{
+  "id": "Q289",
+  "unit": 29,
+  "unit_name": "Final Review",
+  "topic": "Comprehensive",
+  "question": "What determines reactivity of atoms?",
+  "options": {
+    "A": "Atomic size only",
+    "B": "Valence electrons",
+    "C": "Color",
+    "D": "Density"
+  },
+  "answer": "B",
+  "explanation": "Valence electrons determine reactivity. Atoms seek stable electron configuration (full outer shell, octet rule)."
+}

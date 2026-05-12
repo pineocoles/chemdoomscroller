@@ -1,0 +1,15 @@
+{
+  "id": "Q224",
+  "unit": 23,
+  "unit_name": "Complex Chemistry",
+  "topic": "Chelating Ligands",
+  "question": "What is a chelating ligand?",
+  "options": {
+    "A": "Monodentate ligand",
+    "B": "Polydentate ligand bonding via multiple sites",
+    "C": "Negatively charged ligand",
+    "D": "Positively charged ligand"
+  },
+  "answer": "B",
+  "explanation": "Chelating ligands are polydentate (multiple bonding sites) like EDTA, ethylenediamine. Forms multiple bonds to metal."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "Q276",
+  "unit": 28,
+  "unit_name": "Special Topics",
+  "topic": "Stereochemistry",
+  "question": "What is optical isomerism?",
+  "options": {
+    "A": "Difference in 3D arrangement",
+    "B": "Difference in light rotation ability",
+    "C": "Both A and B",
+    "D": "No isomerism"
+  },
+  "answer": "C",
+  "explanation": "Optical isomers (enantiomers): chiral molecules rotating plane-polarized light in opposite directions (+ and -)."
+}

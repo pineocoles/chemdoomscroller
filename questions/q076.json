@@ -1,0 +1,15 @@
+{
+  "id": "Q076",
+  "unit": 8,
+  "unit_name": "Oxidation-Reduction",
+  "topic": "Balancing Redox",
+  "question": "In 2H\u2082 + O\u2082 \u2192 2H\u2082O, which element is oxidized?",
+  "options": {
+    "A": "Oxygen",
+    "B": "Hydrogen",
+    "C": "Both equally",
+    "D": "Neither"
+  },
+  "answer": "B",
+  "explanation": "Hydrogen goes from 0 to +1 (oxidized). Oxygen goes from 0 to -2 (reduced)."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "Q187",
+  "unit": 19,
+  "unit_name": "Group Trends",
+  "topic": "Lanthanides",
+  "question": "What is lanthanide contraction?",
+  "options": {
+    "A": "Expansion of atoms",
+    "B": "Gradual decrease in atomic radius",
+    "C": "Increase in metallic character",
+    "D": "Loss of electrons"
+  },
+  "answer": "B",
+  "explanation": "Lanthanide contraction results from poor shielding of f electrons. Atomic radii of lanthanides decrease gradually."
+}

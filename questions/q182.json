@@ -1,0 +1,15 @@
+{
+  "id": "Q182",
+  "unit": 19,
+  "unit_name": "Group Trends",
+  "topic": "Halogens",
+  "question": "What is Group 17 elements?",
+  "options": {
+    "A": "Alkali metals",
+    "B": "Transition metals",
+    "C": "Halogens",
+    "D": "Noble gases"
+  },
+  "answer": "C",
+  "explanation": "Group 17 (VIIA) elements are halogens: F, Cl, Br, I, At. They have 7 valence electrons, form -1 anions."
+}

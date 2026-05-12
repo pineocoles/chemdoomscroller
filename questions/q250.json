@@ -1,0 +1,15 @@
+{
+  "id": "Q250",
+  "unit": 25,
+  "unit_name": "Spectroscopy Basics",
+  "topic": "Quantitative Analysis",
+  "question": "How is Beer's Law used in analysis?",
+  "options": {
+    "A": "Determining purity",
+    "B": "Determining concentration from absorbance measurement",
+    "C": "Finding molecular weight",
+    "D": "Measuring pH"
+  },
+  "answer": "B",
+  "explanation": "Rearranging Beer's Law: c = A/(\u03b5b). Unknown concentration determined from measured absorbance using known \u03b5 and b."
+}

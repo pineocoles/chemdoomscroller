@@ -1,0 +1,15 @@
+{
+  "id": "Q068",
+  "unit": 7,
+  "unit_name": "Acids and Bases",
+  "topic": "Conjugate Pairs",
+  "question": "What is the conjugate base of HCl?",
+  "options": {
+    "A": "H\u207a",
+    "B": "Cl\u207b",
+    "C": "HClO",
+    "D": "ClO\u207b"
+  },
+  "answer": "B",
+  "explanation": "A conjugate base results from removing a proton from an acid. HCl loses H\u207a to form Cl\u207b."
+}

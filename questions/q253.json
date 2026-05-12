@@ -1,0 +1,15 @@
+{
+  "id": "Q253",
+  "unit": 26,
+  "unit_name": "Polymers",
+  "topic": "Polymerization",
+  "question": "What is polymerization?",
+  "options": {
+    "A": "Creating one polymer only",
+    "B": "Process of joining monomers into polymer chain",
+    "C": "Breaking down polymers",
+    "D": "Heating polymers"
+  },
+  "answer": "B",
+  "explanation": "Polymerization: repeated chemical bonding of monomers forming long-chain macromolecule with specific properties."
+}

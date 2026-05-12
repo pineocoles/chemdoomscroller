@@ -1,0 +1,15 @@
+{
+  "id": "Q196",
+  "unit": 20,
+  "unit_name": "Bonding Concepts",
+  "topic": "Bond Length",
+  "question": "Which bond is shortest?",
+  "options": {
+    "A": "C-C single",
+    "B": "C=C double",
+    "C": "C\u2261C triple",
+    "D": "C-F"
+  },
+  "answer": "C",
+  "explanation": "Bond length: triple < double < single. More electrons between atoms = shorter bond due to greater attraction."
+}

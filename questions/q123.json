@@ -1,0 +1,15 @@
+{
+  "id": "Q123",
+  "unit": 13,
+  "unit_name": "Organic Chemistry",
+  "topic": "Hydrocarbons",
+  "question": "What is an alkyne?",
+  "options": {
+    "A": "Hydrocarbon with double bonds",
+    "B": "Hydrocarbon with triple bonds",
+    "C": "Saturated hydrocarbon",
+    "D": "Aromatic compound"
+  },
+  "answer": "B",
+  "explanation": "Alkynes (C\u2099H\u2082\u2099\u208b\u2082) contain C\u2261C triple bonds. Examples: ethyne (acetylene), propyne."
+}

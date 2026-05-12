@@ -1,0 +1,15 @@
+{
+  "id": "Q272",
+  "unit": 28,
+  "unit_name": "Special Topics",
+  "topic": "Biochemistry",
+  "question": "What is enzyme?",
+  "options": {
+    "A": "Substrate molecule",
+    "B": "Product of reaction",
+    "C": "Biological catalyst (protein)",
+    "D": "Carbohydrate"
+  },
+  "answer": "C",
+  "explanation": "Enzyme is protein catalyst speeding biochemical reactions. Lowers activation energy without being consumed."
+}

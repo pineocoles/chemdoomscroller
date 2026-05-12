@@ -1,0 +1,15 @@
+{
+  "id": "Q206",
+  "unit": 21,
+  "unit_name": "Measurement",
+  "topic": "Temperature",
+  "question": "What is absolute zero?",
+  "options": {
+    "A": "0\u00b0C",
+    "B": "0\u00b0F",
+    "C": "0 K",
+    "D": "-100\u00b0C"
+  },
+  "answer": "C",
+  "explanation": "Absolute zero = 0 K = -273.15\u00b0C = -459.67\u00b0F. Theoretically lowest possible temperature (no molecular motion)."
+}

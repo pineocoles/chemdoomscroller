@@ -1,0 +1,15 @@
+{
+  "id": "Q194",
+  "unit": 20,
+  "unit_name": "Bonding Concepts",
+  "topic": "Formal Charge",
+  "question": "What is formal charge?",
+  "options": {
+    "A": "Actual charge on atom",
+    "B": "Charge based on Lewis structure",
+    "C": "Number of valence electrons",
+    "D": "Electronegativity value"
+  },
+  "answer": "B",
+  "explanation": "Formal charge = V - (L + B/2). V=valence e\u207b, L=lone pair e\u207b, B=bonding e\u207b. Helps determine best Lewis structure."
+}

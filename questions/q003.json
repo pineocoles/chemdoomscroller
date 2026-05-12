@@ -1,0 +1,15 @@
+{
+  "id": "Q003",
+  "unit": 1,
+  "unit_name": "Stoichiometric Relationships",
+  "topic": "Intro To Particulate Nature",
+  "question": "Which property is NOT explained by kinetic theory?",
+  "options": {
+    "A": "Diffusion of gases",
+    "B": "Pressure of gases",
+    "C": "Color of substances",
+    "D": "Evaporation of liquids"
+  },
+  "answer": "C",
+  "explanation": "Kinetic theory explains gas pressure, diffusion, and evaporation through particle motion. Color is determined by electronic energy levels and light absorption, not particle kinetic energy."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "Q228",
+  "unit": 23,
+  "unit_name": "Complex Chemistry",
+  "topic": "Magnetism",
+  "question": "What causes paramagnetism in complexes?",
+  "options": {
+    "A": "Paired electrons",
+    "B": "Unpaired electrons",
+    "C": "Ionic bonding",
+    "D": "Covalent bonding"
+  },
+  "answer": "B",
+  "explanation": "Paramagnetic complexes have unpaired electrons. Diamagnetic complexes have all paired electrons (repelled by magnetic field)."
+}

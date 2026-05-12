@@ -1,0 +1,15 @@
+{
+  "id": "Q176",
+  "unit": 18,
+  "unit_name": "Reactions",
+  "topic": "Net Ionic",
+  "question": "What is a net ionic equation?",
+  "options": {
+    "A": "Complete chemical equation",
+    "B": "Equation showing only particles that change",
+    "C": "Equation with all spectator ions",
+    "D": "Balanced equation"
+  },
+  "answer": "B",
+  "explanation": "Net ionic equation omits spectator ions (unchanged). Shows only substances that actually react."
+}

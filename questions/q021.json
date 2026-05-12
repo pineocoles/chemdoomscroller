@@ -1,0 +1,15 @@
+{
+  "id": "Q021",
+  "unit": 3,
+  "unit_name": "Chemical Bonding",
+  "topic": "Ionic Bonds",
+  "question": "Which pair forms an ionic bond?",
+  "options": {
+    "A": "H and H",
+    "B": "C and H",
+    "C": "Na and Cl",
+    "D": "O and O"
+  },
+  "answer": "C",
+  "explanation": "Ionic bonds form between metals and nonmetals when electrons transfer. Na (metal) loses electron to Cl (nonmetal), forming Na\u207a and Cl\u207b."
+}

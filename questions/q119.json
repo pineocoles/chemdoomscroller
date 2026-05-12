@@ -1,0 +1,15 @@
+{
+  "id": "Q119",
+  "unit": 12,
+  "unit_name": "Electrochemistry",
+  "topic": "Electroplating",
+  "question": "What is electroplating?",
+  "options": {
+    "A": "Plating food",
+    "B": "Coating object with metal using electrolysis",
+    "C": "Burning metal",
+    "D": "Melting metal"
+  },
+  "answer": "B",
+  "explanation": "Electroplating coats an object with a thin metal layer using electrolysis, decorative or protective."
+}

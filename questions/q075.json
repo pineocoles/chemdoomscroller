@@ -1,0 +1,15 @@
+{
+  "id": "Q075",
+  "unit": 8,
+  "unit_name": "Oxidation-Reduction",
+  "topic": "Redox Reactions",
+  "question": "What is reduction?",
+  "options": {
+    "A": "Loss of electrons",
+    "B": "Gain of electrons",
+    "C": "Breaking of bonds",
+    "D": "Increase in oxidation state"
+  },
+  "answer": "B",
+  "explanation": "Reduction is gain of electrons. In redox reactions, one species is oxidized while another is reduced."
+}

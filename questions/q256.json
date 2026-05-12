@@ -1,0 +1,15 @@
+{
+  "id": "Q256",
+  "unit": 26,
+  "unit_name": "Polymers",
+  "topic": "Elastomers",
+  "question": "What are elastomers?",
+  "options": {
+    "A": "Rigid plastics",
+    "B": "Polymers that stretch and return to original shape",
+    "C": "Metals",
+    "D": "Ceramics"
+  },
+  "answer": "B",
+  "explanation": "Elastomers (rubber, silicone) stretch under stress then snap back. Have weak cross-linking, allowing chain mobility."
+}

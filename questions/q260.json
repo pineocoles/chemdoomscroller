@@ -1,0 +1,15 @@
+{
+  "id": "Q260",
+  "unit": 26,
+  "unit_name": "Polymers",
+  "topic": "Natural Polymers",
+  "question": "Which is a natural polymer?",
+  "options": {
+    "A": "Polyethylene",
+    "B": "Polystyrene",
+    "C": "Cellulose",
+    "D": "PVC"
+  },
+  "answer": "C",
+  "explanation": "Cellulose (from plants) is natural polymer. Polysaccharide made of glucose units linked by glycosidic bonds."
+}

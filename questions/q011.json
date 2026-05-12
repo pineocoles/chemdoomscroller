@@ -1,0 +1,15 @@
+{
+  "id": "Q011",
+  "unit": 2,
+  "unit_name": "Stoichiometric Calculations",
+  "topic": "Mole Concept",
+  "question": "How many moles are in 32 grams of O\u2082?",
+  "options": {
+    "A": "0.5 mol",
+    "B": "1 mol",
+    "C": "2 mol",
+    "D": "4 mol"
+  },
+  "answer": "B",
+  "explanation": "Molar mass of O\u2082 = 32 g/mol. Moles = mass/molar mass = 32g / 32 g/mol = 1 mol"
+}

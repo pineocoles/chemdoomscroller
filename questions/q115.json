@@ -1,0 +1,15 @@
+{
+  "id": "Q115",
+  "unit": 12,
+  "unit_name": "Electrochemistry",
+  "topic": "Cell Potential",
+  "question": "What is cell potential (E\u00b0cell)?",
+  "options": {
+    "A": "Energy stored",
+    "B": "Voltage of the cell under standard conditions",
+    "C": "Temperature of cell",
+    "D": "Number of electrons"
+  },
+  "answer": "B",
+  "explanation": "Cell potential E\u00b0cell = E\u00b0cathode - E\u00b0anode. Positive E\u00b0cell indicates spontaneous reaction."
+}

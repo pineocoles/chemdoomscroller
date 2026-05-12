@@ -1,0 +1,15 @@
+{
+  "id": "Q214",
+  "unit": 22,
+  "unit_name": "Properties",
+  "topic": "Solubility",
+  "question": "Which statement about solubility is true?",
+  "options": {
+    "A": "All salts are soluble",
+    "B": "All ionic compounds dissolve",
+    "C": "Solubility varies by compound",
+    "D": "No organic compounds dissolve"
+  },
+  "answer": "C",
+  "explanation": "Solubility varies widely. Some salts very soluble, others insoluble. Depends on lattice energy vs hydration energy."
+}

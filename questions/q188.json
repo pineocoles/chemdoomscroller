@@ -1,0 +1,15 @@
+{
+  "id": "Q188",
+  "unit": 19,
+  "unit_name": "Group Trends",
+  "topic": "Representative Elements",
+  "question": "What are representative elements?",
+  "options": {
+    "A": "Transition metals",
+    "B": "Main group elements (Groups 1,2,13-18)",
+    "C": "D-block elements",
+    "D": "F-block elements"
+  },
+  "answer": "B",
+  "explanation": "Representative elements (main group) are in groups 1, 2, 13-18. They have valence electrons in s and p orbitals."
+}

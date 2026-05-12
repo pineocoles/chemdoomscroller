@@ -1,0 +1,15 @@
+{
+  "id": "Q045",
+  "unit": 5,
+  "unit_name": "Intermolecular Forces",
+  "topic": "Ion-Dipole Forces",
+  "question": "What is an ion-dipole force?",
+  "options": {
+    "A": "Force between two ions",
+    "B": "Force between two polar molecules",
+    "C": "Force between an ion and a polar molecule",
+    "D": "Force between nonpolar molecules"
+  },
+  "answer": "C",
+  "explanation": "Ion-dipole forces occur when ions interact with the charged end of polar molecules, important in dissolving ionic compounds in polar solvents."
+}

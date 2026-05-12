@@ -1,0 +1,15 @@
+{
+  "id": "Q019",
+  "unit": 2,
+  "unit_name": "Stoichiometric Calculations",
+  "topic": "Mole Concept",
+  "question": "How many moles are in 88 grams of CO\u2082?",
+  "options": {
+    "A": "1 mol",
+    "B": "2 mol",
+    "C": "4 mol",
+    "D": "8 mol"
+  },
+  "answer": "B",
+  "explanation": "Molar mass CO\u2082 = 12 + 2(16) = 44 g/mol. Moles = 88/44 = 2 mol"
+}

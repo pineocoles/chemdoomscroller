@@ -1,0 +1,15 @@
+{
+  "id": "Q058",
+  "unit": 6,
+  "unit_name": "Solutions and Stoichiometry",
+  "topic": "Stoichiometry",
+  "question": "In the reaction 2H\u2082 + O\u2082 \u2192 2H\u2082O, how many moles of H\u2082O form from 3 moles O\u2082?",
+  "options": {
+    "A": "1.5 mol",
+    "B": "3 mol",
+    "C": "6 mol",
+    "D": "12 mol"
+  },
+  "answer": "C",
+  "explanation": "Using the ratio from the equation: 3 mol O\u2082 \u00d7 (2 mol H\u2082O / 1 mol O\u2082) = 6 mol H\u2082O"
+}

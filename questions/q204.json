@@ -1,0 +1,15 @@
+{
+  "id": "Q204",
+  "unit": 21,
+  "unit_name": "Measurement",
+  "topic": "Error Analysis",
+  "question": "What is precision?",
+  "options": {
+    "A": "Closeness to true value",
+    "B": "Reproducibility of measurements",
+    "C": "Instrument sensitivity",
+    "D": "Measurement range"
+  },
+  "answer": "B",
+  "explanation": "Precision (repeatability) indicates how close repeated measurements are to each other, regardless of accuracy."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "Q033",
+  "unit": 4,
+  "unit_name": "Molecular Geometry",
+  "topic": "VSEPR Theory",
+  "question": "What is the molecular shape of H\u2082O?",
+  "options": {
+    "A": "Linear",
+    "B": "Trigonal planar",
+    "C": "Bent",
+    "D": "Tetrahedral"
+  },
+  "answer": "C",
+  "explanation": "H\u2082O has 2 bonding pairs and 2 lone pairs around oxygen, resulting in bent geometry with ~104.5\u00b0 bond angle."
+}

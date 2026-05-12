@@ -1,0 +1,15 @@
+{
+  "id": "Q086",
+  "unit": 9,
+  "unit_name": "Thermochemistry",
+  "topic": "Hess's Law",
+  "question": "What is Hess's Law?",
+  "options": {
+    "A": "Heat always increases",
+    "B": "\u0394H for a reaction is the same regardless of pathway",
+    "C": "Heat equals work",
+    "D": "Temperature is constant"
+  },
+  "answer": "B",
+  "explanation": "Hess's Law states that enthalpy change depends only on initial and final states, not the reaction pathway. \u0394H values can be added like algebraic equations."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "Q220",
+  "unit": 22,
+  "unit_name": "Properties",
+  "topic": "Luster",
+  "question": "What causes metallic luster?",
+  "options": {
+    "A": "Color of material",
+    "B": "Smooth surface only",
+    "C": "Mobile electrons absorb and re-emit light",
+    "D": "No specific cause"
+  },
+  "answer": "C",
+  "explanation": "Metallic shine/luster results from mobile electrons that absorb light and re-emit it (causing reflection)."
+}

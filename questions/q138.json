@@ -1,0 +1,15 @@
+{
+  "id": "Q138",
+  "unit": 14,
+  "unit_name": "Nuclear Chemistry",
+  "topic": "Mass Defect",
+  "question": "What is mass defect?",
+  "options": {
+    "A": "Loss of atoms",
+    "B": "Difference between mass of nucleus and sum of nucleons",
+    "C": "Increase in atomic mass",
+    "D": "Number of neutrons"
+  },
+  "answer": "B",
+  "explanation": "Mass defect is the mass difference between nucleus and separated nucleons. This mass converts to nuclear binding energy."
+}

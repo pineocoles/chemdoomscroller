@@ -1,0 +1,15 @@
+{
+  "id": "Q279",
+  "unit": 28,
+  "unit_name": "Special Topics",
+  "topic": "Nanotechnology",
+  "question": "What is carbon nanotube?",
+  "options": {
+    "A": "Diamond only",
+    "B": "Rolled graphene sheet (hollow cylinder)",
+    "C": "Solid carbon",
+    "D": "Graphite particle"
+  },
+  "answer": "B",
+  "explanation": "Carbon nanotube: single/multi-wall cylinder of sp\u00b2 carbon. Strong, conductive. Used in composites, electronics."
+}

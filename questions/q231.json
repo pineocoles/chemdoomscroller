@@ -1,0 +1,15 @@
+{
+  "id": "Q231",
+  "unit": 24,
+  "unit_name": "Advanced Equilibrium",
+  "topic": "Buffer Capacity",
+  "question": "What is buffer capacity?",
+  "options": {
+    "A": "pH always constant",
+    "B": "Maximum amount of acid/base buffer can resist",
+    "C": "Buffer volume",
+    "D": "Solute concentration"
+  },
+  "answer": "B",
+  "explanation": "Buffer capacity = amount of acid/base that can be added before significant pH change. Higher concentration = higher capacity."
+}

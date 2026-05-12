@@ -1,0 +1,15 @@
+{
+  "id": "Q180",
+  "unit": 18,
+  "unit_name": "Reactions",
+  "topic": "Reversible",
+  "question": "What is a reversible reaction?",
+  "options": {
+    "A": "Reaction going only forward",
+    "B": "Reaction reaching equilibrium",
+    "C": "Reaction that doesn't proceed",
+    "D": "Decomposition reaction"
+  },
+  "answer": "B",
+  "explanation": "Reversible reaction proceeds in both directions, reaching equilibrium. \u21cc symbol indicates reversibility."
+}

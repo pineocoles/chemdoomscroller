@@ -1,0 +1,15 @@
+{
+  "id": "Q036",
+  "unit": 4,
+  "unit_name": "Molecular Polarity",
+  "topic": "Polar vs Nonpolar",
+  "question": "Is HCl polar or nonpolar?",
+  "options": {
+    "A": "Nonpolar",
+    "B": "Polar",
+    "C": "Ionic",
+    "D": "Metallic"
+  },
+  "answer": "B",
+  "explanation": "HCl is polar because H and Cl have different electronegativities, creating a permanent dipole moment."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "Q217",
+  "unit": 22,
+  "unit_name": "Properties",
+  "topic": "Ductility",
+  "question": "Why are metals ductile?",
+  "options": {
+    "A": "Weak bonding",
+    "B": "Mobile electrons can accommodate deformation",
+    "C": "No bonding",
+    "D": "All metals are brittle"
+  },
+  "answer": "B",
+  "explanation": "Metals are ductile because valence electrons are mobile. Metal can be drawn into wires without breaking (electron sea adjusts)."
+}

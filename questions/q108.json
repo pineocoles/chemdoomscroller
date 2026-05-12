@@ -1,0 +1,15 @@
+{
+  "id": "Q108",
+  "unit": 11,
+  "unit_name": "Chemical Equilibrium",
+  "topic": "Common Ion Effect",
+  "question": "How does adding common ion affect solubility?",
+  "options": {
+    "A": "Increases solubility",
+    "B": "Decreases solubility",
+    "C": "No effect",
+    "D": "Dissolves precipitate"
+  },
+  "answer": "B",
+  "explanation": "Adding a common ion shifts equilibrium left, decreasing solubility. For AgCl + added Cl\u207b, equilibrium shifts left."
+}

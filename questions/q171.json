@@ -1,0 +1,15 @@
+{
+  "id": "Q171",
+  "unit": 18,
+  "unit_name": "Reactions",
+  "topic": "Combustion",
+  "question": "What is combustion?",
+  "options": {
+    "A": "Slow oxidation",
+    "B": "Rapid oxidation with heat/light",
+    "C": "Condensation",
+    "D": "Reduction"
+  },
+  "answer": "B",
+  "explanation": "Combustion is rapid exothermic reaction of substance with O\u2082, producing heat and light. C\u2093H\u1d67 + O\u2082 \u2192 CO\u2082 + H\u2082O."
+}

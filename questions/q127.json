@@ -1,0 +1,15 @@
+{
+  "id": "Q127",
+  "unit": 13,
+  "unit_name": "Organic Chemistry",
+  "topic": "Alcohols",
+  "question": "What is an alcohol?",
+  "options": {
+    "A": "Organic compound with C=O",
+    "B": "Organic compound with OH group",
+    "C": "Compound with NH\u2082",
+    "D": "Compound with COOH"
+  },
+  "answer": "B",
+  "explanation": "Alcohols contain -OH (hydroxyl) group bonded to carbon. Examples: methanol, ethanol, propanol."
+}

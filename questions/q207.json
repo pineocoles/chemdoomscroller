@@ -1,0 +1,15 @@
+{
+  "id": "Q207",
+  "unit": 21,
+  "unit_name": "Measurement",
+  "topic": "Temperature Conversion",
+  "question": "Convert 25\u00b0C to Kelvin:",
+  "options": {
+    "A": "248.15 K",
+    "B": "298.15 K",
+    "C": "325 K",
+    "D": "-248.15 K"
+  },
+  "answer": "B",
+  "explanation": "K = \u00b0C + 273.15; 25 + 273.15 = 298.15 K"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "Q104",
+  "unit": 11,
+  "unit_name": "Chemical Equilibrium",
+  "topic": "Pressure Effects",
+  "question": "How does increasing pressure affect 2SO\u2082 + O\u2082 \u21cc 2SO\u2083?",
+  "options": {
+    "A": "Shifts left",
+    "B": "No change",
+    "C": "Shifts right",
+    "D": "Decreases temperature"
+  },
+  "answer": "C",
+  "explanation": "Increasing pressure shifts equilibrium toward side with fewer moles of gas (right). 3 moles \u2192 2 moles, so equilibrium shifts right."
+}

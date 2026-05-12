@@ -1,0 +1,15 @@
+{
+  "id": "Q141",
+  "unit": 15,
+  "unit_name": "Chemistry Review",
+  "topic": "Stoichiometry",
+  "question": "In reaction: N\u2082 + 3H\u2082 \u2192 2NH\u2083, how many grams NH\u2083 from 28 g N\u2082?",
+  "options": {
+    "A": "17 g",
+    "B": "34 g",
+    "C": "51 g",
+    "D": "68 g"
+  },
+  "answer": "B",
+  "explanation": "28 g N\u2082 = 1 mol. Ratio: 1 mol N\u2082 \u2192 2 mol NH\u2083. 2 mol \u00d7 17 g/mol = 34 g NH\u2083"
+}

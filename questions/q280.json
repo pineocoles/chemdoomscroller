@@ -1,0 +1,15 @@
+{
+  "id": "Q280",
+  "unit": 28,
+  "unit_name": "Special Topics",
+  "topic": "Green Chemistry",
+  "question": "What is green chemistry?",
+  "options": {
+    "A": "Chemistry of plants only",
+    "B": "Design of processes minimizing hazardous substances",
+    "C": "Colored chemistry",
+    "D": "Chemistry at low temperature"
+  },
+  "answer": "B",
+  "explanation": "Green chemistry: design chemical processes to prevent/reduce hazardous substance generation. Safer, more efficient, sustainable."
+}

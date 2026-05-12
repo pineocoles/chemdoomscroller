@@ -1,0 +1,15 @@
+{
+  "id": "Q239",
+  "unit": 24,
+  "unit_name": "Advanced Equilibrium",
+  "topic": "Solubility Equilibrium",
+  "question": "For Ag\u2082SO\u2084(s) \u21cc 2Ag\u207a + SO\u2084\u00b2\u207b, what is Ksp?",
+  "options": {
+    "A": "[Ag\u207a][SO\u2084\u00b2\u207b]",
+    "B": "[Ag\u207a]\u00b2[SO\u2084\u00b2\u207b]",
+    "C": "[Ag\u207a]\u00b2[SO\u2084\u00b2\u207b]/[Ag\u2082SO\u2084]",
+    "D": "[Ag\u2082SO\u2084]/[Ag\u207a][SO\u2084\u00b2\u207b]"
+  },
+  "answer": "B",
+  "explanation": "Ksp = [Ag\u207a]\u00b2[SO\u2084\u00b2\u207b]. Each concentration raised to power of stoichiometric coefficient."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "Q262",
+  "unit": 27,
+  "unit_name": "Environmental Chemistry",
+  "topic": "Greenhouse Effect",
+  "question": "What causes greenhouse effect?",
+  "options": {
+    "A": "Ozone only",
+    "B": "Greenhouse gases trapping heat in atmosphere",
+    "C": "Water vapor only",
+    "D": "No scientific cause"
+  },
+  "answer": "B",
+  "explanation": "Greenhouse gases (CO\u2082, CH\u2084, N\u2082O) absorb infrared radiation, trapping heat in atmosphere, warming Earth."
+}

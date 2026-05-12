@@ -1,0 +1,15 @@
+{
+  "id": "Q263",
+  "unit": 27,
+  "unit_name": "Environmental Chemistry",
+  "topic": "Ozone Depletion",
+  "question": "What depletes stratospheric ozone?",
+  "options": {
+    "A": "CO\u2082",
+    "B": "CFCs and halons",
+    "C": "Nitrogen",
+    "D": "Oxygen"
+  },
+  "answer": "B",
+  "explanation": "CFCs (chlorofluorocarbons) and halons break down ozone. Cl atoms from CFC catalyze O\u2083 destruction."
+}

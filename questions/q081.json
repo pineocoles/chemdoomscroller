@@ -1,0 +1,15 @@
+{
+  "id": "Q081",
+  "unit": 9,
+  "unit_name": "Thermochemistry",
+  "topic": "Energy",
+  "question": "What is enthalpy?",
+  "options": {
+    "A": "Heat released",
+    "B": "Total energy of a system",
+    "C": "Heat content at constant pressure",
+    "D": "Work done by system"
+  },
+  "answer": "C",
+  "explanation": "Enthalpy (H) is the heat content of a system at constant pressure. \u0394H represents the heat change in a reaction."
+}

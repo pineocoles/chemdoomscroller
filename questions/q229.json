@@ -1,0 +1,15 @@
+{
+  "id": "Q229",
+  "unit": 23,
+  "unit_name": "Complex Chemistry",
+  "topic": "Stability",
+  "question": "What determines complex stability?",
+  "options": {
+    "A": "Only charge",
+    "B": "Only size",
+    "C": "Charge density on metal + hardness/softness of ligand",
+    "D": "Random"
+  },
+  "answer": "C",
+  "explanation": "Stability depends on: hard acids prefer hard bases (small, electronegative); soft acids prefer soft bases (large, polarizable)."
+}

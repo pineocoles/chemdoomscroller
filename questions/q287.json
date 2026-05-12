@@ -1,0 +1,15 @@
+{
+  "id": "Q287",
+  "unit": 29,
+  "unit_name": "Final Review",
+  "topic": "Comprehensive",
+  "question": "What unified the periodic table?",
+  "options": {
+    "A": "Atomic mass only",
+    "B": "Chemical properties and atomic number",
+    "C": "Color groupings",
+    "D": "Density patterns"
+  },
+  "answer": "B",
+  "explanation": "Periodic table organized by atomic number (protons) and repeating chemical properties. Elements with similar properties in same group."
+}

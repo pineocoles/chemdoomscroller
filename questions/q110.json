@@ -1,0 +1,15 @@
+{
+  "id": "Q110",
+  "unit": 11,
+  "unit_name": "Chemical Equilibrium",
+  "topic": "Complex Ions",
+  "question": "What forms a complex ion?",
+  "options": {
+    "A": "Metal cation + ligands",
+    "B": "Acid + base",
+    "C": "Two nonmetals",
+    "D": "Proton + electron"
+  },
+  "answer": "A",
+  "explanation": "Complex ions form when ligands (Lewis bases) bond to metal cations (Lewis acids), like [Cu(NH\u2083)\u2084]\u00b2\u207a."
+}

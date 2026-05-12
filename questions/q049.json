@@ -1,0 +1,15 @@
+{
+  "id": "Q049",
+  "unit": 5,
+  "unit_name": "Solubility",
+  "topic": "Solubility Factors",
+  "question": "How does temperature affect solubility of most solids?",
+  "options": {
+    "A": "Decreases",
+    "B": "Increases",
+    "C": "Remains constant",
+    "D": "Becomes zero"
+  },
+  "answer": "B",
+  "explanation": "For most ionic solids, solubility increases with temperature as more kinetic energy aids dissolution by breaking ionic bonds."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "Q174",
+  "unit": 18,
+  "unit_name": "Reactions",
+  "topic": "Single Displacement",
+  "question": "What is single displacement?",
+  "options": {
+    "A": "AB + C \u2192 AC + B",
+    "B": "AB + CD \u2192 AD + CB",
+    "C": "Element replaces another element",
+    "D": "No displacement"
+  },
+  "answer": "C",
+  "explanation": "Single displacement: A + BC \u2192 AC + B. Example: Zn + 2HCl \u2192 ZnCl\u2082 + H\u2082."
+}

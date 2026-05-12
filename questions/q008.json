@@ -1,0 +1,15 @@
+{
+  "id": "Q008",
+  "unit": 1,
+  "unit_name": "Stoichiometric Relationships",
+  "topic": "Intro To Particulate Nature",
+  "question": "Why do gases expand to fill their container?",
+  "options": {
+    "A": "Gravity pulls particles downward",
+    "B": "Particles move randomly in all directions until uniformly distributed",
+    "C": "Particles are attracted to container walls",
+    "D": "Temperature always increases"
+  },
+  "answer": "B",
+  "explanation": "Gas particles move randomly with kinetic energy, traveling in straight lines until hitting something. They naturally distribute uniformly throughout available space through diffusion."
+}

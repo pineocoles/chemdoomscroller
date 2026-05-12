@@ -1,0 +1,15 @@
+{
+  "id": "Q208",
+  "unit": 21,
+  "unit_name": "Measurement",
+  "topic": "Temperature Conversion",
+  "question": "Convert 98.6\u00b0F to Celsius:",
+  "options": {
+    "A": "37\u00b0C",
+    "B": "45\u00b0C",
+    "C": "50\u00b0C",
+    "D": "67\u00b0C"
+  },
+  "answer": "A",
+  "explanation": "\u00b0C = (\u00b0F - 32)/1.8; (98.6 - 32)/1.8 = 66.6/1.8 = 37\u00b0C (body temperature)"
+}

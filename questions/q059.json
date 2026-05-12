@@ -1,0 +1,15 @@
+{
+  "id": "Q059",
+  "unit": 6,
+  "unit_name": "Solutions and Stoichiometry",
+  "topic": "Limiting Reactant",
+  "question": "What is the limiting reactant?",
+  "options": {
+    "A": "The reactant with the largest mass",
+    "B": "The reactant that completely reacts",
+    "C": "The reactant with the smallest molar mass",
+    "D": "The reactant produced"
+  },
+  "answer": "B",
+  "explanation": "The limiting reactant is the one that runs out first and completely reacts, determining the maximum amount of product."
+}

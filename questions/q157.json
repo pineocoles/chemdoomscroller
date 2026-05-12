@@ -1,0 +1,15 @@
+{
+  "id": "Q157",
+  "unit": 16,
+  "unit_name": "Advanced Topics",
+  "topic": "Electronegativity Trends",
+  "question": "Which element is most electronegative?",
+  "options": {
+    "A": "Cl",
+    "B": "Br",
+    "C": "I",
+    "D": "F"
+  },
+  "answer": "D",
+  "explanation": "Electronegativity decreases down a group and increases across period. F is top-right of periodic table."
+}

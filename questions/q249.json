@@ -1,0 +1,15 @@
+{
+  "id": "Q249",
+  "unit": 25,
+  "unit_name": "Spectroscopy Basics",
+  "topic": "Molar Absorptivity",
+  "question": "What does molar absorptivity (\u03b5) indicate?",
+  "options": {
+    "A": "How strongly substance absorbs light",
+    "B": "Wavelength of light",
+    "C": "Concentration",
+    "D": "Path length"
+  },
+  "answer": "A",
+  "explanation": "Molar absorptivity (\u03b5) has units L/(mol\u00b7cm). Higher \u03b5 = stronger light absorption at given wavelength."
+}

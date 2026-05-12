@@ -1,0 +1,15 @@
+{
+  "id": "Q063",
+  "unit": 7,
+  "unit_name": "Acids and Bases",
+  "topic": "Kw and pH",
+  "question": "What is the pH of a neutral solution at 25\u00b0C?",
+  "options": {
+    "A": "0",
+    "B": "5",
+    "C": "7",
+    "D": "14"
+  },
+  "answer": "C",
+  "explanation": "In neutral solutions, [H\u207a] = [OH\u207b] = 10\u207b\u2077 M, so pH = pOH = 7."
+}

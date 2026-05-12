@@ -1,0 +1,15 @@
+{
+  "id": "Q169",
+  "unit": 17,
+  "unit_name": "Solutions",
+  "topic": "Dissolution",
+  "question": "What drives dissolution?",
+  "options": {
+    "A": "Always entropy",
+    "B": "Always enthalpy",
+    "C": "Both entropy and enthalpy factors",
+    "D": "Neither"
+  },
+  "answer": "C",
+  "explanation": "Dissolution: \u0394G = \u0394H - T\u0394S. Spontaneous if \u0394G < 0. Both entropy (disorder) and enthalpy (interactions) matter."
+}

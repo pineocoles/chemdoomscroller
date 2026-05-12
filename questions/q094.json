@@ -1,0 +1,15 @@
+{
+  "id": "Q094",
+  "unit": 10,
+  "unit_name": "Kinetics",
+  "topic": "Activation Energy",
+  "question": "What is activation energy?",
+  "options": {
+    "A": "Minimum energy needed to start a reaction",
+    "B": "Total energy released",
+    "C": "Kinetic energy of products",
+    "D": "Energy of reactants"
+  },
+  "answer": "A",
+  "explanation": "Activation energy (E\u2090) is the minimum energy required for reactants to form products. Catalysts lower activation energy."
+}

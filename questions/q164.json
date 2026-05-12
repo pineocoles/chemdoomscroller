@@ -1,0 +1,15 @@
+{
+  "id": "Q164",
+  "unit": 17,
+  "unit_name": "Solutions",
+  "topic": "Osmosis",
+  "question": "What is osmosis?",
+  "options": {
+    "A": "Dissolving solute",
+    "B": "Movement of solvent through semipermeable membrane",
+    "C": "Mixing of gases",
+    "D": "Evaporation"
+  },
+  "answer": "B",
+  "explanation": "Osmosis is spontaneous movement of solvent from low to high solute concentration through semipermeable membrane."
+}

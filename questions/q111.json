@@ -1,0 +1,15 @@
+{
+  "id": "Q111",
+  "unit": 12,
+  "unit_name": "Electrochemistry",
+  "topic": "Galvanic Cells",
+  "question": "What is a galvanic cell?",
+  "options": {
+    "A": "Electrolytic cell",
+    "B": "Cell that converts chemical energy to electrical energy",
+    "C": "Heating device",
+    "D": "Storage battery"
+  },
+  "answer": "B",
+  "explanation": "A galvanic (voltaic) cell uses spontaneous redox reaction to produce electrical current. Used in batteries."
+}

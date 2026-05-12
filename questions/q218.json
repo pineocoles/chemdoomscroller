@@ -1,0 +1,15 @@
+{
+  "id": "Q218",
+  "unit": 22,
+  "unit_name": "Properties",
+  "topic": "Malleability",
+  "question": "Which property allows metal to be hammered into sheets?",
+  "options": {
+    "A": "Ductility",
+    "B": "Malleability",
+    "C": "Brittleness",
+    "D": "Crystallinity"
+  },
+  "answer": "B",
+  "explanation": "Malleability is ability to deform under compression without breaking. Like ductility but for hammering/compressing rather than pulling."
+}

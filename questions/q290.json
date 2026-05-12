@@ -1,0 +1,15 @@
+{
+  "id": "Q290",
+  "unit": 29,
+  "unit_name": "Final Review",
+  "topic": "Comprehensive",
+  "question": "What is the ultimate goal of chemistry?",
+  "options": {
+    "A": "Creating explosives",
+    "B": "Understanding matter interactions and creating useful materials",
+    "C": "Memorizing formulas",
+    "D": "Measuring temperatures"
+  },
+  "answer": "B",
+  "explanation": "Chemistry aims to understand matter interactions, predict properties, and develop new materials for medicine, energy, technology."
+}

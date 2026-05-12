@@ -1,0 +1,15 @@
+{
+  "id": "Q100",
+  "unit": 10,
+  "unit_name": "Kinetics",
+  "topic": "Mechanism",
+  "question": "What is a reaction mechanism?",
+  "options": {
+    "A": "Overall reaction equation",
+    "B": "Series of elementary steps showing how reaction occurs",
+    "C": "Rate law for the reaction",
+    "D": "Equilibrium constant expression"
+  },
+  "answer": "B",
+  "explanation": "A reaction mechanism is a sequence of elementary steps that shows the detailed pathway of how reactants form products."
+}

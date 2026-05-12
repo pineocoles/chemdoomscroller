@@ -1,0 +1,15 @@
+{
+  "id": "Q161",
+  "unit": 17,
+  "unit_name": "Solutions",
+  "topic": "Colligative Properties",
+  "question": "What is a colligative property?",
+  "options": {
+    "A": "Depends on chemical identity",
+    "B": "Depends only on number of solute particles",
+    "C": "Depends on color",
+    "D": "Depends on pressure"
+  },
+  "answer": "B",
+  "explanation": "Colligative properties (freezing point depression, boiling point elevation, vapor pressure lowering, osmotic pressure) depend on # of particles, not identity."
+}

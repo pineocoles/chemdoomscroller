@@ -1,0 +1,15 @@
+{
+  "id": "Q150",
+  "unit": 15,
+  "unit_name": "Chemistry Review",
+  "topic": "Oxidation States",
+  "question": "What is oxidation state of N in NO\u2083\u207b?",
+  "options": {
+    "A": "+3",
+    "B": "+4",
+    "C": "+5",
+    "D": "+6"
+  },
+  "answer": "C",
+  "explanation": "3O at -2 = -6. Ion charge = -1. So N = -1 - (-6) = +5"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "Q198",
+  "unit": 20,
+  "unit_name": "Bonding Concepts",
+  "topic": "Back Bonding",
+  "question": "What is back bonding in CO?",
+  "options": {
+    "A": "Bond between C and O only",
+    "B": "C\u2192O donation and O\u2192C back donation",
+    "C": "Multiple bonds",
+    "D": "No bonding"
+  },
+  "answer": "B",
+  "explanation": "In CO: \u03c3 bond from C\u2192O (donation), \u03c0 back bond from O\u2192C (back donation). This explains CO's unusual properties."
+}

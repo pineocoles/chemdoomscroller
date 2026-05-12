@@ -1,0 +1,15 @@
+{
+  "id": "Q055",
+  "unit": 6,
+  "unit_name": "Solutions and Stoichiometry",
+  "topic": "Percent Composition",
+  "question": "What is percent composition?",
+  "options": {
+    "A": "Percentage of each element by mass in a compound",
+    "B": "Percentage of atoms",
+    "C": "Percentage of moles",
+    "D": "Percentage of particles"
+  },
+  "answer": "A",
+  "explanation": "Percent composition is the percentage by mass of each element in a compound: (mass of element/total mass) \u00d7 100%"
+}

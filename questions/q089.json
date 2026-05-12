@@ -1,0 +1,15 @@
+{
+  "id": "Q089",
+  "unit": 9,
+  "unit_name": "Thermochemistry",
+  "topic": "Spontaneity",
+  "question": "A reaction is spontaneous when:",
+  "options": {
+    "A": "\u0394H > 0",
+    "B": "\u0394H < 0",
+    "C": "\u0394G < 0",
+    "D": "\u0394G > 0"
+  },
+  "answer": "C",
+  "explanation": "Spontaneity is determined by Gibbs free energy. When \u0394G < 0, the reaction is spontaneous. When \u0394G > 0, it is nonspontaneous."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "Q053",
+  "unit": 6,
+  "unit_name": "Solutions and Stoichiometry",
+  "topic": "Dilution",
+  "question": "What is the dilution equation?",
+  "options": {
+    "A": "M\u2081V\u2081 = M\u2082V\u2082",
+    "B": "M\u2081 + M\u2082 = M_total",
+    "C": "M\u2081 \u00d7 M\u2082 = constant",
+    "D": "V\u2081/M\u2081 = V\u2082/M\u2082"
+  },
+  "answer": "A",
+  "explanation": "The dilution equation M\u2081V\u2081 = M\u2082V\u2082 shows that molarity times volume is constant during dilution."
+}

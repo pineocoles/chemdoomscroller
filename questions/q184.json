@@ -1,0 +1,15 @@
+{
+  "id": "Q184",
+  "unit": 19,
+  "unit_name": "Group Trends",
+  "topic": "Transition Metals",
+  "question": "Where are transition metals located?",
+  "options": {
+    "A": "Group 1-2",
+    "B": "Groups 3-12",
+    "C": "Group 17-18",
+    "D": "Period 1"
+  },
+  "answer": "B",
+  "explanation": "Transition metals are in groups 3-12 (d-block). They have partially filled d orbitals and variable oxidation states."
+}

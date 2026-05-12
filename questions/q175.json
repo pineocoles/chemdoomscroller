@@ -1,0 +1,15 @@
+{
+  "id": "Q175",
+  "unit": 18,
+  "unit_name": "Reactions",
+  "topic": "Double Displacement",
+  "question": "What is double displacement?",
+  "options": {
+    "A": "AB + C \u2192 AC + B",
+    "B": "AB + CD \u2192 AD + CB",
+    "C": "One element replaces another",
+    "D": "Combination reaction"
+  },
+  "answer": "B",
+  "explanation": "Double displacement (metathesis): AB + CD \u2192 AD + CB. Example: HCl + NaOH \u2192 NaCl + H\u2082O."
+}

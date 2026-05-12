@@ -1,0 +1,15 @@
+{
+  "id": "Q211",
+  "unit": 22,
+  "unit_name": "Properties",
+  "topic": "Physical Properties",
+  "question": "What is a physical property?",
+  "options": {
+    "A": "Property that changes composition",
+    "B": "Property that doesn't change composition",
+    "C": "Property during burning",
+    "D": "Property involving oxygen"
+  },
+  "answer": "B",
+  "explanation": "Physical properties (color, melting point, density, solubility) don't change substance identity. Chemical properties involve composition change."
+}

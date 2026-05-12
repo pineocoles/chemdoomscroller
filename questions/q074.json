@@ -1,0 +1,15 @@
+{
+  "id": "Q074",
+  "unit": 8,
+  "unit_name": "Oxidation-Reduction",
+  "topic": "Redox Reactions",
+  "question": "What is oxidation?",
+  "options": {
+    "A": "Loss of electrons",
+    "B": "Gain of electrons",
+    "C": "Loss of oxygen",
+    "D": "Gain of hydrogen"
+  },
+  "answer": "A",
+  "explanation": "Oxidation is loss of electrons (OIL RIG: Oxidation Is Loss, Reduction Is Gain)."
+}

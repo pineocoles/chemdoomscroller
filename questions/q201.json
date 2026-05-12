@@ -1,0 +1,15 @@
+{
+  "id": "Q201",
+  "unit": 21,
+  "unit_name": "Measurement",
+  "topic": "Units",
+  "question": "What is SI base unit of mass?",
+  "options": {
+    "A": "Gram",
+    "B": "Pound",
+    "C": "Kilogram",
+    "D": "Ounce"
+  },
+  "answer": "C",
+  "explanation": "SI unit of mass is kilogram (kg). Gram is 1/1000 kilogram."
+}

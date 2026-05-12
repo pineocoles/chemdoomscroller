@@ -1,0 +1,15 @@
+{
+  "id": "Q173",
+  "unit": 18,
+  "unit_name": "Reactions",
+  "topic": "Synthesis",
+  "question": "What is synthesis reaction?",
+  "options": {
+    "A": "Breaking apart compounds",
+    "B": "Combination of elements/compounds to form new compound",
+    "C": "Exchange of ions",
+    "D": "Single displacement"
+  },
+  "answer": "B",
+  "explanation": "Synthesis: A + B \u2192 AB. Example: 2H\u2082 + O\u2082 \u2192 2H\u2082O."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "Q061",
+  "unit": 7,
+  "unit_name": "Acids and Bases",
+  "topic": "pH and pOH",
+  "question": "What is pH?",
+  "options": {
+    "A": "-log[H\u207a]",
+    "B": "log[H\u207a]",
+    "C": "log[OH\u207b]",
+    "D": "-log[OH\u207b]"
+  },
+  "answer": "A",
+  "explanation": "pH = -log[H\u207a]. It measures the concentration of hydrogen ions. pH < 7 is acidic, pH = 7 is neutral, pH > 7 is basic."
+}

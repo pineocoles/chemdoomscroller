@@ -1,0 +1,15 @@
+{
+  "id": "Q221",
+  "unit": 23,
+  "unit_name": "Complex Chemistry",
+  "topic": "Coordination Chemistry",
+  "question": "What is a ligand?",
+  "options": {
+    "A": "Metal cation",
+    "B": "Atom/molecule donating electron pair to metal",
+    "C": "Charged ion only",
+    "D": "Transition metal"
+  },
+  "answer": "B",
+  "explanation": "Ligand is Lewis base (electron pair donor) that bonds to metal cation (Lewis acid), forming complex ion."
+}

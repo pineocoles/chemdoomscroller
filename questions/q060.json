@@ -1,0 +1,15 @@
+{
+  "id": "Q060",
+  "unit": 6,
+  "unit_name": "Solutions and Stoichiometry",
+  "topic": "Percent Yield",
+  "question": "What is percent yield?",
+  "options": {
+    "A": "(Theoretical yield / Actual yield) \u00d7 100%",
+    "B": "(Actual yield / Theoretical yield) \u00d7 100%",
+    "C": "(Actual mass / Molar mass) \u00d7 100%",
+    "D": "(Moles / Volume) \u00d7 100%"
+  },
+  "answer": "B",
+  "explanation": "Percent yield = (actual yield / theoretical yield) \u00d7 100%. It shows efficiency of a reaction."
+}

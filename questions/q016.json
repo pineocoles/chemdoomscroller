@@ -1,0 +1,15 @@
+{
+  "id": "Q016",
+  "unit": 2,
+  "unit_name": "Stoichiometric Calculations",
+  "topic": "Mole Concept",
+  "question": "What is the relationship between moles and particles?",
+  "options": {
+    "A": "1 mole = 1000 particles",
+    "B": "1 mole = 6.02 \u00d7 10\u00b2\u00b3 particles",
+    "C": "1 mole = 10\u00b2\u2074 particles",
+    "D": "Moles and particles are unrelated"
+  },
+  "answer": "B",
+  "explanation": "One mole of any substance contains Avogadro's number of particles (6.02 \u00d7 10\u00b2\u00b3). This is the fundamental relationship in stoichiometry."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "Q001",
+  "unit": 1,
+  "unit_name": "Stoichiometric Relationships",
+  "topic": "Intro To Particulate Nature",
+  "question": "Which statement about the kinetic theory of matter is incorrect?",
+  "options": {
+    "A": "Gas particles have higher average kinetic energy than liquid particles",
+    "B": "Particles in solids vibrate in fixed positions",
+    "C": "Gas pressure results from collisions with container walls",
+    "D": "Particles in all states have no kinetic energy at 0 K"
+  },
+  "answer": "D",
+  "explanation": "According to kinetic theory, particles move in all states. At 0 K (absolute zero), particle motion theoretically stops, so option D is the correct answer stating 'no kinetic energy' which is the fundamental principle."
+}

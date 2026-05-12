@@ -1,0 +1,15 @@
+{
+  "id": "Q202",
+  "unit": 21,
+  "unit_name": "Measurement",
+  "topic": "Units",
+  "question": "Convert 55 mph to m/s:",
+  "options": {
+    "A": "24.6 m/s",
+    "B": "12.3 m/s",
+    "C": "55 m/s",
+    "D": "1.5 m/s"
+  },
+  "answer": "A",
+  "explanation": "55 mi/hr \u00d7 (1.609 km/mi) \u00d7 (1000 m/km) \u00d7 (1 hr/3600 s) \u2248 24.6 m/s"
+}

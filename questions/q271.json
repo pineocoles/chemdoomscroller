@@ -1,0 +1,15 @@
+{
+  "id": "Q271",
+  "unit": 28,
+  "unit_name": "Special Topics",
+  "topic": "Biochemistry",
+  "question": "What is a protein?",
+  "options": {
+    "A": "Carbohydrate polymer",
+    "B": "Biopolymer of amino acids",
+    "C": "Lipid molecule",
+    "D": "Nucleic acid"
+  },
+  "answer": "B",
+  "explanation": "Proteins are polymers of amino acids linked by peptide bonds. Essential for structure, function, catalysis."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "Q039",
+  "unit": 4,
+  "unit_name": "Hybridization",
+  "topic": "sp Hybridization",
+  "question": "What hybridization does carbon have in CO\u2082?",
+  "options": {
+    "A": "sp",
+    "B": "sp\u00b2",
+    "C": "sp\u00b3",
+    "D": "sp\u00b3d"
+  },
+  "answer": "A",
+  "explanation": "Carbon in CO\u2082 is sp hybridized with 2 \u03c3 bonds and 2 \u03c0 bonds, giving linear geometry."
+}

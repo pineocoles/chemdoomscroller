@@ -1,0 +1,15 @@
+{
+  "id": "Q139",
+  "unit": 14,
+  "unit_name": "Nuclear Chemistry",
+  "topic": "Binding Energy",
+  "question": "What is binding energy?",
+  "options": {
+    "A": "Energy needed to break bonds",
+    "B": "Energy released when nucleons combine to form nucleus",
+    "C": "Thermal energy",
+    "D": "Kinetic energy"
+  },
+  "answer": "B",
+  "explanation": "Binding energy is energy released when nucleons combine. It comes from mass defect: E = \u0394m\u00b7c\u00b2."
+}

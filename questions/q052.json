@@ -1,0 +1,15 @@
+{
+  "id": "Q052",
+  "unit": 6,
+  "unit_name": "Solutions and Stoichiometry",
+  "topic": "Molarity",
+  "question": "What is the molarity of a solution with 2 moles NaCl in 500 mL?",
+  "options": {
+    "A": "1 M",
+    "B": "2 M",
+    "C": "4 M",
+    "D": "8 M"
+  },
+  "answer": "C",
+  "explanation": "Molarity = moles/volume(L) = 2 mol / 0.5 L = 4 M"
+}

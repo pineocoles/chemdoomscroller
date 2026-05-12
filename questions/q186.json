@@ -1,0 +1,15 @@
+{
+  "id": "Q186",
+  "unit": 19,
+  "unit_name": "Group Trends",
+  "topic": "Periodic Trends",
+  "question": "Which decreases down a group?",
+  "options": {
+    "A": "Atomic radius",
+    "B": "Ionization energy",
+    "C": "Electronegativity",
+    "D": "Both B and C"
+  },
+  "answer": "D",
+  "explanation": "Going down a group: atomic radius increases, ionization energy decreases, electronegativity decreases (valence electrons farther)."
+}

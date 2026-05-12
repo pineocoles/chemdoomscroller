@@ -1,0 +1,15 @@
+{
+  "id": "Q105",
+  "unit": 11,
+  "unit_name": "Chemical Equilibrium",
+  "topic": "Temperature Effects",
+  "question": "How does temperature affect exothermic equilibrium?",
+  "options": {
+    "A": "Shifts right",
+    "B": "Shifts left",
+    "C": "No effect",
+    "D": "Increases K"
+  },
+  "answer": "B",
+  "explanation": "For exothermic reactions, increasing T shifts equilibrium left (toward reactants) and decreases K."
+}

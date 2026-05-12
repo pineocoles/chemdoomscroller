@@ -1,0 +1,15 @@
+{
+  "id": "Q042",
+  "unit": 5,
+  "unit_name": "Intermolecular Forces",
+  "topic": "Dipole-Dipole Forces",
+  "question": "What causes dipole-dipole forces?",
+  "options": {
+    "A": "Sharing of electrons",
+    "B": "Transfer of electrons",
+    "C": "Unequal distribution of charge in molecules",
+    "D": "Metallic bonding"
+  },
+  "answer": "C",
+  "explanation": "Dipole-dipole forces exist between polar molecules with permanent dipole moments caused by electronegativity differences."
+}

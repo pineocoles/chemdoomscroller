@@ -1,0 +1,15 @@
+{
+  "id": "Q125",
+  "unit": 13,
+  "unit_name": "Organic Chemistry",
+  "topic": "Isomers",
+  "question": "What are isomers?",
+  "options": {
+    "A": "Compounds with different molecular formulas",
+    "B": "Compounds with same molecular formula but different structure",
+    "C": "Same compound with different names",
+    "D": "Compounds in different states"
+  },
+  "answer": "B",
+  "explanation": "Isomers have same molecular formula but different structural arrangements, leading to different properties."
+}

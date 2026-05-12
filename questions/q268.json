@@ -1,0 +1,15 @@
+{
+  "id": "Q268",
+  "unit": 27,
+  "unit_name": "Environmental Chemistry",
+  "topic": "Pesticides",
+  "question": "What is bioaccumulation?",
+  "options": {
+    "A": "Growth of organisms",
+    "B": "Accumulation of substances in organisms over time",
+    "C": "Breakdown of chemicals",
+    "D": "Water flow"
+  },
+  "answer": "B",
+  "explanation": "Bioaccumulation: toxic substances accumulate in organisms, increasing concentration at higher trophic levels (biomagnification)."
+}

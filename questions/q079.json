@@ -1,0 +1,15 @@
+{
+  "id": "Q079",
+  "unit": 8,
+  "unit_name": "Oxidation-Reduction",
+  "topic": "Electron Transfer",
+  "question": "How many electrons are transferred when Fe\u2082\u207a is oxidized to Fe\u2083\u207a?",
+  "options": {
+    "A": "0",
+    "B": "1",
+    "C": "2",
+    "D": "3"
+  },
+  "answer": "B",
+  "explanation": "Fe\u2082\u207a \u2192 Fe\u2083\u207a + e\u207b. One electron is lost per Fe atom oxidized."
+}

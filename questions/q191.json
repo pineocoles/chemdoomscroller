@@ -1,0 +1,15 @@
+{
+  "id": "Q191",
+  "unit": 20,
+  "unit_name": "Bonding Concepts",
+  "topic": "Polar Bonds",
+  "question": "What makes a bond polar?",
+  "options": {
+    "A": "Both atoms identical",
+    "B": "Electronegativity difference",
+    "C": "Same number of electrons",
+    "D": "Both nonmetals"
+  },
+  "answer": "B",
+  "explanation": "Covalent bond is polar when electronegativity difference exists (0.4-1.7). Electrons spend more time with more electronegative atom."
+}

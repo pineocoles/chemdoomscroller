@@ -1,0 +1,15 @@
+{
+  "id": "Q048",
+  "unit": 5,
+  "unit_name": "Solubility",
+  "topic": "Like Dissolves Like",
+  "question": "Which statement best explains the 'like dissolves like' principle?",
+  "options": {
+    "A": "All solids dissolve in water",
+    "B": "Polar solvents dissolve polar solutes, nonpolar solvents dissolve nonpolar solutes",
+    "C": "All liquids are miscible",
+    "D": "Only ionic compounds dissolve"
+  },
+  "answer": "B",
+  "explanation": "'Like dissolves like' means that similar polarity dissolves together. Polar solvents dissolve polar/ionic solutes; nonpolar solvents dissolve nonpolar solutes."
+}

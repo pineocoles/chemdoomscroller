@@ -1,0 +1,15 @@
+{
+  "id": "Q092",
+  "unit": 10,
+  "unit_name": "Kinetics",
+  "topic": "Factors Affecting Rate",
+  "question": "Which factor increases reaction rate?",
+  "options": {
+    "A": "Decreasing temperature",
+    "B": "Decreasing concentration",
+    "C": "Increasing surface area",
+    "D": "Decreasing catalyst amount"
+  },
+  "answer": "C",
+  "explanation": "Increasing surface area of reactants increases collision frequency and reaction rate. This is why powders react faster than chunks."
+}

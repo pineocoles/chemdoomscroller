@@ -1,0 +1,15 @@
+{
+  "id": "Q106",
+  "unit": 11,
+  "unit_name": "Chemical Equilibrium",
+  "topic": "Catalyst Effect",
+  "question": "How does a catalyst affect equilibrium?",
+  "options": {
+    "A": "Shifts equilibrium position",
+    "B": "Changes equilibrium constant",
+    "C": "No effect on equilibrium position",
+    "D": "Stops reaction"
+  },
+  "answer": "C",
+  "explanation": "A catalyst speeds up both forward and reverse reactions equally. It doesn't change equilibrium position or K value."
+}

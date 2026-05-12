@@ -1,0 +1,15 @@
+{
+  "id": "Q101",
+  "unit": 11,
+  "unit_name": "Chemical Equilibrium",
+  "topic": "Equilibrium Constant",
+  "question": "What is the equilibrium constant?",
+  "options": {
+    "A": "Rate of forward reaction",
+    "B": "Ratio of products to reactants at equilibrium",
+    "C": "Speed of reaction",
+    "D": "Change in temperature"
+  },
+  "answer": "B",
+  "explanation": "Equilibrium constant K = [products]/[reactants] at equilibrium. K > 1 favors products; K < 1 favors reactants."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "Q056",
+  "unit": 6,
+  "unit_name": "Solutions and Stoichiometry",
+  "topic": "Empirical Formula",
+  "question": "What is the empirical formula?",
+  "options": {
+    "A": "The actual formula of a compound",
+    "B": "The simplest whole number ratio of atoms",
+    "C": "The most probable formula",
+    "D": "A formula containing only one type of atom"
+  },
+  "answer": "B",
+  "explanation": "The empirical formula shows the simplest whole number ratio of elements in a compound. It may differ from the molecular formula."
+}

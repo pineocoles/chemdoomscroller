@@ -1,0 +1,15 @@
+{
+  "id": "Q258",
+  "unit": 26,
+  "unit_name": "Polymers",
+  "topic": "Thermosets",
+  "question": "What is a thermoset?",
+  "options": {
+    "A": "Plastic that can be remelted",
+    "B": "Plastic that hardens permanently on heating",
+    "C": "Elastic plastic",
+    "D": "Stretchy polymer"
+  },
+  "answer": "B",
+  "explanation": "Thermosets harden permanently through cross-linking during heating. Can't be remelted. Examples: epoxy, bakelite."
+}

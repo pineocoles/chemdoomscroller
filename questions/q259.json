@@ -1,0 +1,15 @@
+{
+  "id": "Q259",
+  "unit": 26,
+  "unit_name": "Polymers",
+  "topic": "Polymerization Degree",
+  "question": "What is degree of polymerization?",
+  "options": {
+    "A": "Type of polymer",
+    "B": "Number of monomers in polymer chain",
+    "C": "Molecular weight",
+    "D": "Color intensity"
+  },
+  "answer": "B",
+  "explanation": "Degree of polymerization (DP) = number of monomer units in polymer. Higher DP = longer chain = higher molecular weight."
+}

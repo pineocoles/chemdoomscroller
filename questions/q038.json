@@ -1,0 +1,15 @@
+{
+  "id": "Q038",
+  "unit": 4,
+  "unit_name": "Hybridization",
+  "topic": "sp\u00b3 Hybridization",
+  "question": "What is the hybridization of carbon in CH\u2084?",
+  "options": {
+    "A": "sp",
+    "B": "sp\u00b2",
+    "C": "sp\u00b3",
+    "D": "d\u00b2sp\u00b3"
+  },
+  "answer": "C",
+  "explanation": "Carbon in CH\u2084 is sp\u00b3 hybridized, forming 4 equal \u03c3 bonds in tetrahedral geometry."
+}

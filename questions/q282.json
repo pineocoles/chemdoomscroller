@@ -1,0 +1,15 @@
+{
+  "id": "Q282",
+  "unit": 29,
+  "unit_name": "Final Review",
+  "topic": "Comprehensive",
+  "question": "What is the most abundant element in universe?",
+  "options": {
+    "A": "Oxygen",
+    "B": "Carbon",
+    "C": "Hydrogen",
+    "D": "Nitrogen"
+  },
+  "answer": "C",
+  "explanation": "Hydrogen (~75% by mass) is most abundant element in universe. Helium is second. Heavier elements form in stars."
+}

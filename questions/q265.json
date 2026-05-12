@@ -1,0 +1,15 @@
+{
+  "id": "Q265",
+  "unit": 27,
+  "unit_name": "Environmental Chemistry",
+  "topic": "Water Pollution",
+  "question": "What is water pollution?",
+  "options": {
+    "A": "Presence of water",
+    "B": "Contamination of water with harmful substances",
+    "C": "Water flowing",
+    "D": "Rain falling"
+  },
+  "answer": "B",
+  "explanation": "Water pollution: harmful substances (pesticides, heavy metals, bacteria, excess nutrients) contaminating water supplies."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "Q248",
+  "unit": 25,
+  "unit_name": "Spectroscopy Basics",
+  "topic": "Hypsochromic Shift",
+  "question": "What is hypsochromic shift?",
+  "options": {
+    "A": "Shift to longer wavelength",
+    "B": "Shift to shorter wavelength",
+    "C": "No shift",
+    "D": "Wavelength unchanged"
+  },
+  "answer": "B",
+  "explanation": "Hypsochromic shift (blue shift): \u03bbmax moves to shorter wavelength, higher energy. Opposite of bathochromic shift."
+}

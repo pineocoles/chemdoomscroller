@@ -1,0 +1,15 @@
+{
+  "id": "Q146",
+  "unit": 15,
+  "unit_name": "Chemistry Review",
+  "topic": "Scientific Notation",
+  "question": "Express 0.00045 in scientific notation:",
+  "options": {
+    "A": "4.5 \u00d7 10\u207b\u2074",
+    "B": "4.5 \u00d7 10\u207b\u00b3",
+    "C": "4.5 \u00d7 10\u207b\u2075",
+    "D": "4.5 \u00d7 10\u2074"
+  },
+  "answer": "A",
+  "explanation": "Move decimal 4 places right: 4.5 \u00d7 10\u207b\u2074. Negative exponent for numbers less than 1."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "Q215",
+  "unit": 22,
+  "unit_name": "Properties",
+  "topic": "Hardness",
+  "question": "What determines hardness?",
+  "options": {
+    "A": "Density only",
+    "B": "Bond strength and structure",
+    "C": "Color",
+    "D": "Transparency"
+  },
+  "answer": "B",
+  "explanation": "Hardness depends on bond strength (strong bonds = harder) and crystal structure (how tightly atoms packed)."
+}

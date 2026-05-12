@@ -1,0 +1,15 @@
+{
+  "id": "Q238",
+  "unit": 24,
+  "unit_name": "Advanced Equilibrium",
+  "topic": "Common Ion Effect",
+  "question": "Effect of common ion on weak acid equilibrium:",
+  "options": {
+    "A": "Increases dissociation",
+    "B": "Decreases dissociation (shifts left)",
+    "C": "No effect",
+    "D": "Increases pH only"
+  },
+  "answer": "B",
+  "explanation": "Adding common ion (like acetate to acetic acid) shifts equilibrium left, decreasing dissociation of weak acid."
+}

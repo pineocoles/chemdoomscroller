@@ -1,0 +1,15 @@
+{
+  "id": "Q241",
+  "unit": 25,
+  "unit_name": "Spectroscopy Basics",
+  "topic": "Beer's Law",
+  "question": "What does Beer-Lambert Law state?",
+  "options": {
+    "A": "Light always transmits",
+    "B": "Absorbance = \u03b5 \u00d7 b \u00d7 c",
+    "C": "Light never absorbs",
+    "D": "Transmittance increases"
+  },
+  "answer": "B",
+  "explanation": "A = \u03b5bc where A=absorbance, \u03b5=molar absorptivity, b=path length, c=concentration. Higher concentration = higher absorption."
+}

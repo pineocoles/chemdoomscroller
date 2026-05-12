@@ -1,0 +1,15 @@
+{
+  "id": "Q129",
+  "unit": 13,
+  "unit_name": "Organic Chemistry",
+  "topic": "Ethers",
+  "question": "What is an ether?",
+  "options": {
+    "A": "Compound with OH",
+    "B": "Compound with C-O-C linkage",
+    "C": "Compound with NH\u2082",
+    "D": "Compound with C=O"
+  },
+  "answer": "B",
+  "explanation": "Ethers have R-O-R' structure (carbon-oxygen-carbon). Examples: diethyl ether, dimethyl ether."
+}

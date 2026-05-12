@@ -1,0 +1,15 @@
+{
+  "id": "Q103",
+  "unit": 11,
+  "unit_name": "Chemical Equilibrium",
+  "topic": "Stress Effects",
+  "question": "How does adding reactant affect equilibrium?",
+  "options": {
+    "A": "Shifts left",
+    "B": "No change",
+    "C": "Shifts right",
+    "D": "Stops reaction"
+  },
+  "answer": "C",
+  "explanation": "Adding reactant increases Q below K, so system shifts right to produce products and re-establish equilibrium."
+}

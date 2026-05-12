@@ -1,0 +1,15 @@
+{
+  "id": "Q107",
+  "unit": 11,
+  "unit_name": "Chemical Equilibrium",
+  "topic": "Ion Product",
+  "question": "What is Ksp?",
+  "options": {
+    "A": "Solubility product constant",
+    "B": "Acid dissociation constant",
+    "C": "Base dissociation constant",
+    "D": "Rate constant"
+  },
+  "answer": "A",
+  "explanation": "Ksp is the solubility product constant, describing the equilibrium between a solid and its ions in solution."
+}

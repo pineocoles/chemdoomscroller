@@ -1,0 +1,15 @@
+{
+  "id": "Q135",
+  "unit": 14,
+  "unit_name": "Nuclear Chemistry",
+  "topic": "Half-Life",
+  "question": "What is the half-life of radioactive nucleus?",
+  "options": {
+    "A": "Time nucleus exists",
+    "B": "Time for half of nuclei to decay",
+    "C": "Time to complete decay",
+    "D": "Time between decays"
+  },
+  "answer": "B",
+  "explanation": "Half-life (t\u2081/\u2082) is time for half of radioactive sample to decay. After 3 half-lives, 1/8 of original remains."
+}
