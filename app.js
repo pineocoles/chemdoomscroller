@@ -569,6 +569,13 @@ function resetFeed() {
 function attachScrollObserver() {
   const feed = document.getElementById("feed");
   feed.addEventListener("scroll", () => {
+    const lb = document.getElementById("leaderboard");
+
+    if (feed.scrollTop > window.innerHeight * 0.5) {
+      lb.classList.add("hidden");
+    } else {
+      lb.classList.remove("hidden");
+    }
     const scrollPos = feed.scrollTop;
     const viewportH = window.innerHeight;
     const totalH = feed.scrollHeight;
